@@ -1,0 +1,1590 @@
+,Unnamed: 0,period_id,minute,second,outcome,start_x,start_y,end_x,end_y,type_name,FullName,Position,Team,start_frameID
+0,0,1,0,0,True,52.5,34.0,31.82,32.1,Pass,Team_A_Player_10,Striker,Team_A,1104770
+1,1,1,0,2,True,31.82,31.96,86.2,67.12,Pass,Team_A_Player_4,Defender,Team_A,1104820
+2,2,1,0,8,True,14.6,-0.95,14.6,-0.95,Out,Team_B_Player_4,Defender,Team_B,1104990
+3,3,1,0,8,False,90.4,68.95,90.4,68.95,Out,Team_A_Player_4,Defender,Team_A,1104989
+4,4,1,0,20,True,17.22,0.0,30.87,21.08,Pass,Team_B_Player_4,Defender,Team_B,1105294
+5,5,1,0,22,True,30.87,21.08,34.76,18.09,Pass,Team_B_Player_9,Striker,Team_B,1105336
+6,6,1,0,25,True,59.01,48.96,55.54,44.68,Pass,Team_A_Player_6,Midfielder,Team_A,1105419
+7,7,1,0,26,True,55.34,42.91,55.34,42.91,Ball recovery,Team_A_Player_2,Defender,Team_A,1105444
+8,8,1,0,27,True,55.34,42.91,50.82,49.37,Pass,Team_A_Player_2,Defender,Team_A,1105447
+9,9,1,0,27,True,56.28,49.16,41.26,45.42,Pass,Team_A_Player_7,Midfielder,Team_A,1105458
+10,10,1,0,29,True,37.17,41.14,57.22,65.42,Pass,Team_A_Player_3,Defender,Team_A,1105495
+11,11,1,0,32,True,57.12,65.42,62.9,57.39,Pass,Team_A_Player_1,Defender,Team_A,1105589
+12,12,1,0,34,True,62.79,57.19,53.13,67.52,Pass,Team_A_Player_9,Striker,Team_A,1105620
+13,13,1,0,35,True,53.66,67.52,40.11,60.52,Pass,Team_A_Player_1,Defender,Team_A,1105648
+14,14,1,0,37,True,39.06,57.32,36.22,25.09,Pass,Team_A_Player_4,Defender,Team_A,1105695
+15,15,1,0,41,True,36.33,29.24,40.32,49.98,Pass,Team_A_Player_3,Defender,Team_A,1105805
+16,16,1,0,44,True,41.26,50.86,58.38,66.23,Pass,Team_A_Player_4,Defender,Team_A,1105870
+17,17,1,0,47,True,51.34,63.38,33.49,37.33,Pass,Team_A_Player_1,Defender,Team_A,1105962
+18,18,1,0,50,True,32.55,37.47,38.85,18.56,Pass,Team_A_Player_3,Defender,Team_A,1106037
+19,19,1,0,57,True,59.74,11.15,73.08,1.97,Pass,Team_A_Player_7,Midfielder,Team_A,1106197
+20,20,1,0,58,False,74.13,1.56,74.13,1.56,Take on,Team_A_Player_2,Defender,Team_A,1106239
+21,21,1,0,58,True,30.87,66.44,30.87,66.44,Tackle,Team_B_Player_9,Striker,Team_B,1106241
+22,22,1,0,59,False,31.08,68.54,31.08,68.54,Out,Team_B_Player_9,Striker,Team_B,1106255
+23,23,1,0,59,True,73.92,-0.54,73.92,-0.54,Out,Team_A_Player_2,Defender,Team_A,1106245
+24,24,1,1,4,True,71.4,0.0,90.82,19.04,Pass,Team_A_Player_2,Defender,Team_A,1106372
+25,25,1,1,6,False,94.08,21.35,87.99,24.96,Pass,Team_A_Player_10,Striker,Team_A,1106430
+26,26,1,1,15,True,55.34,66.23,64.78,59.64,Pass,Team_A_Player_4,Defender,Team_A,1106650
+27,27,1,1,20,False,70.56,63.99,95.13,51.68,Pass,Team_A_Player_6,Midfielder,Team_A,1106770
+28,28,1,1,24,False,5.46,0.68,5.46,0.68,Corner awarded,Team_B_Player_2,Defender,Team_B,1106870
+29,29,1,1,24,True,99.54,67.32,99.54,67.32,Corner awarded,Team_A_Player_6,Midfielder,Team_A,1106870
+30,30,1,1,55,False,104.58,67.66,101.22,32.98,Pass,Team_A_Player_8,Striker,Team_A,1107654
+31,31,1,1,57,True,101.85,31.48,105.0,32.91,Goal,Team_A_Player_5,Midfielder,Team_A,1107701
+32,32,1,2,47,True,52.5,33.93,39.8,36.31,Pass,Team_B_Player_10,Striker,Team_B,1108962
+33,33,1,2,47,True,41.79,40.12,27.83,31.89,Pass,Team_B_Player_6,Midfielder,Team_B,1108969
+34,34,1,2,50,True,29.51,21.56,35.6,6.05,Pass,Team_B_Player_2,Defender,Team_B,1109022
+35,35,1,2,53,True,37.59,4.96,29.82,21.76,Pass,Team_B_Player_4,Defender,Team_B,1109098
+36,36,1,2,55,True,32.34,25.64,34.86,44.2,Pass,Team_B_Player_2,Defender,Team_B,1109169
+37,37,1,2,58,True,42.32,46.72,66.36,63.17,Pass,Team_B_Player_7,Midfielder,Team_B,1109226
+38,38,1,2,59,False,66.36,63.17,79.06,62.15,Pass,Team_B_Player_3,Defender,Team_B,1109245
+39,39,1,3,1,True,19.01,5.37,19.01,5.37,Interception,Team_A_Player_3,Defender,Team_A,1109312
+40,40,1,3,2,True,86.0,68.27,86.0,68.27,Out,Team_B_Player_3,Defender,Team_B,1109325
+41,41,1,3,2,False,19.01,-0.27,19.01,-0.27,Out,Team_A_Player_3,Defender,Team_A,1109323
+42,42,1,3,5,True,82.42,68.0,82.53,63.65,Pass,Team_B_Player_9,Striker,Team_B,1109405
+43,43,1,3,5,True,83.79,63.44,84.84,66.44,Pass,Team_B_Player_3,Defender,Team_B,1109418
+44,44,1,3,6,True,84.84,66.44,105.0,61.34,Pass,Team_B_Player_9,Striker,Team_B,1109439
+45,45,1,3,10,False,105.84,59.91,105.84,59.91,Out,Team_B_Player_9,Striker,Team_B,1109544
+46,46,1,3,10,True,-0.84,8.09,-0.84,8.09,Out,Team_A_Player_5,Midfielder,Team_A,1109520
+47,47,1,3,37,False,5.14,33.86,61.11,60.18,Pass,Team_A_Player_0,Goalkeeper,Team_A,1110215
+48,48,1,3,44,False,42.42,-1.22,42.42,-1.22,Out,Team_B_Player_5,Striker,Team_B,1110382
+49,49,1,3,44,True,62.58,69.22,62.58,69.22,Out,Team_A_Player_5,Midfielder,Team_A,1110370
+50,50,1,3,55,True,67.94,68.0,47.46,63.17,Pass,Team_A_Player_1,Defender,Team_A,1110655
+51,51,1,3,58,True,44.31,58.48,38.12,41.28,Pass,Team_A_Player_4,Defender,Team_A,1110738
+52,52,1,4,1,True,38.43,39.85,43.26,57.94,Pass,Team_A_Player_3,Defender,Team_A,1110806
+53,53,1,4,4,True,43.89,60.66,61.11,57.73,Pass,Team_A_Player_4,Defender,Team_A,1110872
+54,54,1,4,6,True,44.31,21.56,44.31,21.56,Ball recovery,Team_B_Player_7,Midfielder,Team_B,1110920
+55,55,1,4,7,True,44.31,21.56,48.4,18.43,Pass,Team_B_Player_7,Midfielder,Team_B,1110947
+56,56,1,4,8,True,48.4,18.43,82.32,15.98,Pass,Team_B_Player_6,Midfielder,Team_B,1110991
+57,57,1,4,12,False,92.82,16.18,93.03,17.41,Pass,Team_B_Player_10,Striker,Team_B,1111070
+58,58,1,4,14,True,11.55,60.11,11.55,60.11,Ball recovery,Team_A_Player_3,Defender,Team_A,1111144
+59,59,1,4,16,True,27.51,64.74,39.16,65.89,Pass,Team_A_Player_3,Defender,Team_A,1111188
+60,60,1,4,17,True,46.72,65.08,38.54,60.59,Pass,Team_A_Player_1,Defender,Team_A,1111211
+61,61,1,4,18,True,38.54,60.52,42.74,64.87,Pass,Team_A_Player_6,Midfielder,Team_A,1111243
+62,62,1,4,19,True,30.66,64.6,30.66,64.6,Dispossessed,Team_A_Player_1,Defender,Team_A,1111265
+63,63,1,4,20,False,74.34,3.4,74.34,3.4,Tackle,Team_B_Player_6,Midfielder,Team_B,1111280
+64,64,1,4,22,True,39.9,67.25,50.08,66.03,Pass,Team_A_Player_1,Defender,Team_A,1111344
+65,65,1,4,26,True,48.61,65.42,45.78,61.4,Pass,Team_A_Player_10,Striker,Team_A,1111435
+66,66,1,4,27,True,46.62,61.06,46.83,52.29,Pass,Team_A_Player_6,Midfielder,Team_A,1111455
+67,67,1,4,34,True,61.53,62.42,70.88,60.11,Pass,Team_A_Player_5,Midfielder,Team_A,1111620
+68,68,1,4,35,True,71.4,60.25,87.26,66.23,Pass,Team_A_Player_10,Striker,Team_A,1111649
+69,69,1,4,37,False,87.88,66.1,93.34,52.16,Pass,Team_A_Player_5,Midfielder,Team_A,1111700
+70,70,1,4,38,True,7.35,19.65,7.35,19.65,Ball recovery,Team_B_Player_1,Defender,Team_B,1111744
+71,71,1,4,41,True,9.45,16.86,26.14,26.18,Pass,Team_B_Player_1,Defender,Team_B,1111819
+72,72,1,4,49,True,46.41,35.22,60.69,33.32,Pass,Team_B_Player_6,Midfielder,Team_B,1112019
+73,73,1,4,50,True,66.99,32.98,66.99,32.98,Dispossessed,Team_B_Player_8,Midfielder,Team_B,1112023
+74,74,1,4,51,True,38.01,35.02,38.01,35.02,Tackle,Team_A_Player_7,Midfielder,Team_A,1112045
+75,75,1,4,51,True,35.18,37.06,25.62,33.18,Pass,Team_A_Player_6,Midfielder,Team_A,1112045
+76,76,1,4,53,False,23.2,42.3,24.15,40.46,Pass,Team_A_Player_4,Defender,Team_A,1112096
+77,77,1,4,56,False,99.85,68.54,99.85,68.54,Out,Team_B_Player_5,Striker,Team_B,1112170
+78,78,1,4,56,True,5.14,-0.54,5.14,-0.54,Out,Team_A_Player_6,Midfielder,Team_A,1112170
+79,79,1,5,18,False,7.45,0.0,24.99,2.58,Pass,Team_A_Player_2,Defender,Team_A,1112728
+80,80,1,5,20,True,73.6,63.51,73.6,63.51,Interception,Team_B_Player_7,Midfielder,Team_B,1112770
+81,81,1,5,21,True,80.64,69.02,80.64,69.02,Out,Team_B_Player_7,Midfielder,Team_B,1112796
+82,82,1,5,21,False,24.36,-1.02,24.36,-1.02,Out,Team_A_Player_5,Midfielder,Team_A,1112795
+83,83,1,5,30,True,80.22,68.0,91.24,62.83,Pass,Team_B_Player_3,Defender,Team_B,1113020
+84,84,1,5,32,False,91.24,62.83,81.17,59.77,Pass,Team_B_Player_10,Striker,Team_B,1113075
+85,85,1,5,34,False,24.36,8.36,31.6,9.93,Pass,Team_A_Player_8,Striker,Team_A,1113129
+86,86,1,5,35,True,73.6,60.79,74.55,65.82,Pass,Team_B_Player_6,Midfielder,Team_B,1113146
+87,87,1,5,36,True,74.66,65.82,60.06,60.93,Pass,Team_B_Player_3,Defender,Team_B,1113194
+88,88,1,5,38,True,60.59,59.3,52.92,23.53,Pass,Team_B_Player_1,Defender,Team_B,1113244
+89,89,1,5,42,True,53.44,23.87,48.3,29.04,Pass,Team_B_Player_4,Defender,Team_B,1113330
+90,90,1,5,43,True,48.3,31.76,49.77,17.61,Pass,Team_B_Player_2,Defender,Team_B,1113368
+91,91,1,5,46,True,60.48,16.8,66.78,2.52,Pass,Team_B_Player_4,Defender,Team_B,1113420
+92,92,1,5,48,True,66.68,2.79,54.6,7.89,Pass,Team_B_Player_5,Striker,Team_B,1113490
+93,93,1,5,51,True,54.28,8.23,46.2,42.16,Pass,Team_B_Player_4,Defender,Team_B,1113559
+94,94,1,5,55,True,58.06,47.12,74.86,65.01,Pass,Team_B_Player_1,Defender,Team_B,1113645
+95,95,1,5,58,True,72.45,65.62,58.49,65.08,Pass,Team_B_Player_3,Defender,Team_B,1113744
+96,96,1,6,1,True,60.27,64.8,50.92,35.29,Pass,Team_B_Player_1,Defender,Team_B,1113819
+97,97,1,6,3,True,50.92,34.07,58.06,9.93,Pass,Team_B_Player_2,Defender,Team_B,1113858
+98,98,1,6,6,True,59.43,9.04,70.35,20.06,Pass,Team_B_Player_4,Defender,Team_B,1113920
+99,99,1,6,8,False,70.46,19.72,74.66,15.84,Pass,Team_B_Player_6,Midfielder,Team_B,1113972
+100,100,1,6,8,True,34.44,44.13,34.44,44.13,Interception,Team_A_Player_6,Midfielder,Team_A,1113984
+101,101,1,6,10,True,68.88,16.46,75.39,12.38,Pass,Team_B_Player_7,Midfielder,Team_B,1114036
+102,102,1,6,12,False,74.66,13.4,78.44,19.92,Pass,Team_B_Player_8,Midfielder,Team_B,1114086
+103,103,1,6,13,True,24.04,47.4,24.04,47.4,Interception,Team_A_Player_4,Defender,Team_A,1114100
+104,104,1,6,14,True,30.56,33.12,30.56,33.12,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1114144
+105,105,1,6,15,True,29.19,30.87,30.66,15.71,Pass,Team_A_Player_7,Midfielder,Team_A,1114169
+106,106,1,6,17,False,29.72,12.85,29.72,12.85,Take on,Team_A_Player_8,Striker,Team_A,1114203
+107,107,1,6,17,True,75.29,55.15,75.29,55.15,Tackle,Team_B_Player_3,Defender,Team_B,1114204
+108,108,1,6,19,True,78.54,58.68,78.54,58.68,Ball recovery,Team_B_Player_3,Defender,Team_B,1114245
+109,109,1,6,20,True,83.06,59.5,76.86,49.98,Pass,Team_B_Player_3,Defender,Team_B,1114270
+110,110,1,6,23,True,78.22,49.37,72.76,42.57,Pass,Team_B_Player_8,Midfielder,Team_B,1114369
+111,111,1,6,24,True,74.86,44.47,78.75,48.35,Pass,Team_B_Player_7,Midfielder,Team_B,1114370
+112,112,1,6,25,True,78.85,48.35,76.86,30.46,Pass,Team_B_Player_8,Midfielder,Team_B,1114410
+113,113,1,6,28,True,78.22,28.7,90.72,18.29,Pass,Team_B_Player_5,Striker,Team_B,1114490
+114,114,1,6,30,False,91.24,16.73,97.34,24.41,Pass,Team_B_Player_4,Defender,Team_B,1114520
+115,115,1,6,31,True,5.46,44.13,5.46,44.13,Interception,Team_A_Player_4,Defender,Team_A,1114550
+116,116,1,6,33,False,4.1,48.28,4.1,48.28,Corner awarded,Team_A_Player_1,Defender,Team_A,1114595
+117,117,1,6,33,True,100.9,19.72,100.9,19.72,Corner awarded,Team_B_Player_4,Defender,Team_B,1114616
+118,118,1,7,0,False,104.48,0.48,100.9,33.32,Pass,Team_B_Player_6,Midfielder,Team_B,1115294
+119,119,1,7,4,False,21.0,68.95,21.0,68.95,Out,Team_A_Player_9,Striker,Team_A,1115370
+120,120,1,7,4,True,84.0,-0.95,84.0,-0.95,Out,Team_B_Player_8,Midfielder,Team_B,1115394
+121,121,1,7,10,True,83.48,0.0,65.31,3.54,Pass,Team_B_Player_6,Midfielder,Team_B,1115544
+122,122,1,7,13,True,62.79,6.39,55.44,39.17,Pass,Team_B_Player_7,Midfielder,Team_B,1115619
+123,123,1,7,17,True,55.54,44.27,69.93,64.67,Pass,Team_B_Player_1,Defender,Team_B,1115695
+124,124,1,7,21,True,68.78,62.83,46.72,55.9,Pass,Team_B_Player_3,Defender,Team_B,1115819
+125,125,1,7,23,True,46.41,52.56,41.06,31.48,Pass,Team_B_Player_1,Defender,Team_B,1115855
+126,126,1,7,25,True,42.53,29.44,54.71,5.58,Pass,Team_B_Player_2,Defender,Team_B,1115895
+127,127,1,7,29,True,55.86,5.17,56.91,0.95,Pass,Team_B_Player_6,Midfielder,Team_B,1115995
+128,128,1,7,30,True,56.91,0.95,36.22,14.42,Pass,Team_B_Player_4,Defender,Team_B,1116032
+129,129,1,7,32,True,39.9,17.2,40.64,46.44,Pass,Team_B_Player_2,Defender,Team_B,1116094
+130,130,1,7,38,True,58.91,56.03,68.04,66.84,Pass,Team_B_Player_1,Defender,Team_B,1116220
+131,131,1,7,40,False,68.98,66.64,80.43,55.08,Pass,Team_B_Player_3,Defender,Team_B,1116286
+132,132,1,7,42,True,29.19,12.24,29.19,12.24,Interception,Team_A_Player_7,Midfielder,Team_A,1116320
+133,133,1,7,42,True,28.88,10.95,28.88,10.95,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1116324
+134,134,1,7,44,True,28.88,10.95,35.28,3.94,Pass,Team_A_Player_7,Midfielder,Team_A,1116370
+135,135,1,7,44,True,36.54,3.74,33.18,28.08,Pass,Team_A_Player_8,Striker,Team_A,1116389
+136,136,1,7,47,True,30.98,30.06,18.38,39.3,Pass,Team_A_Player_6,Midfielder,Team_A,1116452
+137,137,1,7,53,True,18.06,36.31,20.06,12.78,Pass,Team_A_Player_4,Defender,Team_A,1116600
+138,138,1,7,57,True,18.69,8.09,56.81,16.8,Pass,Team_A_Player_3,Defender,Team_A,1116695
+139,139,1,7,58,True,56.49,15.71,46.3,18.43,Pass,Team_A_Player_10,Striker,Team_A,1116742
+140,140,1,8,1,False,58.8,49.5,64.05,42.64,Pass,Team_B_Player_3,Defender,Team_B,1116795
+141,141,1,8,2,True,42.21,30.94,44.94,62.36,Pass,Team_A_Player_7,Midfielder,Team_A,1116844
+142,142,1,8,9,True,50.29,60.04,36.64,45.9,Pass,Team_A_Player_1,Defender,Team_A,1116996
+143,143,1,8,11,False,37.06,45.7,64.47,0.88,Pass,Team_A_Player_4,Defender,Team_A,1117045
+144,144,1,8,15,False,64.89,-0.75,64.89,-0.75,Out,Team_A_Player_4,Defender,Team_A,1117145
+145,145,1,8,15,True,40.11,68.75,40.11,68.75,Out,Team_B_Player_3,Defender,Team_B,1117146
+146,146,1,8,19,True,44.52,68.0,45.36,57.73,Pass,Team_B_Player_3,Defender,Team_B,1117269
+147,147,1,8,23,True,45.57,58.34,40.21,67.12,Pass,Team_B_Player_9,Striker,Team_B,1117345
+148,148,1,8,25,True,41.16,66.71,44.1,45.49,Pass,Team_B_Player_3,Defender,Team_B,1117402
+149,149,1,8,26,False,41.9,45.29,42.53,45.29,Pass,Team_B_Player_6,Midfielder,Team_B,1117444
+150,150,1,8,29,True,44.0,36.04,34.96,30.26,Pass,Team_B_Player_5,Striker,Team_B,1117501
+151,151,1,8,31,True,37.17,21.76,45.36,2.52,Pass,Team_B_Player_2,Defender,Team_B,1117545
+152,152,1,8,33,True,45.89,3.33,72.66,7.82,Pass,Team_B_Player_4,Defender,Team_B,1117612
+153,153,1,8,37,False,89.25,13.06,89.25,13.06,Take on,Team_B_Player_10,Striker,Team_B,1117695
+154,154,1,8,37,False,15.75,54.94,15.75,54.94,Tackle,Team_A_Player_4,Defender,Team_A,1117695
+155,155,1,8,38,False,86.73,14.48,86.73,14.48,Take on,Team_B_Player_10,Striker,Team_B,1117743
+156,156,1,8,38,False,18.27,53.52,18.27,53.52,Tackle,Team_A_Player_1,Defender,Team_A,1117720
+157,157,1,8,39,True,11.55,51.88,11.55,51.88,Ball recovery,Team_A_Player_4,Defender,Team_A,1117768
+158,158,1,8,40,True,11.55,51.88,25.31,52.09,Pass,Team_A_Player_4,Defender,Team_A,1117793
+159,159,1,8,45,True,33.29,49.78,28.67,35.22,Pass,Team_A_Player_6,Midfielder,Team_A,1117912
+160,160,1,8,46,True,28.98,34.48,39.58,30.67,Pass,Team_A_Player_7,Midfielder,Team_A,1117939
+161,161,1,8,48,True,40.53,28.9,46.2,3.6,Pass,Team_A_Player_5,Midfielder,Team_A,1117971
+162,162,1,8,53,True,51.03,9.38,63.1,23.12,Pass,Team_A_Player_8,Striker,Team_A,1118112
+163,163,1,8,55,True,35.18,38.69,35.18,38.69,Ball recovery,Team_B_Player_2,Defender,Team_B,1118169
+164,164,1,8,56,True,35.6,38.35,51.14,32.1,Pass,Team_B_Player_2,Defender,Team_B,1118194
+165,165,1,9,0,True,63.74,26.59,68.88,9.11,Pass,Team_B_Player_5,Striker,Team_B,1118270
+166,166,1,9,2,True,75.18,7.89,75.18,7.89,Take on,Team_B_Player_10,Striker,Team_B,1118332
+167,167,1,9,4,True,79.48,7.0,96.08,64.06,Pass,Team_B_Player_10,Striker,Team_B,1118374
+168,168,1,9,11,False,90.72,66.03,90.72,66.03,Take on,Team_B_Player_8,Midfielder,Team_B,1118559
+169,169,1,9,11,True,14.28,1.97,14.28,1.97,Tackle,Team_A_Player_2,Defender,Team_A,1118569
+170,170,1,9,11,True,14.91,2.72,14.91,2.72,Ball recovery,Team_A_Player_2,Defender,Team_A,1118569
+171,171,1,9,15,True,33.49,6.66,44.31,19.58,Pass,Team_A_Player_2,Defender,Team_A,1118648
+172,172,1,9,16,True,44.31,19.58,31.5,18.56,Pass,Team_A_Player_10,Striker,Team_A,1118693
+173,173,1,9,18,True,32.13,19.38,35.18,66.3,Pass,Team_A_Player_5,Midfielder,Team_A,1118723
+174,174,1,9,25,True,35.39,66.3,28.04,47.6,Pass,Team_A_Player_1,Defender,Team_A,1118901
+175,175,1,9,28,True,28.35,46.17,28.98,22.1,Pass,Team_A_Player_4,Defender,Team_A,1118972
+176,176,1,9,30,True,28.88,21.62,32.97,15.1,Pass,Team_A_Player_3,Defender,Team_A,1119041
+177,177,1,9,35,True,35.49,23.46,26.46,51.48,Pass,Team_A_Player_6,Midfielder,Team_A,1119168
+178,178,1,9,40,True,25.1,47.94,23.42,21.69,Pass,Team_A_Player_4,Defender,Team_A,1119270
+179,179,1,9,46,True,32.34,15.03,47.04,17.75,Pass,Team_A_Player_3,Defender,Team_A,1119420
+180,180,1,9,46,True,47.04,17.61,58.49,36.11,Pass,Team_A_Player_8,Striker,Team_A,1119444
+181,181,1,9,53,True,69.61,43.25,85.36,41.14,Pass,Team_A_Player_5,Midfielder,Team_A,1119595
+182,182,1,9,56,True,91.98,41.82,102.06,35.84,Attempt saved,Team_A_Player_9,Striker,Team_A,1119670
+183,183,1,9,56,True,1.78,31.76,1.78,31.76,Save,Team_B_Player_0,Goalkeeper,Team_B,1119687
+184,184,1,9,59,True,4.83,17.61,4.83,17.61,Ball recovery,Team_B_Player_1,Defender,Team_B,1119745
+185,185,1,9,59,True,4.83,17.61,25.1,6.87,Pass,Team_B_Player_1,Defender,Team_B,1119745
+186,186,1,10,2,True,27.09,4.01,39.58,2.72,Pass,Team_B_Player_2,Defender,Team_B,1119844
+187,187,1,10,5,False,41.37,2.58,41.37,2.58,Take on,Team_B_Player_5,Striker,Team_B,1119895
+188,188,1,10,6,True,63.63,65.42,63.63,65.42,Tackle,Team_A_Player_7,Midfielder,Team_A,1119920
+189,189,1,10,6,False,72.87,69.22,72.87,69.22,Out,Team_A_Player_7,Midfielder,Team_A,1119920
+190,190,1,10,6,True,32.13,-1.22,32.13,-1.22,Out,Team_B_Player_5,Striker,Team_B,1119920
+191,191,1,11,8,False,34.54,0.0,59.43,18.63,Pass,Team_B_Player_4,Defender,Team_B,1121494
+192,192,1,11,11,True,45.89,49.91,57.75,36.99,Pass,Team_A_Player_3,Defender,Team_A,1121551
+193,193,1,11,13,True,59.11,33.73,59.11,33.73,Ball recovery,Team_A_Player_6,Midfielder,Team_A,1121619
+194,194,1,11,14,True,59.11,33.73,66.04,39.58,Pass,Team_A_Player_6,Midfielder,Team_A,1121621
+195,195,1,11,16,True,67.1,41.14,66.99,47.33,Pass,Team_A_Player_8,Striker,Team_A,1121673
+196,196,1,11,19,True,69.61,51.07,72.14,65.08,Pass,Team_A_Player_5,Midfielder,Team_A,1121758
+197,197,1,11,24,True,80.54,66.71,72.55,64.26,Pass,Team_A_Player_1,Defender,Team_A,1121887
+198,198,1,11,27,True,71.5,61.81,60.79,52.7,Pass,Team_A_Player_5,Midfielder,Team_A,1121945
+199,199,1,11,29,False,62.26,52.16,62.26,52.16,Take on,Team_A_Player_6,Midfielder,Team_A,1121995
+200,200,1,11,29,False,42.74,15.84,42.74,15.84,Tackle,Team_B_Player_8,Midfielder,Team_B,1122019
+201,201,1,11,34,True,43.26,51.0,60.37,49.37,Pass,Team_A_Player_4,Defender,Team_A,1122131
+202,202,1,11,36,True,49.66,51.0,38.54,58.07,Pass,Team_A_Player_5,Midfielder,Team_A,1122192
+203,203,1,11,38,True,38.54,58.07,58.8,59.7,Pass,Team_A_Player_4,Defender,Team_A,1122224
+204,204,1,11,39,True,58.91,59.7,48.3,56.58,Pass,Team_A_Player_9,Striker,Team_A,1122268
+205,205,1,11,40,True,48.3,56.58,44.73,65.69,Pass,Team_A_Player_5,Midfielder,Team_A,1122280
+206,206,1,11,42,True,44.62,65.42,33.6,58.0,Pass,Team_A_Player_1,Defender,Team_A,1122338
+207,207,1,11,57,True,45.78,61.0,64.89,48.01,Pass,Team_A_Player_4,Defender,Team_A,1122695
+208,208,1,12,1,True,58.49,36.92,67.41,4.62,Pass,Team_A_Player_7,Midfielder,Team_A,1122797
+209,209,1,12,5,True,68.25,3.54,78.96,2.79,Pass,Team_A_Player_2,Defender,Team_A,1122895
+210,210,1,12,8,False,77.6,6.8,89.36,26.04,Pass,Team_A_Player_8,Striker,Team_A,1122976
+211,211,1,12,9,True,14.28,37.94,24.78,39.1,Pass,Team_B_Player_1,Defender,Team_B,1123019
+212,212,1,12,11,True,24.88,39.1,24.88,39.1,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1123056
+213,213,1,12,11,False,25.31,38.69,24.36,39.51,Pass,Team_B_Player_6,Midfielder,Team_B,1123056
+214,214,1,12,12,False,14.18,44.0,14.91,44.0,Pass,Team_B_Player_3,Defender,Team_B,1123094
+215,215,1,12,16,True,95.02,33.52,96.29,33.73,Attempt saved,Team_A_Player_8,Striker,Team_A,1123180
+216,216,1,12,16,True,9.45,37.67,9.45,37.67,Save,Team_B_Player_2,Defender,Team_B,1123185
+217,217,1,12,17,True,9.45,37.67,9.45,37.67,Ball recovery,Team_B_Player_2,Defender,Team_B,1123218
+218,218,1,12,17,False,9.03,36.45,56.49,8.64,Pass,Team_B_Player_2,Defender,Team_B,1123218
+219,219,1,12,23,True,54.5,61.4,54.5,61.4,Ball recovery,Team_A_Player_4,Defender,Team_A,1123368
+220,220,1,12,26,True,61.32,64.87,73.82,59.91,Pass,Team_A_Player_4,Defender,Team_A,1123420
+221,221,1,12,27,True,73.4,59.91,77.07,65.48,Pass,Team_A_Player_9,Striker,Team_A,1123466
+222,222,1,12,29,True,76.86,66.98,74.34,62.49,Pass,Team_A_Player_1,Defender,Team_A,1123495
+223,223,1,12,32,True,73.71,64.87,57.12,65.69,Pass,Team_A_Player_9,Striker,Team_A,1123583
+224,224,1,12,36,True,60.79,60.93,52.4,46.38,Pass,Team_A_Player_4,Defender,Team_A,1123670
+225,225,1,12,38,True,52.4,45.7,54.6,15.03,Pass,Team_A_Player_6,Midfielder,Team_A,1123720
+226,226,1,12,41,False,54.6,14.69,74.34,31.55,Pass,Team_A_Player_3,Defender,Team_A,1123810
+227,227,1,12,42,True,31.71,37.54,31.71,37.54,Ball recovery,Team_B_Player_1,Defender,Team_B,1123844
+228,228,1,12,44,True,31.71,37.54,49.66,32.78,Pass,Team_B_Player_1,Defender,Team_B,1123894
+229,229,1,12,47,False,57.01,29.31,73.82,42.02,Pass,Team_B_Player_8,Midfielder,Team_B,1123945
+230,230,1,12,48,True,31.6,24.28,31.6,24.28,Interception,Team_A_Player_3,Defender,Team_A,1123972
+231,231,1,12,50,True,46.72,23.46,46.72,23.46,Ball recovery,Team_A_Player_3,Defender,Team_A,1124043
+232,232,1,12,50,True,42.0,24.48,42.0,24.48,Take on,Team_A_Player_3,Defender,Team_A,1124028
+233,233,1,12,52,True,48.3,23.26,58.28,12.24,Pass,Team_A_Player_3,Defender,Team_A,1124073
+234,234,1,12,56,True,61.64,11.7,63.42,2.31,Pass,Team_A_Player_5,Midfielder,Team_A,1124170
+235,235,1,12,58,True,72.14,3.88,72.14,3.88,Take on,Team_A_Player_8,Striker,Team_A,1124243
+236,236,1,13,3,True,88.52,18.97,90.72,21.08,Attempt saved,Team_A_Player_8,Striker,Team_A,1124345
+237,237,1,13,3,True,12.6,44.27,12.6,44.27,Save,Team_B_Player_1,Defender,Team_B,1124369
+238,238,1,13,4,True,39.8,42.57,39.8,42.57,Ball recovery,Team_B_Player_5,Striker,Team_B,1124394
+239,239,1,13,8,True,49.14,46.04,59.32,64.87,Pass,Team_B_Player_5,Striker,Team_B,1124470
+240,240,1,13,11,True,53.66,62.56,45.36,41.75,Pass,Team_B_Player_9,Striker,Team_B,1124556
+241,241,1,13,16,True,55.34,30.94,60.59,7.89,Pass,Team_B_Player_6,Midfielder,Team_B,1124670
+242,242,1,13,18,True,60.16,7.28,56.39,18.29,Pass,Team_B_Player_4,Defender,Team_B,1124744
+243,243,1,13,21,True,50.82,19.92,39.8,43.66,Pass,Team_B_Player_6,Midfielder,Team_B,1124796
+244,244,1,13,25,True,42.74,44.81,63.1,65.69,Pass,Team_B_Player_1,Defender,Team_B,1124904
+245,245,1,13,29,True,65.31,65.01,62.68,54.88,Pass,Team_B_Player_3,Defender,Team_B,1125003
+246,246,1,13,31,True,64.26,56.44,65.94,65.08,Pass,Team_B_Player_7,Midfielder,Team_B,1125045
+247,247,1,13,33,True,66.26,65.28,44.31,51.14,Pass,Team_B_Player_3,Defender,Team_B,1125119
+248,248,1,13,36,True,44.73,49.78,46.62,28.9,Pass,Team_B_Player_1,Defender,Team_B,1125194
+249,249,1,13,38,True,46.94,25.36,60.69,4.15,Pass,Team_B_Player_2,Defender,Team_B,1125220
+250,250,1,13,40,True,60.59,3.74,42.0,18.63,Pass,Team_B_Player_4,Defender,Team_B,1125281
+251,251,1,13,44,True,37.49,20.33,36.86,42.77,Pass,Team_B_Player_2,Defender,Team_B,1125370
+252,252,1,13,47,True,37.38,45.02,47.25,49.37,Pass,Team_B_Player_1,Defender,Team_B,1125445
+253,253,1,13,48,True,47.25,49.37,37.28,45.7,Pass,Team_B_Player_7,Midfielder,Team_B,1125489
+254,254,1,13,50,True,37.17,45.42,49.04,60.11,Pass,Team_B_Player_1,Defender,Team_B,1125537
+255,255,1,13,54,True,54.28,60.93,81.06,48.28,Pass,Team_B_Player_7,Midfielder,Team_B,1125620
+256,256,1,13,55,False,81.06,48.28,82.64,51.41,Pass,Team_B_Player_10,Striker,Team_B,1125665
+257,257,1,13,57,True,21.42,16.59,27.72,20.26,Pass,Team_A_Player_2,Defender,Team_A,1125703
+258,258,1,13,57,True,27.83,20.26,27.83,20.26,Ball recovery,Team_A_Player_6,Midfielder,Team_A,1125719
+259,259,1,13,58,True,27.83,20.26,19.42,6.19,Pass,Team_A_Player_6,Midfielder,Team_A,1125721
+260,260,1,14,0,True,19.42,6.19,37.06,3.54,Pass,Team_A_Player_3,Defender,Team_A,1125776
+261,261,1,14,2,True,35.39,5.1,35.39,5.1,Take on,Team_A_Player_8,Striker,Team_A,1125820
+262,262,1,14,4,True,45.99,9.25,45.99,9.25,Take on,Team_A_Player_8,Striker,Team_A,1125888
+263,263,1,14,8,True,64.58,18.22,64.58,18.22,Foul,Team_A_Player_8,Striker,Team_A,1125972
+264,264,1,14,8,False,40.43,49.78,40.43,49.78,Foul,Team_B_Player_6,Midfielder,Team_B,1125970
+265,265,1,14,59,False,67.52,21.28,105.0,57.26,Pass,Team_A_Player_8,Striker,Team_A,1127262
+266,266,1,15,3,False,106.05,57.26,106.05,57.26,Out,Team_A_Player_8,Striker,Team_A,1127351
+267,267,1,15,3,True,-1.05,10.74,-1.05,10.74,Out,Team_B_Player_1,Defender,Team_B,1127369
+268,268,1,15,13,True,5.56,29.72,44.42,49.64,Pass,Team_B_Player_0,Goalkeeper,Team_B,1127618
+269,269,1,15,16,True,48.93,50.32,70.77,49.37,Pass,Team_B_Player_7,Midfielder,Team_B,1127694
+270,270,1,15,17,False,69.82,51.82,101.32,65.82,Pass,Team_B_Player_10,Striker,Team_B,1127697
+271,271,1,15,21,True,6.09,2.18,6.09,2.18,Ball recovery,Team_A_Player_2,Defender,Team_A,1127819
+272,272,1,15,23,True,4.3,1.7,43.05,3.94,Pass,Team_A_Player_2,Defender,Team_A,1127845
+273,273,1,15,28,True,42.94,6.26,44.1,15.64,Pass,Team_A_Player_10,Striker,Team_A,1127977
+274,274,1,15,29,True,44.0,16.12,38.32,9.72,Pass,Team_A_Player_5,Midfielder,Team_A,1128005
+275,275,1,15,31,True,33.08,17.14,35.49,33.73,Pass,Team_A_Player_8,Striker,Team_A,1128055
+276,276,1,15,34,True,63.21,41.55,65.2,38.9,Pass,Team_B_Player_6,Midfielder,Team_B,1128144
+277,277,1,15,35,True,64.26,39.51,64.26,39.51,Ball recovery,Team_B_Player_2,Defender,Team_B,1128169
+278,278,1,15,36,True,61.64,39.64,49.66,34.75,Pass,Team_B_Player_5,Striker,Team_B,1128190
+279,279,1,15,38,True,49.35,34.2,55.76,10.54,Pass,Team_B_Player_2,Defender,Team_B,1128225
+280,280,1,15,41,True,58.49,5.64,44.1,21.76,Pass,Team_B_Player_4,Defender,Team_B,1128295
+281,281,1,15,44,True,44.1,21.76,53.76,36.45,Pass,Team_B_Player_2,Defender,Team_B,1128376
+282,282,1,15,45,True,53.86,36.72,44.31,51.14,Pass,Team_B_Player_6,Midfielder,Team_B,1128395
+283,283,1,15,48,True,46.94,54.88,61.11,65.01,Pass,Team_B_Player_1,Defender,Team_B,1128470
+284,284,1,15,52,True,74.76,64.33,74.76,64.33,Take on,Team_B_Player_9,Striker,Team_B,1128570
+285,285,1,15,54,True,80.95,63.99,101.96,58.07,Pass,Team_B_Player_9,Striker,Team_B,1128624
+286,286,1,15,56,False,102.69,57.94,99.54,36.86,Pass,Team_B_Player_3,Defender,Team_B,1128675
+287,287,1,15,58,True,11.97,20.6,11.97,20.6,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1128730
+288,288,1,15,59,True,11.97,20.6,12.7,3.6,Pass,Team_A_Player_7,Midfielder,Team_A,1128751
+289,289,1,16,2,True,16.07,2.92,33.08,16.8,Pass,Team_A_Player_2,Defender,Team_A,1128820
+290,290,1,16,3,True,32.34,16.8,32.34,16.8,Foul,Team_A_Player_10,Striker,Team_A,1128868
+291,291,1,16,3,False,72.66,51.2,72.66,51.2,Foul,Team_B_Player_1,Defender,Team_B,1128869
+292,292,1,16,18,True,33.7,11.76,27.2,23.12,Pass,Team_A_Player_2,Defender,Team_A,1129220
+293,293,1,16,20,True,26.36,24.89,27.4,45.29,Pass,Team_A_Player_3,Defender,Team_A,1129276
+294,294,1,16,24,True,27.4,45.15,27.93,28.49,Pass,Team_A_Player_4,Defender,Team_A,1129380
+295,295,1,16,26,True,27.93,28.49,2.62,28.22,Pass,Team_A_Player_3,Defender,Team_A,1129420
+296,296,1,16,31,False,4.83,28.49,51.87,26.79,Pass,Team_A_Player_0,Goalkeeper,Team_A,1129557
+297,297,1,16,35,False,54.92,40.39,55.96,40.39,Pass,Team_B_Player_1,Defender,Team_B,1129645
+298,298,1,16,38,True,68.78,45.9,68.78,45.9,Ball recovery,Team_B_Player_7,Midfielder,Team_B,1129739
+299,299,1,16,39,False,68.78,45.9,79.9,49.5,Pass,Team_B_Player_7,Midfielder,Team_B,1129745
+300,300,1,16,40,True,26.04,20.67,26.04,20.67,Interception,Team_A_Player_6,Midfielder,Team_A,1129770
+301,301,1,16,41,True,15.12,22.03,15.12,22.03,Ball recovery,Team_A_Player_2,Defender,Team_A,1129819
+302,302,1,16,42,True,15.12,22.03,4.83,27.2,Pass,Team_A_Player_2,Defender,Team_A,1129840
+303,303,1,16,44,True,4.83,27.2,12.81,4.76,Pass,Team_A_Player_0,Goalkeeper,Team_A,1129878
+304,304,1,16,50,True,27.72,4.83,36.22,2.58,Pass,Team_A_Player_7,Midfielder,Team_A,1130020
+305,305,1,16,51,False,36.44,2.18,37.59,10.61,Pass,Team_A_Player_5,Midfielder,Team_A,1130045
+306,306,1,16,52,True,70.46,56.71,70.46,56.71,Interception,Team_B_Player_6,Midfielder,Team_B,1130084
+307,307,1,16,53,True,73.08,53.45,73.08,53.45,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1130095
+308,308,1,16,57,True,80.95,44.13,105.0,36.65,Miss,Team_B_Player_6,Midfielder,Team_B,1130201
+309,309,1,16,58,True,-1.47,33.18,-1.47,33.18,Out,Team_A_Player_5,Midfielder,Team_A,1130220
+310,310,1,16,58,False,106.47,34.82,106.47,34.82,Out,Team_B_Player_6,Midfielder,Team_B,1130220
+311,311,1,17,21,True,5.78,35.84,20.58,59.02,Pass,Team_A_Player_0,Goalkeeper,Team_A,1130806
+312,312,1,17,25,True,21.0,60.32,34.23,52.7,Pass,Team_A_Player_4,Defender,Team_A,1130912
+313,313,1,17,29,True,38.01,44.88,48.61,23.05,Pass,Team_A_Player_9,Striker,Team_A,1130995
+314,314,1,17,31,True,48.51,22.92,61.84,4.01,Pass,Team_A_Player_5,Midfielder,Team_A,1131045
+315,315,1,17,36,True,59.96,5.44,68.35,26.66,Pass,Team_A_Player_8,Striker,Team_A,1131178
+316,316,1,17,39,True,71.71,24.34,84.42,11.83,Pass,Team_A_Player_9,Striker,Team_A,1131250
+317,317,1,17,41,False,83.16,10.54,83.16,10.54,Take on,Team_A_Player_5,Midfielder,Team_A,1131319
+318,318,1,17,42,False,21.84,57.46,21.84,57.46,Tackle,Team_B_Player_7,Midfielder,Team_B,1131320
+319,319,1,17,43,True,84.32,11.36,76.55,15.5,Pass,Team_A_Player_5,Midfielder,Team_A,1131350
+320,320,1,17,44,False,75.7,16.8,78.75,30.94,Pass,Team_A_Player_8,Striker,Team_A,1131384
+321,321,1,17,46,True,25.31,37.54,31.71,43.86,Pass,Team_B_Player_6,Midfielder,Team_B,1131428
+322,322,1,17,47,False,35.7,45.56,35.7,45.56,Take on,Team_B_Player_8,Midfielder,Team_B,1131462
+323,323,1,17,47,False,69.3,22.44,69.3,22.44,Tackle,Team_A_Player_7,Midfielder,Team_A,1131464
+324,324,1,17,50,True,75.08,27.95,105.0,31.42,Miss,Team_A_Player_8,Striker,Team_A,1131533
+325,325,1,17,52,True,-1.26,36.04,-1.26,36.04,Out,Team_B_Player_8,Midfielder,Team_B,1131594
+326,326,1,17,52,False,106.26,31.96,106.26,31.96,Out,Team_A_Player_8,Striker,Team_A,1131570
+327,327,1,18,2,True,5.67,39.58,30.03,42.64,Pass,Team_B_Player_0,Goalkeeper,Team_B,1131820
+328,328,1,18,11,True,42.21,54.47,65.52,65.69,Pass,Team_B_Player_6,Midfielder,Team_B,1132056
+329,329,1,18,13,False,68.35,65.89,89.25,56.64,Pass,Team_B_Player_3,Defender,Team_B,1132095
+330,330,1,18,15,True,15.54,9.72,15.54,9.72,Ball recovery,Team_A_Player_3,Defender,Team_A,1132168
+331,331,1,18,17,True,15.54,9.72,19.01,3.4,Pass,Team_A_Player_3,Defender,Team_A,1132195
+332,332,1,18,20,False,19.22,1.29,21.52,2.58,Pass,Team_A_Player_8,Striker,Team_A,1132276
+333,333,1,18,22,False,87.78,68.95,87.78,68.95,Out,Team_B_Player_3,Defender,Team_B,1132344
+334,334,1,18,22,True,17.22,-0.95,17.22,-0.95,Out,Team_A_Player_8,Striker,Team_A,1132320
+335,335,1,18,49,False,26.56,0.0,38.74,3.4,Pass,Team_A_Player_2,Defender,Team_A,1133006
+336,336,1,18,50,True,63.21,63.99,76.86,51.14,Pass,Team_B_Player_6,Midfielder,Team_B,1133039
+337,337,1,18,54,True,77.28,50.12,77.28,50.12,Ball recovery,Team_B_Player_10,Striker,Team_B,1133144
+338,338,1,18,55,True,80.64,45.76,80.64,45.76,Dispossessed,Team_B_Player_10,Striker,Team_B,1133169
+339,339,1,18,55,True,24.36,22.24,24.36,22.24,Tackle,Team_A_Player_7,Midfielder,Team_A,1133145
+340,340,1,19,14,True,25.31,23.73,7.45,34.2,Pass,Team_A_Player_3,Defender,Team_A,1133621
+341,341,1,19,17,True,8.72,35.63,18.79,18.84,Pass,Team_A_Player_0,Goalkeeper,Team_A,1133713
+342,342,1,19,20,True,19.74,16.46,32.86,19.38,Pass,Team_A_Player_3,Defender,Team_A,1133771
+343,343,1,19,22,True,32.02,23.87,34.34,38.69,Pass,Team_A_Player_7,Midfielder,Team_A,1133820
+344,344,1,19,24,True,34.34,39.1,40.64,64.87,Pass,Team_A_Player_6,Midfielder,Team_A,1133891
+345,345,1,19,30,True,47.98,64.87,49.24,56.24,Pass,Team_A_Player_1,Defender,Team_A,1134020
+346,346,1,19,33,True,56.49,58.41,66.78,59.09,Pass,Team_A_Player_6,Midfielder,Team_A,1134103
+347,347,1,19,34,True,66.78,59.09,62.58,60.93,Pass,Team_A_Player_9,Striker,Team_A,1134123
+348,348,1,19,37,True,63.42,59.84,38.96,54.13,Pass,Team_A_Player_6,Midfielder,Team_A,1134210
+349,349,1,19,45,True,40.21,62.63,74.34,57.66,Pass,Team_A_Player_4,Defender,Team_A,1134402
+350,350,1,19,47,True,74.24,57.46,81.9,49.03,Pass,Team_A_Player_5,Midfielder,Team_A,1134456
+351,351,1,19,52,True,80.64,50.8,80.64,50.8,Dispossessed,Team_A_Player_10,Striker,Team_A,1134570
+352,352,1,19,53,False,24.36,17.2,24.36,17.2,Tackle,Team_B_Player_2,Defender,Team_B,1134595
+353,353,1,19,56,True,78.96,51.48,84.74,65.08,Pass,Team_A_Player_10,Striker,Team_A,1134670
+354,354,1,19,58,True,91.35,62.42,91.35,62.42,Take on,Team_A_Player_1,Defender,Team_A,1134728
+355,355,1,20,0,True,89.67,56.98,78.22,56.85,Pass,Team_A_Player_1,Defender,Team_A,1134777
+356,356,1,20,2,True,78.65,58.89,66.99,51.41,Pass,Team_A_Player_10,Striker,Team_A,1134826
+357,357,1,20,7,True,60.69,58.68,55.44,24.28,Pass,Team_A_Player_7,Midfielder,Team_A,1134947
+358,358,1,20,11,False,61.42,18.84,76.55,68.0,Pass,Team_A_Player_3,Defender,Team_A,1135045
+359,359,1,20,15,True,26.04,-0.95,26.04,-0.95,Out,Team_B_Player_2,Defender,Team_B,1135148
+360,360,1,20,15,False,78.96,68.95,78.96,68.95,Out,Team_A_Player_3,Defender,Team_A,1135145
+361,361,1,20,22,True,25.94,0.0,23.94,18.09,Pass,Team_B_Player_4,Defender,Team_B,1135320
+362,362,1,20,23,True,23.94,18.09,25.41,43.18,Pass,Team_B_Player_2,Defender,Team_B,1135369
+363,363,1,20,25,True,24.26,43.86,28.24,62.08,Pass,Team_B_Player_1,Defender,Team_B,1135395
+364,364,1,20,27,True,33.81,59.36,49.14,66.1,Pass,Team_B_Player_3,Defender,Team_B,1135461
+365,365,1,20,30,True,45.04,63.24,30.14,48.35,Pass,Team_B_Player_9,Striker,Team_B,1135520
+366,366,1,20,34,True,30.56,47.74,49.66,44.4,Pass,Team_B_Player_1,Defender,Team_B,1135644
+367,367,1,20,36,True,55.02,44.27,70.04,50.18,Pass,Team_B_Player_7,Midfielder,Team_B,1135670
+368,368,1,20,38,True,26.78,20.2,26.78,20.2,Ball recovery,Team_A_Player_2,Defender,Team_A,1135720
+369,369,1,20,40,True,24.67,20.4,28.98,31.89,Pass,Team_A_Player_2,Defender,Team_A,1135783
+370,370,1,20,42,True,28.77,31.89,37.38,38.96,Pass,Team_A_Player_7,Midfielder,Team_A,1135831
+371,371,1,20,44,True,37.38,39.1,40.84,31.76,Pass,Team_A_Player_9,Striker,Team_A,1135870
+372,372,1,20,45,True,43.89,31.89,56.6,36.11,Pass,Team_A_Player_5,Midfielder,Team_A,1135900
+373,373,1,20,49,True,30.76,38.35,30.76,38.35,Ball recovery,Team_B_Player_1,Defender,Team_B,1136019
+374,374,1,20,49,True,30.76,38.35,30.76,21.76,Pass,Team_B_Player_1,Defender,Team_B,1136019
+375,375,1,20,52,True,32.76,22.51,42.42,25.43,Pass,Team_B_Player_4,Defender,Team_B,1136082
+376,376,1,20,53,True,42.42,25.43,30.56,19.86,Pass,Team_B_Player_7,Midfielder,Team_B,1136096
+377,377,1,20,56,True,31.6,19.65,29.92,28.29,Pass,Team_B_Player_4,Defender,Team_B,1136190
+378,378,1,21,1,True,36.64,27.61,33.6,43.25,Pass,Team_B_Player_2,Defender,Team_B,1136307
+379,379,1,21,4,True,37.7,46.04,47.46,64.8,Pass,Team_B_Player_1,Defender,Team_B,1136370
+380,380,1,21,8,False,66.78,65.62,70.35,65.62,Pass,Team_B_Player_6,Midfielder,Team_B,1136470
+381,381,1,21,9,True,73.29,69.02,73.29,69.02,Out,Team_B_Player_6,Midfielder,Team_B,1136495
+382,382,1,21,9,False,31.71,-1.02,31.71,-1.02,Out,Team_A_Player_8,Striker,Team_A,1136495
+383,383,1,21,18,True,71.4,68.0,47.78,52.56,Pass,Team_B_Player_3,Defender,Team_B,1136744
+384,384,1,21,20,True,46.41,49.78,48.3,23.8,Pass,Team_B_Player_1,Defender,Team_B,1136794
+385,385,1,21,21,True,48.3,23.53,67.3,4.35,Pass,Team_B_Player_2,Defender,Team_B,1136801
+386,386,1,21,22,True,56.81,16.46,62.06,5.44,Pass,Team_B_Player_4,Defender,Team_B,1136820
+387,387,1,21,24,True,69.61,3.4,80.11,7.41,Pass,Team_B_Player_5,Striker,Team_B,1136872
+388,388,1,21,26,False,80.01,7.28,78.96,15.16,Pass,Team_B_Player_10,Striker,Team_B,1136920
+389,389,1,21,27,True,28.46,54.33,28.46,54.33,Ball recovery,Team_A_Player_1,Defender,Team_A,1136965
+390,390,1,21,27,True,28.46,54.33,36.54,57.46,Pass,Team_A_Player_1,Defender,Team_A,1136965
+391,391,1,21,29,True,36.44,57.39,48.82,49.23,Pass,Team_A_Player_9,Striker,Team_A,1136996
+392,392,1,21,34,True,54.92,39.58,61.0,38.08,Pass,Team_A_Player_5,Midfielder,Team_A,1137132
+393,393,1,21,36,True,62.16,41.0,57.96,56.58,Pass,Team_A_Player_10,Striker,Team_A,1137176
+394,394,1,21,39,True,57.12,59.91,41.9,61.95,Pass,Team_A_Player_9,Striker,Team_A,1137264
+395,395,1,21,42,True,43.36,57.6,34.44,29.24,Pass,Team_A_Player_1,Defender,Team_A,1137327
+396,396,1,21,45,True,35.6,26.04,46.62,15.44,Pass,Team_A_Player_3,Defender,Team_A,1137406
+397,397,1,21,48,True,47.88,14.01,63.84,17.95,Pass,Team_A_Player_6,Midfielder,Team_A,1137470
+398,398,1,21,50,True,46.3,43.86,46.3,43.86,Ball recovery,Team_B_Player_9,Striker,Team_B,1137544
+399,399,1,21,51,True,46.3,43.86,59.85,47.06,Pass,Team_B_Player_9,Striker,Team_B,1137569
+400,400,1,21,56,False,73.5,54.6,98.07,61.95,Pass,Team_B_Player_8,Midfielder,Team_B,1137670
+401,401,1,21,59,True,10.5,5.64,10.5,5.64,Ball recovery,Team_A_Player_3,Defender,Team_A,1137757
+402,402,1,22,1,True,95.55,69.02,95.55,69.02,Out,Team_B_Player_8,Midfielder,Team_B,1137819
+403,403,1,22,1,False,9.45,-1.02,9.45,-1.02,Out,Team_A_Player_3,Defender,Team_A,1137807
+404,404,1,22,15,True,93.34,68.0,98.07,63.17,Pass,Team_B_Player_3,Defender,Team_B,1138145
+405,405,1,22,16,True,98.18,63.17,94.4,57.32,Pass,Team_B_Player_9,Striker,Team_B,1138194
+406,406,1,22,17,True,94.5,57.53,87.78,65.69,Pass,Team_B_Player_8,Midfielder,Team_B,1138208
+407,407,1,22,20,True,84.1,64.87,46.3,57.53,Pass,Team_B_Player_3,Defender,Team_B,1138294
+408,408,1,22,24,True,46.41,55.28,47.36,31.48,Pass,Team_B_Player_1,Defender,Team_B,1138377
+409,409,1,22,27,True,49.46,27.61,63.0,3.54,Pass,Team_B_Player_2,Defender,Team_B,1138447
+410,410,1,22,29,True,63.52,3.94,43.16,14.35,Pass,Team_B_Player_4,Defender,Team_B,1138519
+411,411,1,22,32,True,44.84,18.43,38.12,46.31,Pass,Team_B_Player_2,Defender,Team_B,1138570
+412,412,1,22,35,True,43.47,47.53,60.27,60.18,Pass,Team_B_Player_1,Defender,Team_B,1138664
+413,413,1,22,39,True,59.54,59.36,58.28,43.45,Pass,Team_B_Player_6,Midfielder,Team_B,1138752
+414,414,1,22,42,True,60.69,44.2,75.39,37.88,Pass,Team_B_Player_7,Midfielder,Team_B,1138820
+415,415,1,22,45,True,73.6,36.45,81.06,7.07,Pass,Team_B_Player_8,Midfielder,Team_B,1138898
+416,416,1,22,47,False,82.0,7.68,105.0,17.61,Pass,Team_B_Player_4,Defender,Team_B,1138958
+417,417,1,22,50,False,106.15,19.04,106.15,19.04,Out,Team_B_Player_4,Defender,Team_B,1139020
+418,418,1,22,50,True,-1.16,48.96,-1.16,48.96,Out,Team_A_Player_9,Striker,Team_A,1139020
+419,419,1,23,29,False,5.36,34.41,66.68,51.88,Pass,Team_A_Player_0,Goalkeeper,Team_A,1140008
+420,420,1,23,33,True,41.9,16.39,48.09,23.94,Pass,Team_B_Player_7,Midfielder,Team_B,1140119
+421,421,1,23,34,True,48.09,23.94,48.09,23.94,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1140144
+422,422,1,23,34,True,48.09,23.94,51.87,34.82,Pass,Team_B_Player_6,Midfielder,Team_B,1140144
+423,423,1,23,35,True,51.87,34.82,33.39,37.47,Pass,Team_B_Player_9,Striker,Team_B,1140163
+424,424,1,23,38,True,33.39,37.33,38.12,33.8,Pass,Team_B_Player_3,Defender,Team_B,1140220
+425,425,1,23,42,True,44.84,41.96,59.64,62.83,Pass,Team_B_Player_6,Midfielder,Team_B,1140320
+426,426,1,23,43,True,59.64,62.83,70.98,54.67,Pass,Team_B_Player_9,Striker,Team_B,1140361
+427,427,1,23,46,True,24.88,16.59,24.88,16.59,Ball recovery,Team_A_Player_3,Defender,Team_A,1140439
+428,428,1,23,49,False,32.44,20.06,32.44,20.06,Take on,Team_A_Player_3,Defender,Team_A,1140505
+429,429,1,23,51,True,66.99,47.46,66.99,47.46,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1140568
+430,430,1,23,53,False,70.88,44.47,83.26,37.26,Pass,Team_B_Player_6,Midfielder,Team_B,1140601
+431,431,1,23,54,True,27.4,30.06,27.4,30.06,Ball recovery,Team_A_Player_4,Defender,Team_A,1140629
+432,432,1,23,56,True,25.1,29.1,32.66,18.97,Pass,Team_A_Player_4,Defender,Team_A,1140673
+433,433,1,24,1,True,78.44,57.46,71.5,62.15,Pass,Team_B_Player_9,Striker,Team_B,1140795
+434,434,1,24,2,True,71.5,62.15,71.5,62.15,Ball recovery,Team_B_Player_3,Defender,Team_B,1140844
+435,435,1,24,2,True,71.5,62.15,68.25,56.51,Pass,Team_B_Player_3,Defender,Team_B,1140844
+436,436,1,24,3,True,68.25,56.51,66.04,64.8,Pass,Team_B_Player_6,Midfielder,Team_B,1140847
+437,437,1,24,4,True,66.04,64.8,58.8,46.72,Pass,Team_B_Player_3,Defender,Team_B,1140878
+438,438,1,24,5,True,58.8,46.44,39.06,38.15,Pass,Team_B_Player_7,Midfielder,Team_B,1140919
+439,439,1,24,8,True,40.43,32.98,61.22,5.24,Pass,Team_B_Player_2,Defender,Team_B,1140993
+440,440,1,24,11,True,62.79,4.76,57.44,18.63,Pass,Team_B_Player_4,Defender,Team_B,1141047
+441,441,1,24,15,True,57.64,19.52,48.19,42.64,Pass,Team_B_Player_7,Midfielder,Team_B,1141154
+442,442,1,24,20,True,58.28,54.2,71.61,66.64,Pass,Team_B_Player_1,Defender,Team_B,1141270
+443,443,1,24,22,True,71.61,66.23,70.04,59.3,Pass,Team_B_Player_3,Defender,Team_B,1141333
+444,444,1,24,23,True,70.04,59.3,71.19,65.21,Pass,Team_B_Player_9,Striker,Team_B,1141345
+445,445,1,24,25,True,70.77,65.42,51.34,59.98,Pass,Team_B_Player_3,Defender,Team_B,1141405
+446,446,1,24,27,True,51.34,56.44,49.04,30.33,Pass,Team_B_Player_1,Defender,Team_B,1141469
+447,447,1,24,31,True,54.71,29.85,63.74,1.5,Pass,Team_B_Player_2,Defender,Team_B,1141545
+448,448,1,24,34,True,61.64,5.98,44.31,21.49,Pass,Team_B_Player_4,Defender,Team_B,1141644
+449,449,1,24,37,True,45.78,21.08,102.69,12.51,Pass,Team_B_Player_2,Defender,Team_B,1141707
+450,450,1,24,42,False,102.48,12.51,100.49,33.59,Pass,Team_B_Player_5,Striker,Team_B,1141821
+451,451,1,24,44,True,89.56,31.76,105.0,42.02,Miss,Team_B_Player_9,Striker,Team_B,1141870
+452,452,1,24,46,True,-0.73,27.47,-0.73,27.47,Out,Team_A_Player_7,Midfielder,Team_A,1141920
+453,453,1,24,46,False,105.74,40.53,105.74,40.53,Out,Team_B_Player_9,Striker,Team_B,1141920
+454,454,1,25,18,True,5.14,33.8,66.15,55.35,Pass,Team_A_Player_0,Goalkeeper,Team_A,1142726
+455,455,1,25,22,True,39.16,14.82,39.16,14.82,Foul,Team_B_Player_2,Defender,Team_B,1142820
+456,456,1,25,22,False,65.83,53.18,65.83,53.18,Foul,Team_A_Player_10,Striker,Team_A,1142820
+457,457,1,25,38,True,0.0,0.0,0.0,0.0,Card,Team_A_Player_10,Striker,Team_A,1143244
+458,458,1,28,50,True,43.78,19.38,46.1,43.04,Pass,Team_B_Player_2,Defender,Team_B,1148044
+459,459,1,28,51,True,48.61,38.49,49.77,57.32,Pass,Team_B_Player_6,Midfielder,Team_B,1148049
+460,460,1,28,54,True,55.12,59.98,68.04,64.46,Pass,Team_B_Player_3,Defender,Team_B,1148120
+461,461,1,28,57,False,68.67,57.94,77.91,51.0,Pass,Team_B_Player_9,Striker,Team_B,1148210
+462,462,1,28,58,True,21.0,14.28,21.0,14.28,Interception,Team_A_Player_3,Defender,Team_A,1148220
+463,463,1,28,58,True,25.31,16.73,25.31,16.73,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1148220
+464,464,1,29,1,True,29.82,12.24,29.92,5.58,Pass,Team_A_Player_7,Midfielder,Team_A,1148295
+465,465,1,29,3,False,30.03,-0.54,30.03,-0.54,Out,Team_A_Player_8,Striker,Team_A,1148352
+466,466,1,29,3,True,74.97,68.54,74.97,68.54,Out,Team_B_Player_10,Striker,Team_B,1148355
+467,467,1,29,25,True,76.44,68.0,72.14,57.26,Pass,Team_B_Player_9,Striker,Team_B,1148919
+468,468,1,29,30,True,23.2,11.36,23.2,11.36,Ball recovery,Team_A_Player_3,Defender,Team_A,1149044
+469,469,1,29,31,True,23.31,13.4,16.38,43.45,Pass,Team_A_Player_3,Defender,Team_A,1149055
+470,470,1,29,38,True,31.71,53.11,31.6,63.44,Pass,Team_A_Player_4,Defender,Team_A,1149220
+471,471,1,29,41,True,31.6,63.44,68.35,64.46,Pass,Team_A_Player_1,Defender,Team_A,1149295
+472,472,1,29,43,True,68.35,64.26,61.64,57.26,Pass,Team_A_Player_5,Midfielder,Team_A,1149345
+473,473,1,29,44,True,36.22,15.84,36.22,15.84,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1149387
+474,474,1,29,44,True,45.89,19.45,33.91,15.57,Pass,Team_B_Player_6,Midfielder,Team_B,1149387
+475,475,1,29,46,True,36.22,15.84,43.89,9.11,Pass,Team_B_Player_2,Defender,Team_B,1149427
+476,476,1,29,47,True,43.89,9.11,33.39,4.76,Pass,Team_B_Player_4,Defender,Team_B,1149466
+477,477,1,29,52,True,38.85,16.39,42.0,26.45,Pass,Team_B_Player_2,Defender,Team_B,1149577
+478,478,1,29,53,True,45.57,33.52,62.47,62.97,Pass,Team_B_Player_6,Midfielder,Team_B,1149610
+479,479,1,29,58,False,73.18,61.2,98.38,61.2,Pass,Team_B_Player_3,Defender,Team_B,1149720
+480,480,1,30,3,True,9.76,69.16,9.76,69.16,Out,Team_A_Player_1,Defender,Team_A,1149845
+481,481,1,30,3,False,95.24,-1.16,95.24,-1.16,Out,Team_B_Player_3,Defender,Team_B,1149845
+482,482,1,30,24,False,7.98,68.0,23.94,64.6,Pass,Team_A_Player_1,Defender,Team_A,1150381
+483,483,1,30,26,False,80.11,3.74,83.48,5.64,Pass,Team_B_Player_4,Defender,Team_B,1150444
+484,484,1,30,27,False,24.99,60.72,38.43,62.02,Pass,Team_A_Player_5,Midfielder,Team_A,1150469
+485,485,1,30,29,False,63.1,3.54,59.43,3.13,Pass,Team_B_Player_6,Midfielder,Team_B,1150504
+486,486,1,30,30,False,40.11,69.36,40.11,69.36,Out,Team_A_Player_10,Striker,Team_A,1150534
+487,487,1,30,30,True,64.89,-1.36,64.89,-1.36,Out,Team_B_Player_8,Midfielder,Team_B,1150544
+488,488,1,30,34,True,68.67,0.0,39.8,20.54,Pass,Team_B_Player_6,Midfielder,Team_B,1150644
+489,489,1,30,37,True,41.16,22.17,47.36,45.02,Pass,Team_B_Player_2,Defender,Team_B,1150698
+490,490,1,30,43,True,63.84,49.37,63.84,49.37,Foul,Team_B_Player_1,Defender,Team_B,1150845
+491,491,1,30,43,False,41.16,18.63,41.16,18.63,Foul,Team_A_Player_10,Striker,Team_A,1150845
+492,492,1,30,53,True,67.62,48.62,78.22,65.28,Pass,Team_B_Player_7,Midfielder,Team_B,1151095
+493,493,1,30,55,True,82.0,63.99,78.54,57.46,Pass,Team_B_Player_3,Defender,Team_B,1151169
+494,494,1,30,57,True,79.9,59.57,79.28,65.62,Pass,Team_B_Player_9,Striker,Team_B,1151195
+495,495,1,30,58,True,78.02,65.48,63.84,59.36,Pass,Team_B_Player_3,Defender,Team_B,1151244
+496,496,1,31,0,True,63.52,60.32,55.76,30.33,Pass,Team_B_Player_6,Midfielder,Team_B,1151293
+497,497,1,31,3,True,55.96,29.85,62.37,15.03,Pass,Team_B_Player_2,Defender,Team_B,1151345
+498,498,1,31,4,True,64.26,16.86,70.98,24.82,Pass,Team_B_Player_5,Striker,Team_B,1151370
+499,499,1,31,6,True,70.04,25.23,54.39,41.41,Pass,Team_B_Player_8,Midfielder,Team_B,1151444
+500,500,1,31,9,True,55.44,43.86,77.39,65.48,Pass,Team_B_Player_1,Defender,Team_B,1151495
+501,501,1,31,11,True,78.96,65.28,92.61,60.79,Pass,Team_B_Player_9,Striker,Team_B,1151545
+502,502,1,31,17,False,101.12,65.42,84.74,68.0,Pass,Team_B_Player_3,Defender,Team_B,1151695
+503,503,1,31,18,True,19.74,-1.02,19.74,-1.02,Out,Team_A_Player_2,Defender,Team_A,1151720
+504,504,1,31,18,False,85.26,69.02,85.26,69.02,Out,Team_B_Player_3,Defender,Team_B,1151720
+505,505,1,31,37,True,24.67,0.0,38.96,4.83,Pass,Team_A_Player_2,Defender,Team_A,1152202
+506,506,1,31,39,False,38.85,2.92,40.74,3.2,Pass,Team_A_Player_5,Midfielder,Team_A,1152269
+507,507,1,31,40,True,61.74,52.43,61.74,52.43,Ball recovery,Team_B_Player_8,Midfielder,Team_B,1152294
+508,508,1,31,40,True,61.74,52.43,46.51,47.53,Pass,Team_B_Player_8,Midfielder,Team_B,1152294
+509,509,1,31,46,True,47.36,42.43,47.78,55.42,Pass,Team_B_Player_2,Defender,Team_B,1152424
+510,510,1,31,48,True,47.88,56.1,62.47,65.62,Pass,Team_B_Player_1,Defender,Team_B,1152471
+511,511,1,31,49,True,63.1,65.82,74.45,65.89,Pass,Team_B_Player_6,Midfielder,Team_B,1152495
+512,512,1,31,53,True,70.77,59.5,70.77,59.5,Take on,Team_B_Player_9,Striker,Team_B,1152604
+513,513,1,31,55,True,72.76,52.77,72.76,52.77,Take on,Team_B_Player_9,Striker,Team_B,1152663
+514,514,1,31,55,True,76.23,45.83,76.23,45.83,Foul,Team_B_Player_9,Striker,Team_B,1152663
+515,515,1,31,55,False,28.77,22.17,28.77,22.17,Foul,Team_A_Player_6,Midfielder,Team_A,1152645
+516,516,1,32,50,False,72.24,52.43,98.07,35.84,Pass,Team_B_Player_6,Midfielder,Team_B,1154040
+517,517,1,32,53,True,87.78,36.99,90.2,33.12,Pass,Team_B_Player_8,Midfielder,Team_B,1154117
+518,518,1,32,54,True,89.25,33.39,81.27,31.28,Pass,Team_B_Player_5,Striker,Team_B,1154130
+519,519,1,32,55,True,80.74,29.99,85.16,30.67,Attempt saved,Team_B_Player_7,Midfielder,Team_B,1154157
+520,520,1,32,55,True,20.79,35.09,20.79,35.09,Save,Team_A_Player_9,Striker,Team_A,1154163
+521,521,1,33,0,False,5.46,61.06,5.46,61.06,Corner awarded,Team_A_Player_9,Striker,Team_A,1154290
+522,522,1,33,0,True,99.54,6.94,99.54,6.94,Corner awarded,Team_B_Player_7,Midfielder,Team_B,1154291
+523,523,1,33,19,True,104.48,0.34,94.92,4.76,Pass,Team_B_Player_6,Midfielder,Team_B,1154769
+524,524,1,33,21,True,94.6,4.83,83.58,16.39,Pass,Team_B_Player_7,Midfielder,Team_B,1154819
+525,525,1,33,23,False,83.48,16.8,105.0,48.89,Pass,Team_B_Player_6,Midfielder,Team_B,1154850
+526,526,1,33,26,True,-1.26,20.54,-1.26,20.54,Out,Team_A_Player_9,Striker,Team_A,1154920
+527,527,1,33,26,False,106.26,47.46,106.26,47.46,Out,Team_B_Player_6,Midfielder,Team_B,1154944
+528,528,1,33,48,True,5.25,34.07,6.2,48.62,Pass,Team_A_Player_0,Goalkeeper,Team_A,1155486
+529,529,1,33,51,False,7.35,50.86,51.24,63.04,Pass,Team_A_Player_4,Defender,Team_A,1155561
+530,530,1,33,54,False,53.76,7.07,64.47,7.07,Pass,Team_B_Player_4,Defender,Team_B,1155638
+531,531,1,33,57,True,38.32,68.95,38.32,68.95,Out,Team_A_Player_4,Defender,Team_A,1155695
+532,532,1,33,57,False,66.68,-0.95,66.68,-0.95,Out,Team_B_Player_4,Defender,Team_B,1155719
+533,533,1,33,59,True,36.12,68.0,52.18,61.81,Pass,Team_A_Player_1,Defender,Team_A,1155759
+534,534,1,34,2,True,55.02,59.64,55.02,59.64,Foul,Team_A_Player_5,Midfielder,Team_A,1155844
+535,535,1,34,2,False,49.98,8.36,49.98,8.36,Foul,Team_B_Player_8,Midfielder,Team_B,1155820
+536,536,1,34,9,True,52.4,61.81,35.91,46.58,Pass,Team_A_Player_6,Midfielder,Team_A,1155995
+537,537,1,34,11,True,35.6,46.31,39.48,7.48,Pass,Team_A_Player_4,Defender,Team_A,1156046
+538,538,1,34,15,True,39.48,7.0,94.71,11.63,Pass,Team_A_Player_2,Defender,Team_A,1156150
+539,539,1,34,20,True,90.4,16.05,100.9,41.55,Pass,Team_A_Player_8,Striker,Team_A,1156286
+540,540,1,34,22,False,101.43,41.34,101.43,37.88,Pass,Team_A_Player_10,Striker,Team_A,1156328
+541,541,1,34,23,True,1.05,31.89,1.05,31.89,Save,Team_B_Player_0,Goalkeeper,Team_B,1156345
+542,542,1,34,25,True,88.72,42.77,105.0,40.46,Miss,Team_A_Player_5,Midfielder,Team_A,1156399
+543,543,1,34,25,False,105.84,39.03,105.84,39.03,Out,Team_A_Player_5,Midfielder,Team_A,1156403
+544,544,1,34,25,True,-0.84,28.97,-0.84,28.97,Out,Team_B_Player_0,Goalkeeper,Team_B,1156419
+545,545,1,34,52,True,5.67,28.83,27.09,38.56,Pass,Team_B_Player_0,Goalkeeper,Team_B,1157090
+546,546,1,34,56,True,28.98,39.51,36.54,58.75,Pass,Team_B_Player_6,Midfielder,Team_B,1157186
+547,547,1,34,59,True,41.68,60.52,67.41,46.72,Pass,Team_B_Player_1,Defender,Team_B,1157269
+548,548,1,35,1,True,25.72,22.51,25.72,22.51,Ball recovery,Team_A_Player_3,Defender,Team_A,1157319
+549,549,1,35,1,True,25.72,22.51,28.24,34.07,Pass,Team_A_Player_3,Defender,Team_A,1157319
+550,550,1,35,4,True,28.67,37.26,50.4,28.49,Pass,Team_A_Player_4,Defender,Team_A,1157391
+551,551,1,35,8,True,50.19,20.4,50.19,20.4,Foul,Team_A_Player_5,Midfielder,Team_A,1157470
+552,552,1,35,8,False,54.81,47.6,54.81,47.6,Foul,Team_B_Player_8,Midfielder,Team_B,1157482
+553,553,1,35,19,True,48.61,23.53,31.82,19.79,Pass,Team_A_Player_7,Midfielder,Team_A,1157745
+554,554,1,35,21,True,28.98,20.26,13.54,32.5,Pass,Team_A_Player_3,Defender,Team_A,1157819
+555,555,1,35,24,False,13.34,32.5,71.61,34.07,Pass,Team_A_Player_0,Goalkeeper,Team_A,1157874
+556,556,1,35,28,True,30.98,30.53,40.21,40.39,Pass,Team_B_Player_2,Defender,Team_B,1157979
+557,557,1,35,29,True,41.06,38.69,41.06,38.69,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1158019
+558,558,1,35,38,True,39.8,27.88,61.0,64.19,Pass,Team_B_Player_6,Midfielder,Team_B,1158231
+559,559,1,35,42,True,66.99,64.26,77.6,60.93,Pass,Team_B_Player_3,Defender,Team_B,1158320
+560,560,1,35,42,True,77.7,60.79,72.87,58.07,Pass,Team_B_Player_9,Striker,Team_B,1158340
+561,561,1,35,43,True,72.66,55.9,72.66,55.9,Dispossessed,Team_B_Player_3,Defender,Team_B,1158364
+562,562,1,35,44,True,32.34,12.1,32.34,12.1,Tackle,Team_A_Player_8,Striker,Team_A,1158394
+563,563,1,35,45,True,34.44,12.24,34.44,12.24,Ball recovery,Team_A_Player_8,Striker,Team_A,1158419
+564,564,1,35,46,True,36.22,18.63,41.68,38.15,Pass,Team_A_Player_8,Striker,Team_A,1158444
+565,565,1,35,51,True,45.36,45.7,56.81,44.54,Pass,Team_A_Player_5,Midfielder,Team_A,1158550
+566,566,1,35,52,True,56.81,44.54,66.99,65.62,Pass,Team_A_Player_9,Striker,Team_A,1158580
+567,567,1,35,56,True,70.56,66.03,81.9,41.41,Pass,Team_A_Player_1,Defender,Team_A,1158670
+568,568,1,35,59,True,89.04,42.91,105.0,34.61,Miss,Team_A_Player_9,Striker,Team_A,1158749
+569,569,1,35,59,False,106.26,39.17,106.26,39.17,Out,Team_A_Player_9,Striker,Team_A,1158752
+570,570,1,35,59,True,-1.26,28.83,-1.26,28.83,Out,Team_B_Player_2,Defender,Team_B,1158766
+571,571,1,36,4,True,5.78,28.42,23.2,28.83,Pass,Team_B_Player_0,Goalkeeper,Team_B,1158878
+572,572,1,36,9,True,24.46,26.18,44.0,20.94,Pass,Team_B_Player_6,Midfielder,Team_B,1158998
+573,573,1,36,11,True,37.59,19.72,27.51,11.76,Pass,Team_B_Player_7,Midfielder,Team_B,1159045
+574,574,1,36,12,True,27.51,11.76,32.86,17.41,Pass,Team_B_Player_4,Defender,Team_B,1159094
+575,575,1,36,15,True,36.22,22.51,32.55,46.04,Pass,Team_B_Player_7,Midfielder,Team_B,1159169
+576,576,1,36,21,True,43.89,49.98,91.98,60.72,Pass,Team_B_Player_1,Defender,Team_B,1159308
+577,577,1,36,27,True,98.8,59.77,78.22,52.02,Pass,Team_B_Player_9,Striker,Team_B,1159469
+578,578,1,36,29,True,78.22,51.95,95.34,50.39,Pass,Team_B_Player_3,Defender,Team_B,1159502
+579,579,1,36,33,True,101.12,55.69,94.4,62.15,Pass,Team_B_Player_7,Midfielder,Team_B,1159595
+580,580,1,36,35,True,92.08,59.7,99.02,60.79,Pass,Team_B_Player_9,Striker,Team_B,1159656
+581,581,1,36,37,False,99.85,59.98,102.16,33.39,Pass,Team_B_Player_7,Midfielder,Team_B,1159695
+582,582,1,36,38,True,3.26,34.07,3.26,34.07,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1159720
+583,583,1,36,57,False,13.54,36.72,71.4,24.68,Pass,Team_A_Player_0,Goalkeeper,Team_A,1160195
+584,584,1,37,2,True,38.96,42.16,26.46,45.22,Pass,Team_B_Player_8,Midfielder,Team_B,1160329
+585,585,1,37,3,True,26.46,45.22,26.46,45.22,Ball recovery,Team_B_Player_1,Defender,Team_B,1160369
+586,586,1,37,3,True,26.46,45.22,30.76,30.26,Pass,Team_B_Player_1,Defender,Team_B,1160369
+587,587,1,37,6,True,32.76,27.61,35.8,24.62,Pass,Team_B_Player_2,Defender,Team_B,1160444
+588,588,1,37,9,True,41.26,27.4,34.34,42.16,Pass,Team_B_Player_5,Striker,Team_B,1160513
+589,589,1,37,12,True,35.91,42.02,37.49,24.82,Pass,Team_B_Player_1,Defender,Team_B,1160592
+590,590,1,37,15,True,39.06,22.98,61.0,1.97,Pass,Team_B_Player_2,Defender,Team_B,1160648
+591,591,1,37,18,False,63.42,2.31,105.0,16.86,Pass,Team_B_Player_4,Defender,Team_B,1160720
+592,592,1,37,21,True,-1.05,50.73,-1.05,50.73,Out,Team_A_Player_1,Defender,Team_A,1160795
+593,593,1,37,21,False,106.05,17.27,106.05,17.27,Out,Team_B_Player_4,Defender,Team_B,1160795
+594,594,1,37,39,True,5.14,35.22,23.31,18.22,Pass,Team_A_Player_0,Goalkeeper,Team_A,1161245
+595,595,1,37,40,True,24.88,15.64,45.99,20.6,Pass,Team_A_Player_3,Defender,Team_A,1161279
+596,596,1,37,43,False,60.06,53.38,60.06,53.38,Take on,Team_B_Player_6,Midfielder,Team_B,1161369
+597,597,1,37,43,False,44.94,14.62,44.94,14.62,Tackle,Team_A_Player_5,Midfielder,Team_A,1161355
+598,598,1,37,44,True,64.26,47.74,64.26,47.74,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1161394
+599,599,1,37,45,True,67.3,44.4,71.09,29.58,Pass,Team_B_Player_6,Midfielder,Team_B,1161413
+600,600,1,37,47,False,68.78,28.9,83.9,33.66,Pass,Team_B_Player_5,Striker,Team_B,1161445
+601,601,1,37,48,True,25.2,32.91,25.2,32.91,Interception,Team_A_Player_4,Defender,Team_A,1161474
+602,602,1,37,48,True,29.51,33.59,29.51,33.59,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1161492
+603,603,1,37,48,True,27.09,30.26,18.79,36.72,Pass,Team_A_Player_7,Midfielder,Team_A,1161492
+604,604,1,37,50,True,18.27,38.28,30.66,40.8,Pass,Team_A_Player_1,Defender,Team_A,1161520
+605,605,1,37,51,True,29.51,40.8,48.93,43.32,Pass,Team_A_Player_6,Midfielder,Team_A,1161556
+606,606,1,37,54,False,53.97,37.26,53.97,37.26,Take on,Team_A_Player_10,Striker,Team_A,1161644
+607,607,1,37,54,False,51.03,30.74,51.03,30.74,Tackle,Team_B_Player_8,Midfielder,Team_B,1161620
+608,608,1,37,56,True,53.34,32.78,53.24,18.43,Pass,Team_A_Player_10,Striker,Team_A,1161684
+609,609,1,38,1,False,68.04,16.93,88.72,39.51,Pass,Team_A_Player_5,Midfielder,Team_A,1161795
+610,610,1,38,2,True,15.02,26.79,15.02,26.79,Ball recovery,Team_B_Player_4,Defender,Team_B,1161820
+611,611,1,38,4,True,15.02,26.79,27.09,38.35,Pass,Team_B_Player_4,Defender,Team_B,1161885
+612,612,1,38,6,True,29.19,38.35,43.78,48.96,Pass,Team_B_Player_6,Midfielder,Team_B,1161929
+613,613,1,38,10,True,62.9,52.36,80.22,66.1,Pass,Team_B_Player_7,Midfielder,Team_B,1162020
+614,614,1,38,14,False,85.36,63.17,87.46,48.96,Pass,Team_B_Player_9,Striker,Team_B,1162139
+615,615,1,38,15,True,20.37,19.04,20.37,19.04,Ball recovery,Team_A_Player_3,Defender,Team_A,1162161
+616,616,1,38,16,True,21.94,18.84,31.08,23.05,Pass,Team_A_Player_3,Defender,Team_A,1162191
+617,617,1,38,18,True,31.6,22.64,34.54,4.15,Pass,Team_A_Player_5,Midfielder,Team_A,1162223
+618,618,1,38,22,True,34.44,3.4,12.39,9.38,Pass,Team_A_Player_8,Striker,Team_A,1162324
+619,619,1,38,24,True,12.39,9.38,27.62,16.32,Pass,Team_A_Player_2,Defender,Team_A,1162372
+620,620,1,38,31,True,14.49,47.4,45.57,67.66,Pass,Team_A_Player_7,Midfielder,Team_A,1162569
+621,621,1,38,39,True,58.69,66.1,46.51,60.52,Pass,Team_A_Player_1,Defender,Team_A,1162745
+622,622,1,38,42,True,46.72,58.62,41.37,24.96,Pass,Team_A_Player_7,Midfielder,Team_A,1162820
+623,623,1,38,44,True,41.16,24.28,52.6,3.33,Pass,Team_A_Player_3,Defender,Team_A,1162884
+624,624,1,38,47,True,58.69,2.38,67.83,1.16,Pass,Team_A_Player_2,Defender,Team_A,1162969
+625,625,1,38,51,True,67.2,2.11,48.61,13.46,Pass,Team_A_Player_8,Striker,Team_A,1163045
+626,626,1,38,54,True,46.94,17.75,36.33,42.23,Pass,Team_A_Player_6,Midfielder,Team_A,1163135
+627,627,1,38,57,True,37.06,41.55,39.16,17.75,Pass,Team_A_Player_4,Defender,Team_A,1163196
+628,628,1,39,3,True,43.89,12.04,62.79,14.08,Pass,Team_A_Player_3,Defender,Team_A,1163345
+629,629,1,39,7,True,77.28,23.26,105.0,38.96,Miss,Team_A_Player_8,Striker,Team_A,1163457
+630,630,1,39,8,False,106.26,39.51,106.26,39.51,Out,Team_A_Player_8,Striker,Team_A,1163494
+631,631,1,39,8,True,-1.26,28.49,-1.26,28.49,Out,Team_B_Player_5,Striker,Team_B,1163470
+632,632,1,39,26,True,5.46,28.22,38.01,47.46,Pass,Team_B_Player_0,Goalkeeper,Team_B,1163940
+633,633,1,39,29,True,47.78,47.74,65.42,64.19,Pass,Team_B_Player_1,Defender,Team_B,1164008
+634,634,1,39,32,True,64.16,62.56,46.51,59.16,Pass,Team_B_Player_3,Defender,Team_B,1164094
+635,635,1,39,34,True,46.94,58.34,39.58,37.47,Pass,Team_B_Player_1,Defender,Team_B,1164136
+636,636,1,39,37,True,45.68,31.14,59.64,4.15,Pass,Team_B_Player_2,Defender,Team_B,1164212
+637,637,1,39,42,True,59.11,16.66,55.02,28.9,Pass,Team_B_Player_5,Striker,Team_B,1164329
+638,638,1,39,45,True,63.63,26.59,70.35,18.22,Pass,Team_B_Player_6,Midfielder,Team_B,1164395
+639,639,1,39,49,True,69.82,17.07,76.44,2.31,Pass,Team_B_Player_7,Midfielder,Team_B,1164495
+640,640,1,39,52,True,74.97,2.58,56.7,15.37,Pass,Team_B_Player_4,Defender,Team_B,1164594
+641,641,1,39,54,True,57.01,17.68,56.49,45.02,Pass,Team_B_Player_6,Midfielder,Team_B,1164644
+642,642,1,40,0,True,68.04,58.68,76.02,66.44,Pass,Team_B_Player_1,Defender,Team_B,1164770
+643,643,1,40,1,True,76.55,66.44,62.9,54.2,Pass,Team_B_Player_9,Striker,Team_B,1164815
+644,644,1,40,5,True,70.77,51.2,80.11,40.8,Pass,Team_B_Player_7,Midfielder,Team_B,1164898
+645,645,1,40,6,True,80.43,40.73,85.89,49.71,Pass,Team_B_Player_10,Striker,Team_B,1164924
+646,646,1,40,8,False,85.05,50.73,95.34,68.0,Pass,Team_B_Player_3,Defender,Team_B,1164994
+647,647,1,40,10,True,9.98,-0.54,9.98,-0.54,Out,Team_A_Player_5,Midfielder,Team_A,1165020
+648,648,1,40,10,False,95.02,68.54,95.02,68.54,Out,Team_B_Player_3,Defender,Team_B,1165020
+649,649,1,40,30,True,13.02,0.0,25.41,4.15,Pass,Team_A_Player_2,Defender,Team_A,1165520
+650,650,1,40,31,False,25.41,4.15,41.68,4.01,Pass,Team_A_Player_7,Midfielder,Team_A,1165548
+651,651,1,40,31,True,72.87,64.26,72.87,64.26,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1165565
+652,652,1,40,33,True,77.07,65.42,77.07,65.42,Take on,Team_B_Player_6,Midfielder,Team_B,1165595
+653,653,1,40,34,True,81.9,66.5,81.9,66.5,Foul,Team_B_Player_6,Midfielder,Team_B,1165620
+654,654,1,40,34,False,23.1,1.5,23.1,1.5,Foul,Team_A_Player_2,Defender,Team_A,1165620
+655,655,1,40,42,True,74.24,66.3,74.34,63.92,Pass,Team_B_Player_3,Defender,Team_B,1165827
+656,656,1,40,45,True,64.78,64.87,56.49,38.42,Pass,Team_B_Player_6,Midfielder,Team_B,1165919
+657,657,1,40,47,True,56.7,33.18,58.49,14.21,Pass,Team_B_Player_2,Defender,Team_B,1165964
+658,658,1,40,50,True,58.28,14.35,43.89,25.57,Pass,Team_B_Player_4,Defender,Team_B,1166044
+659,659,1,40,53,True,44.84,26.66,49.14,46.1,Pass,Team_B_Player_2,Defender,Team_B,1166119
+660,660,1,40,56,True,48.4,48.48,61.22,56.85,Pass,Team_B_Player_1,Defender,Team_B,1166181
+661,661,1,40,58,False,62.79,56.92,67.2,57.12,Pass,Team_B_Player_6,Midfielder,Team_B,1166220
+662,662,1,40,58,True,32.97,10.0,32.97,10.0,Interception,Team_A_Player_8,Striker,Team_A,1166243
+663,663,1,40,59,False,35.91,-0.82,35.91,-0.82,Out,Team_A_Player_8,Striker,Team_A,1166245
+664,664,1,40,59,True,69.09,68.82,69.09,68.82,Out,Team_B_Player_6,Midfielder,Team_B,1166267
+665,665,1,41,4,True,65.94,68.0,47.25,48.48,Pass,Team_B_Player_6,Midfielder,Team_B,1166394
+666,666,1,41,8,True,47.25,48.28,59.54,59.36,Pass,Team_B_Player_1,Defender,Team_B,1166487
+667,667,1,41,10,True,65.94,60.59,74.55,63.04,Pass,Team_B_Player_6,Midfielder,Team_B,1166521
+668,668,1,41,12,True,35.18,9.38,35.18,9.38,Ball recovery,Team_A_Player_8,Striker,Team_A,1166570
+669,669,1,41,15,True,38.96,12.44,16.17,50.18,Pass,Team_A_Player_8,Striker,Team_A,1166660
+670,670,1,41,23,True,19.64,49.03,24.26,24.48,Pass,Team_A_Player_4,Defender,Team_A,1166853
+671,671,1,41,25,True,24.26,24.28,7.66,34.48,Pass,Team_A_Player_3,Defender,Team_A,1166905
+672,672,1,41,27,True,7.66,34.88,26.25,40.19,Pass,Team_A_Player_0,Goalkeeper,Team_A,1166952
+673,673,1,41,30,True,26.25,43.93,33.39,66.1,Pass,Team_A_Player_6,Midfielder,Team_A,1167027
+674,674,1,41,32,True,33.39,66.1,40.74,56.64,Pass,Team_A_Player_1,Defender,Team_A,1167075
+675,675,1,41,33,True,40.84,56.44,38.54,58.62,Pass,Team_A_Player_9,Striker,Team_A,1167100
+676,676,1,41,33,False,39.06,62.02,39.06,62.02,Take on,Team_A_Player_6,Midfielder,Team_A,1167113
+677,677,1,41,33,False,65.94,5.98,65.94,5.98,Tackle,Team_B_Player_4,Defender,Team_B,1167095
+678,678,1,41,41,True,40.84,63.38,27.4,35.29,Pass,Team_A_Player_1,Defender,Team_A,1167307
+679,679,1,41,45,True,26.56,32.91,38.43,20.2,Pass,Team_A_Player_7,Midfielder,Team_A,1167395
+680,680,1,41,47,True,39.16,22.92,53.13,23.32,Pass,Team_A_Player_8,Striker,Team_A,1167460
+681,681,1,41,48,True,53.13,23.32,44.42,33.18,Pass,Team_A_Player_5,Midfielder,Team_A,1167485
+682,682,1,41,50,True,44.42,33.39,43.78,41.62,Pass,Team_A_Player_8,Striker,Team_A,1167534
+683,683,1,41,52,True,45.26,45.36,56.7,65.62,Pass,Team_A_Player_9,Striker,Team_A,1167589
+684,684,1,41,58,True,60.48,64.8,62.06,58.68,Pass,Team_A_Player_1,Defender,Team_A,1167720
+685,685,1,42,3,True,60.79,58.68,55.76,65.69,Pass,Team_A_Player_9,Striker,Team_A,1167869
+686,686,1,42,5,True,55.34,65.08,43.26,48.96,Pass,Team_A_Player_1,Defender,Team_A,1167918
+687,687,1,42,13,True,42.0,44.68,15.02,34.0,Pass,Team_A_Player_4,Defender,Team_A,1168095
+688,688,1,42,19,True,19.01,33.73,19.64,50.18,Pass,Team_A_Player_0,Goalkeeper,Team_A,1168263
+689,689,1,42,22,True,16.7,51.41,23.42,12.24,Pass,Team_A_Player_4,Defender,Team_A,1168327
+690,690,1,42,27,True,26.67,9.72,36.86,2.58,Pass,Team_A_Player_3,Defender,Team_A,1168445
+691,691,1,42,29,True,43.05,1.43,55.02,12.65,Pass,Team_A_Player_2,Defender,Team_A,1168495
+692,692,1,42,32,True,62.26,9.59,60.48,2.18,Pass,Team_A_Player_6,Midfielder,Team_A,1168591
+693,693,1,42,36,True,57.12,3.54,35.49,42.84,Pass,Team_A_Player_8,Striker,Team_A,1168675
+694,694,1,42,44,True,56.18,46.78,55.76,41.21,Pass,Team_A_Player_4,Defender,Team_A,1168880
+695,695,1,42,45,True,55.23,42.23,49.88,65.08,Pass,Team_A_Player_5,Midfielder,Team_A,1168895
+696,696,1,42,51,True,49.24,65.62,44.73,57.66,Pass,Team_A_Player_4,Defender,Team_A,1169069
+697,697,1,42,57,True,44.42,57.39,49.77,65.69,Pass,Team_A_Player_5,Midfielder,Team_A,1169195
+698,698,1,43,1,True,52.08,65.69,42.53,57.8,Pass,Team_A_Player_4,Defender,Team_A,1169300
+699,699,1,43,4,True,42.21,57.26,50.4,56.58,Pass,Team_A_Player_5,Midfielder,Team_A,1169370
+700,700,1,43,4,True,50.61,56.58,49.77,65.21,Pass,Team_A_Player_7,Midfielder,Team_A,1169394
+701,701,1,43,8,True,46.62,61.54,40.74,48.62,Pass,Team_A_Player_4,Defender,Team_A,1169470
+702,702,1,43,15,True,41.58,46.72,39.06,19.04,Pass,Team_A_Player_7,Midfielder,Team_A,1169645
+703,703,1,43,20,True,53.13,10.13,61.74,2.58,Pass,Team_A_Player_3,Defender,Team_A,1169784
+704,704,1,43,22,True,61.74,2.58,46.1,7.96,Pass,Team_A_Player_2,Defender,Team_A,1169828
+705,705,1,43,25,True,41.58,11.76,39.48,46.17,Pass,Team_A_Player_3,Defender,Team_A,1169901
+706,706,1,43,30,True,41.9,47.33,37.38,33.12,Pass,Team_A_Player_4,Defender,Team_A,1170020
+707,707,1,43,33,True,38.32,30.33,49.04,11.97,Pass,Team_A_Player_6,Midfielder,Team_A,1170100
+708,708,1,43,37,True,58.49,7.0,66.57,11.56,Pass,Team_A_Player_3,Defender,Team_A,1170204
+709,709,1,43,40,True,69.72,14.82,69.72,14.82,Take on,Team_A_Player_8,Striker,Team_A,1170294
+710,710,1,43,42,False,73.29,16.18,73.29,16.18,Take on,Team_A_Player_8,Striker,Team_A,1170324
+711,711,1,43,42,False,31.71,51.82,31.71,51.82,Tackle,Team_B_Player_9,Striker,Team_B,1170320
+712,712,1,43,43,True,29.72,51.14,29.72,51.14,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1170354
+713,713,1,43,46,True,30.34,48.69,19.32,31.55,Pass,Team_B_Player_6,Midfielder,Team_B,1170420
+714,714,1,43,48,True,19.95,33.59,12.81,48.14,Pass,Team_B_Player_2,Defender,Team_B,1170481
+715,715,1,43,50,True,10.18,53.86,34.02,63.24,Pass,Team_B_Player_1,Defender,Team_B,1170520
+716,716,1,43,52,False,33.81,63.24,25.52,65.69,Pass,Team_B_Player_9,Striker,Team_B,1170590
+717,717,1,43,53,True,74.45,5.44,74.45,5.44,Ball recovery,Team_A_Player_8,Striker,Team_A,1170615
+718,718,1,43,53,True,74.55,5.24,55.12,10.2,Pass,Team_A_Player_8,Striker,Team_A,1170615
+719,719,1,43,56,True,45.15,12.78,30.56,25.84,Pass,Team_A_Player_3,Defender,Team_A,1170692
+720,720,1,44,5,True,27.4,22.71,32.34,3.74,Pass,Team_A_Player_4,Defender,Team_A,1170914
+721,721,1,44,7,False,32.34,2.72,43.89,2.72,Pass,Team_A_Player_3,Defender,Team_A,1170961
+722,722,1,44,8,False,45.36,-0.61,45.36,-0.61,Out,Team_A_Player_3,Defender,Team_A,1170980
+723,723,1,44,8,True,59.64,68.61,59.64,68.61,Out,Team_B_Player_9,Striker,Team_B,1170994
+724,724,1,44,15,True,57.96,68.0,36.44,62.42,Pass,Team_B_Player_3,Defender,Team_B,1171145
+725,725,1,44,24,True,38.64,56.71,91.66,3.74,Pass,Team_B_Player_1,Defender,Team_B,1171370
+726,726,1,44,25,False,87.26,3.2,91.98,9.45,Pass,Team_B_Player_5,Striker,Team_B,1171395
+727,727,1,44,26,True,11.97,59.43,11.97,59.43,Ball recovery,Team_A_Player_4,Defender,Team_A,1171420
+728,728,1,44,28,False,10.92,65.28,12.92,65.28,Pass,Team_A_Player_4,Defender,Team_A,1171470
+729,729,1,44,34,True,13.44,62.83,9.45,64.19,Pass,Team_A_Player_1,Defender,Team_A,1171624
+730,730,1,44,36,True,9.56,65.82,45.99,58.48,Pass,Team_A_Player_4,Defender,Team_A,1171670
+731,731,1,44,39,True,46.1,58.0,40.84,60.72,Pass,Team_A_Player_10,Striker,Team_A,1171751
+732,732,1,44,41,True,41.37,57.39,44.52,15.5,Pass,Team_A_Player_5,Midfielder,Team_A,1171801
+733,733,1,44,47,True,60.06,20.26,102.48,61.81,Pass,Team_A_Player_8,Striker,Team_A,1171945
+734,734,1,44,53,True,99.44,66.5,81.9,62.42,Pass,Team_A_Player_9,Striker,Team_A,1172109
+735,735,1,44,58,True,80.64,62.36,97.65,25.16,Pass,Team_A_Player_5,Midfielder,Team_A,1172220
+736,736,1,45,1,True,98.07,24.89,105.0,35.9,Goal,Team_A_Player_8,Striker,Team_A,1172295
+737,737,1,46,6,True,52.6,34.07,43.47,42.64,Pass,Team_B_Player_10,Striker,Team_B,1173920
+738,738,1,46,7,True,43.58,42.77,45.15,61.61,Pass,Team_B_Player_6,Midfielder,Team_B,1204637
+739,739,1,46,9,True,45.15,61.61,33.6,42.02,Pass,Team_B_Player_3,Defender,Team_B,1204687
+740,740,1,46,13,True,36.02,41.96,39.69,18.63,Pass,Team_B_Player_1,Defender,Team_B,1204811
+741,741,1,46,15,True,42.63,19.04,61.0,2.52,Pass,Team_B_Player_2,Defender,Team_B,1174145
+742,742,1,46,18,True,53.13,2.18,39.27,11.56,Pass,Team_B_Player_4,Defender,Team_B,1174240
+743,743,1,46,21,True,43.26,16.66,39.38,45.02,Pass,Team_B_Player_2,Defender,Team_B,1174319
+744,744,1,46,24,False,42.94,47.67,69.4,36.04,Pass,Team_B_Player_1,Defender,Team_B,1205082
+745,745,1,46,26,True,38.74,34.68,38.74,34.68,Ball recovery,Team_A_Player_6,Midfielder,Team_A,1174432
+746,746,1,46,27,True,40.11,31.69,55.23,14.89,Pass,Team_A_Player_6,Midfielder,Team_A,1174445
+747,747,1,46,33,True,81.17,16.39,86.62,26.38,Pass,Team_A_Player_5,Midfielder,Team_A,1174610
+748,748,1,46,34,False,92.19,25.3,92.19,25.3,Take on,Team_A_Player_9,Striker,Team_A,1174644
+749,749,1,46,35,True,12.81,42.7,12.81,42.7,Tackle,Team_B_Player_2,Defender,Team_B,1174666
+750,750,1,46,39,True,9.45,57.46,9.45,57.46,Ball recovery,Team_B_Player_1,Defender,Team_B,1205461
+751,751,1,46,39,True,8.93,60.38,39.69,61.13,Pass,Team_B_Player_1,Defender,Team_B,1205461
+752,752,1,46,42,False,39.69,61.13,50.92,44.2,Pass,Team_B_Player_10,Striker,Team_B,1174844
+753,753,1,46,44,True,54.5,24.28,54.5,24.28,Ball recovery,Team_A_Player_4,Defender,Team_A,1174878
+754,754,1,46,44,True,54.5,24.28,61.84,22.64,Pass,Team_A_Player_4,Defender,Team_A,1174878
+755,755,1,46,44,True,63.0,23.46,61.64,62.15,Pass,Team_A_Player_6,Midfielder,Team_A,1174894
+756,756,1,46,52,True,68.98,65.01,47.88,49.03,Pass,Team_A_Player_1,Defender,Team_A,1175094
+757,757,1,46,58,True,48.93,45.76,49.77,20.47,Pass,Team_A_Player_4,Defender,Team_A,1175242
+758,758,1,47,2,True,49.77,19.24,58.17,27.47,Pass,Team_A_Player_3,Defender,Team_A,1175320
+759,759,1,47,3,True,58.38,25.98,48.61,16.12,Pass,Team_A_Player_7,Midfielder,Team_A,1175353
+760,760,1,47,5,True,48.09,14.62,56.81,2.99,Pass,Team_A_Player_3,Defender,Team_A,1175395
+761,761,1,47,7,True,56.7,2.92,57.86,10.34,Pass,Team_A_Player_2,Defender,Team_A,1175448
+762,762,1,47,7,True,57.86,10.34,63.52,5.64,Pass,Team_A_Player_7,Midfielder,Team_A,1175464
+763,763,1,47,8,True,64.16,6.19,70.46,13.4,Pass,Team_A_Player_8,Striker,Team_A,1175494
+764,764,1,47,9,True,71.3,13.4,64.26,17.14,Pass,Team_A_Player_5,Midfielder,Team_A,1175519
+765,765,1,47,10,False,64.26,17.14,58.28,24.34,Pass,Team_A_Player_8,Striker,Team_A,1175530
+766,766,1,47,16,True,63.74,28.42,74.34,32.16,Pass,Team_A_Player_6,Midfielder,Team_A,1175681
+767,767,1,47,17,True,74.34,32.16,73.82,27.27,Pass,Team_A_Player_10,Striker,Team_A,1175701
+768,768,1,47,18,True,76.96,22.1,76.96,22.1,Dispossessed,Team_A_Player_6,Midfielder,Team_A,1175743
+769,769,1,47,19,False,28.04,45.9,28.04,45.9,Tackle,Team_B_Player_6,Midfielder,Team_B,1206461
+770,770,1,47,19,True,77.49,25.23,77.49,25.23,Dispossessed,Team_A_Player_6,Midfielder,Team_A,1175746
+771,771,1,47,20,True,27.51,42.77,27.51,42.77,Tackle,Team_B_Player_1,Defender,Team_B,1206486
+772,772,1,47,22,True,39.9,41.21,39.9,41.21,Foul,Team_B_Player_7,Midfielder,Team_B,1175833
+773,773,1,47,22,False,65.1,26.79,65.1,26.79,Foul,Team_A_Player_7,Midfielder,Team_A,1175820
+774,774,1,47,26,True,46.83,44.68,58.91,41.62,Pass,Team_B_Player_6,Midfielder,Team_B,1175944
+775,775,1,47,30,True,70.35,29.1,83.48,14.42,Pass,Team_B_Player_5,Striker,Team_B,1176020
+776,776,1,47,36,False,100.38,14.82,99.65,37.94,Pass,Team_B_Player_10,Striker,Team_B,1176170
+777,777,1,47,38,True,5.56,33.39,5.56,33.39,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1176243
+778,778,1,47,45,True,11.34,32.78,18.27,24.28,Pass,Team_A_Player_0,Goalkeeper,Team_A,1176412
+779,779,1,47,51,True,18.58,23.46,13.65,47.6,Pass,Team_A_Player_3,Defender,Team_A,1176549
+780,780,1,48,0,True,23.73,41.82,23.73,22.92,Pass,Team_A_Player_4,Defender,Team_A,1176787
+781,781,1,48,4,True,25.31,22.51,33.29,30.26,Pass,Team_A_Player_3,Defender,Team_A,1176876
+782,782,1,48,7,True,31.18,28.02,23.2,20.81,Pass,Team_A_Player_7,Midfielder,Team_A,1176945
+783,783,1,48,8,True,22.58,20.6,7.04,34.27,Pass,Team_A_Player_3,Defender,Team_A,1176981
+784,784,1,48,13,False,13.96,27.27,63.52,4.22,Pass,Team_A_Player_0,Goalkeeper,Team_A,1177100
+785,785,1,48,16,False,44.1,63.58,47.36,63.58,Pass,Team_B_Player_3,Defender,Team_B,1177177
+786,786,1,48,17,True,55.12,3.13,56.28,6.87,Pass,Team_A_Player_2,Defender,Team_A,1177219
+787,787,1,48,20,True,48.3,4.35,40.21,24.28,Pass,Team_A_Player_8,Striker,Team_A,1177294
+788,788,1,48,29,True,55.76,39.71,38.96,39.37,Pass,Team_A_Player_7,Midfielder,Team_A,1177495
+789,789,1,48,32,True,38.43,37.26,39.58,18.97,Pass,Team_A_Player_4,Defender,Team_A,1177577
+790,790,1,48,37,False,44.73,11.42,56.91,19.79,Pass,Team_A_Player_3,Defender,Team_A,1177695
+791,791,1,48,38,True,48.61,44.88,48.61,44.88,Interception,Team_B_Player_6,Midfielder,Team_B,1208436
+792,792,1,48,40,False,56.91,35.84,66.57,25.84,Pass,Team_B_Player_8,Midfielder,Team_B,1208466
+793,793,1,48,42,True,33.6,45.9,58.06,64.67,Pass,Team_A_Player_4,Defender,Team_A,1177840
+794,794,1,48,51,True,55.44,65.01,76.86,31.35,Pass,Team_A_Player_1,Defender,Team_A,1178064
+795,795,1,48,56,True,89.25,29.85,92.4,30.67,Attempt saved,Team_A_Player_10,Striker,Team_A,1178172
+796,796,1,48,56,True,12.39,37.26,12.39,37.26,Save,Team_B_Player_0,Goalkeeper,Team_B,1208862
+797,797,1,48,57,True,-1.47,41.07,-1.47,41.07,Out,Team_B_Player_0,Goalkeeper,Team_B,1178201
+798,798,1,48,57,False,106.47,26.93,106.47,26.93,Out,Team_A_Player_10,Striker,Team_A,1178200
+799,799,1,49,9,True,5.88,39.1,26.67,22.98,Pass,Team_B_Player_0,Goalkeeper,Team_B,1178495
+800,800,1,49,10,True,26.67,22.98,35.6,14.96,Pass,Team_B_Player_2,Defender,Team_B,1178529
+801,801,1,49,10,True,35.8,14.76,49.24,2.79,Pass,Team_B_Player_4,Defender,Team_B,1178544
+802,802,1,49,12,True,49.24,2.79,39.9,10.06,Pass,Team_B_Player_5,Striker,Team_B,1178570
+803,803,1,49,14,True,39.9,10.54,48.51,1.36,Pass,Team_B_Player_4,Defender,Team_B,1178640
+804,804,1,49,18,True,49.46,1.77,38.85,8.3,Pass,Team_B_Player_5,Striker,Team_B,1178722
+805,805,1,49,21,True,42.94,6.46,32.34,24.41,Pass,Team_B_Player_4,Defender,Team_B,1178800
+806,806,1,49,23,True,33.49,26.38,38.32,51.54,Pass,Team_B_Player_2,Defender,Team_B,1178869
+807,807,1,49,27,True,43.16,56.44,64.26,64.87,Pass,Team_B_Player_1,Defender,Team_B,1178951
+808,808,1,49,30,True,66.26,60.52,64.89,42.77,Pass,Team_B_Player_9,Striker,Team_B,1209712
+809,809,1,49,31,True,64.89,42.77,41.68,42.77,Pass,Team_B_Player_7,Midfielder,Team_B,1179068
+810,810,1,49,33,True,41.79,42.43,60.59,19.65,Pass,Team_B_Player_2,Defender,Team_B,1179117
+811,811,1,49,36,True,61.11,19.04,66.26,10.54,Pass,Team_B_Player_4,Defender,Team_B,1179170
+812,812,1,49,39,True,71.61,11.36,76.44,4.56,Pass,Team_B_Player_5,Striker,Team_B,1209951
+813,813,1,49,43,True,73.4,7.68,61.64,9.11,Pass,Team_B_Player_4,Defender,Team_B,1179366
+814,814,1,49,48,True,64.05,25.57,72.97,52.36,Pass,Team_B_Player_7,Midfielder,Team_B,1179494
+815,815,1,49,53,True,75.91,56.92,84.84,65.48,Pass,Team_B_Player_1,Defender,Team_B,1179595
+816,816,1,49,56,True,83.48,64.67,70.24,65.28,Pass,Team_B_Player_3,Defender,Team_B,1179689
+817,817,2,45,0,True,52.6,33.93,40.95,38.15,Pass,Team_B_Player_8,Midfielder,Team_B,1202963
+818,818,2,45,2,True,40.64,38.9,27.09,50.12,Pass,Team_B_Player_6,Midfielder,Team_B,1203022
+819,819,2,45,5,True,30.56,51.61,44.21,65.48,Pass,Team_B_Player_1,Defender,Team_B,1203087
+820,820,2,45,7,True,44.42,65.48,27.72,50.73,Pass,Team_B_Player_3,Defender,Team_B,1203156
+821,821,2,45,10,True,37.06,49.64,33.39,30.26,Pass,Team_B_Player_1,Defender,Team_B,1203218
+822,822,2,45,12,True,32.76,29.44,35.6,9.45,Pass,Team_B_Player_19,Defender,Team_B,1172570
+823,823,2,45,16,True,36.96,9.25,31.82,20.13,Pass,Team_B_Player_15,Defender,Team_B,1172670
+824,824,2,45,18,True,33.91,21.28,41.06,47.46,Pass,Team_B_Player_19,Defender,Team_B,1172720
+825,825,2,45,22,True,41.26,47.74,38.01,25.57,Pass,Team_B_Player_1,Defender,Team_B,1203521
+826,826,2,45,24,True,38.01,30.74,46.2,18.5,Pass,Team_B_Player_19,Defender,Team_B,1172870
+827,827,2,45,27,True,54.71,16.46,70.24,2.72,Pass,Team_B_Player_7,Midfielder,Team_B,1203648
+828,828,2,45,31,True,38.85,64.46,38.85,64.46,Foul,Team_A_Player_9,Striker,Team_A,1203761
+829,829,2,45,31,False,66.15,3.54,66.15,3.54,Foul,Team_B_Player_14,Forward,Team_B,1173045
+830,830,2,45,45,False,43.78,64.8,91.98,44.88,Pass,Team_A_Player_1,Defender,Team_A,1204111
+831,831,2,45,49,True,11.86,26.04,11.86,26.04,Keeper pick-up,Team_B_Player_0,Goalkeeper,Team_B,1204203
+832,832,2,45,51,True,13.02,26.25,20.16,45.29,Pass,Team_B_Player_0,Goalkeeper,Team_B,1204237
+833,833,2,45,58,True,31.71,50.73,42.42,61.34,Pass,Team_B_Player_1,Defender,Team_B,1204414
+834,834,2,46,1,True,44.62,65.08,44.62,65.08,Foul,Team_B_Player_6,Midfielder,Team_B,1173795
+835,835,2,46,1,False,60.37,2.92,60.37,2.92,Foul,Team_A_Player_10,Striker,Team_A,1204487
+836,836,2,46,12,True,40.11,65.28,32.66,51.54,Pass,Team_B_Player_6,Midfielder,Team_B,1204766
+837,837,2,46,15,True,32.66,50.93,42.1,19.31,Pass,Team_B_Player_1,Defender,Team_B,1204837
+838,838,2,46,18,True,42.1,19.31,64.05,4.42,Pass,Team_B_Player_19,Defender,Team_B,1174220
+839,839,2,46,23,True,49.66,4.83,39.16,19.72,Pass,Team_B_Player_15,Defender,Team_B,1174345
+840,840,2,46,26,True,31.29,21.28,7.98,32.57,Pass,Team_B_Player_19,Defender,Team_B,1174420
+841,841,2,46,30,True,13.23,32.71,23.52,46.65,Pass,Team_B_Player_0,Goalkeeper,Team_B,1205219
+842,842,2,46,32,True,22.36,46.1,40.01,60.32,Pass,Team_B_Player_1,Defender,Team_B,1205279
+843,843,2,46,36,True,42.53,60.59,60.37,64.4,Pass,Team_B_Player_6,Midfielder,Team_B,1205363
+844,844,2,46,40,True,43.68,65.28,31.82,63.99,Pass,Team_B_Player_9,Striker,Team_B,1205484
+845,845,2,46,45,True,37.59,51.2,35.91,22.92,Pass,Team_B_Player_6,Midfielder,Team_B,1205594
+846,846,2,46,48,True,42.63,20.47,63.42,1.09,Pass,Team_B_Player_19,Defender,Team_B,1174970
+847,847,2,46,51,False,59.64,2.11,56.07,19.04,Pass,Team_B_Player_14,Forward,Team_B,1175045
+848,848,2,46,52,True,45.57,46.72,45.57,46.72,Interception,Team_A_Player_5,Midfielder,Team_A,1205783
+849,849,2,46,54,True,59.64,10.95,59.64,10.95,Take on,Team_B_Player_14,Forward,Team_B,1175120
+850,850,2,46,55,False,66.99,16.32,66.99,16.32,Take on,Team_B_Player_14,Forward,Team_B,1175145
+851,851,2,46,55,False,38.01,51.68,38.01,51.68,Tackle,Team_A_Player_6,Midfielder,Team_A,1175169
+852,852,2,46,56,True,91.98,53.79,91.98,53.79,Dispossessed,Team_A_Player_6,Midfielder,Team_A,1175170
+853,853,2,46,57,False,13.02,14.21,13.02,14.21,Tackle,Team_B_Player_14,Forward,Team_B,1175195
+854,854,2,46,58,True,33.81,48.42,27.3,53.99,Pass,Team_A_Player_7,Midfielder,Team_A,1175244
+855,855,2,46,59,True,27.3,54.54,27.3,54.54,Ball recovery,Team_A_Player_4,Defender,Team_A,1175245
+856,856,2,46,59,True,27.3,54.54,48.61,63.04,Pass,Team_A_Player_4,Defender,Team_A,1175245
+857,857,2,47,4,True,48.51,64.4,43.26,56.85,Pass,Team_A_Player_9,Striker,Team_A,1175370
+858,858,2,47,5,False,42.94,58.21,55.44,53.92,Pass,Team_A_Player_6,Midfielder,Team_A,1175395
+859,859,2,47,6,True,47.25,10.13,47.25,10.13,Interception,Team_B_Player_7,Midfielder,Team_B,1206123
+860,860,2,47,6,True,48.72,18.22,48.72,18.22,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1206134
+861,861,2,47,7,True,48.72,18.22,56.28,32.16,Pass,Team_B_Player_6,Midfielder,Team_B,1206159
+862,862,2,47,10,True,50.19,34.27,42.1,47.94,Pass,Team_B_Player_5,Striker,Team_B,1206227
+863,863,2,47,12,True,42.74,47.94,48.93,44.2,Pass,Team_B_Player_3,Defender,Team_B,1206286
+864,864,2,47,17,True,55.23,59.5,63.63,66.84,Pass,Team_B_Player_5,Striker,Team_B,1206398
+865,865,2,47,21,True,59.54,59.36,58.06,61.81,Pass,Team_B_Player_9,Striker,Team_B,1206489
+866,866,2,47,23,True,58.38,61.95,70.46,66.03,Pass,Team_B_Player_6,Midfielder,Team_B,1206544
+867,867,2,47,26,True,67.52,65.48,59.11,62.76,Pass,Team_B_Player_3,Defender,Team_B,1206633
+868,868,2,47,28,True,63.52,63.99,60.69,66.5,Pass,Team_B_Player_6,Midfielder,Team_B,1206671
+869,869,2,47,33,True,78.02,66.44,83.06,59.57,Pass,Team_B_Player_9,Striker,Team_B,1206787
+870,870,2,47,35,False,81.9,60.18,90.09,58.34,Pass,Team_B_Player_3,Defender,Team_B,1206837
+871,871,2,47,36,True,15.02,9.38,15.02,9.38,Ball recovery,Team_A_Player_2,Defender,Team_A,1206864
+872,872,2,47,36,True,15.02,9.38,27.72,3.4,Pass,Team_A_Player_2,Defender,Team_A,1206864
+873,873,2,47,37,False,26.88,-1.09,26.88,-1.09,Out,Team_A_Player_8,Striker,Team_A,1176219
+874,874,2,47,37,True,78.12,69.09,78.12,69.09,Out,Team_B_Player_3,Defender,Team_B,1206911
+875,875,2,47,40,True,79.28,68.0,48.19,57.26,Pass,Team_B_Player_3,Defender,Team_B,1206984
+876,876,2,47,45,True,46.2,52.97,47.14,30.53,Pass,Team_B_Player_1,Defender,Team_B,1207093
+877,877,2,47,48,True,46.62,29.44,58.8,3.33,Pass,Team_B_Player_19,Defender,Team_B,1176470
+878,878,2,47,52,True,57.54,3.81,42.74,20.13,Pass,Team_B_Player_15,Defender,Team_B,1176570
+879,879,2,47,55,True,41.79,21.35,43.16,44.27,Pass,Team_B_Player_19,Defender,Team_B,1176645
+880,880,2,47,57,True,45.57,46.72,58.06,58.75,Pass,Team_B_Player_1,Defender,Team_B,1207397
+881,881,2,48,1,False,63.52,52.56,81.9,34.0,Pass,Team_B_Player_6,Midfielder,Team_B,1207506
+882,882,2,48,5,True,31.29,37.81,31.29,37.81,Take on,Team_A_Player_4,Defender,Team_A,1176914
+883,883,2,48,6,True,23.83,36.04,23.83,36.04,Ball recovery,Team_A_Player_4,Defender,Team_A,1176920
+884,884,2,48,9,True,55.65,57.39,68.25,49.23,Pass,Team_A_Player_4,Defender,Team_A,1207687
+885,885,2,48,11,True,68.67,51.48,90.93,66.1,Pass,Team_A_Player_9,Striker,Team_A,1207737
+886,886,2,48,18,True,98.38,66.71,85.16,65.08,Pass,Team_A_Player_4,Defender,Team_A,1177244
+887,887,2,48,21,True,84.32,66.44,74.45,65.42,Pass,Team_A_Player_9,Striker,Team_A,1177319
+888,888,2,48,23,False,77.07,68.61,77.07,68.61,Out,Team_A_Player_1,Defender,Team_A,1177369
+889,889,2,48,23,True,27.93,-0.61,27.93,-0.61,Out,Team_B_Player_14,Forward,Team_B,1177345
+890,890,2,48,34,True,41.26,0.0,27.2,7.62,Pass,Team_B_Player_15,Defender,Team_B,1177620
+891,891,2,48,38,True,24.04,18.7,30.14,49.3,Pass,Team_B_Player_19,Defender,Team_B,1177720
+892,892,2,48,41,True,31.18,50.8,46.62,64.87,Pass,Team_B_Player_1,Defender,Team_B,1208491
+893,893,2,48,44,True,48.19,64.8,53.55,58.48,Pass,Team_B_Player_3,Defender,Team_B,1208574
+894,894,2,48,45,True,53.97,58.48,57.54,65.62,Pass,Team_B_Player_6,Midfielder,Team_B,1208609
+895,895,2,48,47,True,58.28,65.21,47.04,60.79,Pass,Team_B_Player_3,Defender,Team_B,1208637
+896,896,2,48,49,True,48.09,55.83,40.84,23.94,Pass,Team_B_Player_6,Midfielder,Team_B,1208703
+897,897,2,48,52,True,44.21,21.49,67.3,3.13,Pass,Team_B_Player_19,Defender,Team_B,1178070
+898,898,2,48,55,True,66.78,2.11,71.4,9.11,Pass,Team_B_Player_15,Defender,Team_B,1178145
+899,899,2,48,56,True,35.7,56.98,35.7,56.98,Ball recovery,Team_A_Player_9,Striker,Team_A,1178170
+900,900,2,48,58,False,35.7,56.98,34.54,54.54,Pass,Team_A_Player_9,Striker,Team_A,1208926
+901,901,2,49,0,True,74.13,29.31,74.13,29.31,Ball recovery,Team_B_Player_5,Striker,Team_B,1208986
+902,902,2,49,2,False,74.13,29.31,105.0,65.69,Pass,Team_B_Player_5,Striker,Team_B,1209012
+903,903,2,49,5,True,-1.05,3.06,-1.05,3.06,Out,Team_A_Player_2,Defender,Team_A,1178395
+904,904,2,49,5,False,106.05,64.94,106.05,64.94,Out,Team_B_Player_5,Striker,Team_B,1209087
+905,905,2,49,32,False,5.46,33.32,69.93,25.64,Pass,Team_A_Player_0,Goalkeeper,Team_A,1209767
+906,906,2,49,37,True,34.23,37.74,28.46,25.02,Pass,Team_B_Player_6,Midfielder,Team_B,1209889
+907,907,2,49,38,True,28.46,25.02,28.46,25.02,Ball recovery,Team_B_Player_19,Defender,Team_B,1179220
+908,908,2,49,38,True,28.46,25.02,40.01,24.62,Pass,Team_B_Player_19,Defender,Team_B,1179220
+909,909,2,49,41,False,36.96,30.12,74.13,51.75,Pass,Team_B_Player_7,Midfielder,Team_B,1210005
+910,910,2,49,44,True,27.4,7.89,27.4,7.89,Ball recovery,Team_A_Player_2,Defender,Team_A,1210079
+911,911,2,49,46,True,28.46,6.26,38.64,3.33,Pass,Team_A_Player_2,Defender,Team_A,1210112
+912,912,2,49,53,True,55.23,5.03,68.14,11.56,Pass,Team_A_Player_8,Striker,Team_A,1210287
+913,913,2,49,54,True,68.46,11.97,66.99,17.82,Pass,Team_A_Player_10,Striker,Team_A,1210333
+914,914,2,49,55,True,67.41,19.38,67.2,24.55,Pass,Team_A_Player_5,Midfielder,Team_A,1210360
+915,915,2,50,0,False,81.17,36.72,81.17,36.72,Take on,Team_A_Player_8,Striker,Team_A,1210462
+916,916,2,50,0,True,23.83,31.28,23.83,31.28,Tackle,Team_B_Player_19,Defender,Team_B,1210462
+917,917,2,50,1,True,29.19,31.14,29.19,31.14,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1210511
+918,918,2,50,3,True,31.71,29.72,52.29,16.46,Pass,Team_B_Player_6,Midfielder,Team_B,1210541
+919,919,2,50,5,True,47.98,57.66,47.98,57.66,Ball recovery,Team_A_Player_4,Defender,Team_A,1210603
+920,920,2,50,9,True,74.02,50.25,76.23,36.52,Pass,Team_A_Player_4,Defender,Team_A,1210687
+921,921,2,50,12,True,27.62,40.32,27.62,40.32,Ball recovery,Team_B_Player_3,Defender,Team_B,1210782
+922,922,2,50,16,True,33.39,40.39,58.8,52.56,Pass,Team_B_Player_6,Midfielder,Team_B,1210872
+923,923,2,50,20,True,58.38,52.56,65.31,64.67,Pass,Team_B_Player_5,Striker,Team_B,1210962
+924,924,2,50,25,True,72.55,64.4,90.62,47.87,Pass,Team_B_Player_9,Striker,Team_B,1211087
+925,925,2,50,32,True,78.44,61.0,55.34,26.25,Pass,Team_B_Player_8,Midfielder,Team_B,1211271
+926,926,2,50,37,True,60.48,21.35,75.29,27.81,Pass,Team_B_Player_19,Defender,Team_B,1211387
+927,927,2,50,39,True,72.45,28.83,68.56,32.16,Pass,Team_B_Player_5,Striker,Team_B,1211447
+928,928,2,50,40,True,68.56,32.16,79.59,5.64,Pass,Team_B_Player_7,Midfielder,Team_B,1211471
+929,929,2,50,45,True,78.22,10.06,75.29,20.13,Pass,Team_B_Player_14,Forward,Team_B,1211587
+930,930,2,50,46,False,75.08,20.74,88.72,25.23,Pass,Team_B_Player_5,Striker,Team_B,1211621
+931,931,2,50,54,True,38.22,28.49,38.22,28.49,Ball recovery,Team_B_Player_1,Defender,Team_B,1211826
+932,932,2,50,56,True,38.22,28.49,56.6,54.6,Pass,Team_B_Player_1,Defender,Team_B,1211870
+933,933,2,51,0,True,59.96,56.64,74.86,65.48,Pass,Team_B_Player_6,Midfielder,Team_B,1211962
+934,934,2,51,2,True,74.02,65.89,69.93,60.32,Pass,Team_B_Player_3,Defender,Team_B,1212024
+935,935,2,51,5,True,35.6,12.58,35.6,12.58,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1212094
+936,936,2,51,5,True,35.6,12.58,30.34,4.22,Pass,Team_A_Player_7,Midfielder,Team_A,1212094
+937,937,2,51,6,True,30.45,4.42,37.59,16.52,Pass,Team_A_Player_2,Defender,Team_A,1212120
+938,938,2,51,9,True,61.74,51.41,61.74,51.41,Ball recovery,Team_B_Player_8,Midfielder,Team_B,1212203
+939,939,2,51,9,True,61.74,51.41,45.15,48.76,Pass,Team_B_Player_8,Midfielder,Team_B,1212203
+940,940,2,51,11,True,45.78,47.87,49.66,29.92,Pass,Team_B_Player_1,Defender,Team_B,1212255
+941,941,2,51,14,True,49.46,31.08,56.07,39.1,Pass,Team_B_Player_19,Defender,Team_B,1212312
+942,942,2,51,17,True,65.94,42.16,101.96,63.44,Pass,Team_B_Player_7,Midfielder,Team_B,1212401
+943,943,2,51,24,True,95.55,63.17,80.22,60.52,Pass,Team_B_Player_3,Defender,Team_B,1212586
+944,944,2,51,28,True,81.48,50.8,105.0,27.74,Miss,Team_B_Player_6,Midfielder,Team_B,1212682
+945,945,2,51,30,True,-0.52,39.44,-0.52,39.44,Out,Team_A_Player_6,Midfielder,Team_A,1212712
+946,946,2,51,30,False,105.52,28.56,105.52,28.56,Out,Team_B_Player_6,Midfielder,Team_B,1212713
+947,947,2,51,53,True,5.67,35.29,16.48,56.58,Pass,Team_A_Player_0,Goalkeeper,Team_A,1213294
+948,948,2,51,58,True,19.74,56.24,5.78,32.91,Pass,Team_A_Player_1,Defender,Team_A,1213423
+949,949,2,52,2,True,13.86,32.71,36.12,32.16,Pass,Team_A_Player_0,Goalkeeper,Team_A,1213536
+950,950,2,52,6,True,65.94,21.08,65.94,21.08,Ball recovery,Team_B_Player_5,Striker,Team_B,1213627
+951,951,2,52,6,True,65.94,21.08,56.39,30.06,Pass,Team_B_Player_5,Striker,Team_B,1213627
+952,952,2,52,9,True,56.7,30.67,61.22,44.27,Pass,Team_B_Player_7,Midfielder,Team_B,1213688
+953,953,2,52,12,True,66.36,49.78,74.86,63.17,Pass,Team_B_Player_6,Midfielder,Team_B,1213767
+954,954,2,52,14,True,74.86,63.78,67.2,56.03,Pass,Team_B_Player_3,Defender,Team_B,1213812
+955,955,2,52,18,True,62.26,52.84,58.38,37.13,Pass,Team_B_Player_6,Midfielder,Team_B,1213916
+956,956,2,52,20,True,57.75,37.67,77.7,4.76,Pass,Team_B_Player_1,Defender,Team_B,1213981
+957,957,2,52,23,True,77.39,4.96,73.29,19.24,Pass,Team_B_Player_15,Defender,Team_B,1214037
+958,958,2,52,26,True,75.91,10.68,82.64,3.54,Pass,Team_B_Player_5,Striker,Team_B,1214129
+959,959,2,52,33,True,81.8,6.6,71.5,6.39,Pass,Team_B_Player_15,Defender,Team_B,1214287
+960,960,2,52,35,True,70.98,6.87,67.52,34.61,Pass,Team_B_Player_19,Defender,Team_B,1214337
+961,961,2,52,39,True,59.22,38.35,59.22,18.7,Pass,Team_B_Player_6,Midfielder,Team_B,1214457
+962,962,2,52,42,True,61.22,17.0,72.97,3.13,Pass,Team_B_Player_19,Defender,Team_B,1214512
+963,963,2,52,44,True,74.02,2.38,71.71,10.95,Pass,Team_B_Player_15,Defender,Team_B,1214562
+964,964,2,52,48,True,73.71,5.24,63.74,9.93,Pass,Team_B_Player_14,Forward,Team_B,1214662
+965,965,2,52,50,True,62.58,10.27,56.18,31.96,Pass,Team_B_Player_19,Defender,Team_B,1214712
+966,966,2,52,52,True,55.34,32.1,62.79,51.75,Pass,Team_B_Player_1,Defender,Team_B,1214777
+967,967,2,52,54,True,62.79,51.75,69.4,64.8,Pass,Team_B_Player_6,Midfielder,Team_B,1214826
+968,968,2,52,56,False,69.3,64.8,72.34,51.61,Pass,Team_B_Player_9,Striker,Team_B,1214868
+969,969,2,52,58,True,26.04,18.63,26.04,18.63,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1214920
+970,970,2,52,58,True,26.04,18.63,40.95,18.56,Pass,Team_A_Player_7,Midfielder,Team_A,1214920
+971,971,2,52,58,True,40.95,18.56,41.37,3.6,Pass,Team_A_Player_5,Midfielder,Team_A,1214931
+972,972,2,53,1,True,37.17,6.12,37.17,6.12,Take on,Team_A_Player_8,Striker,Team_A,1214987
+973,973,2,53,2,True,41.79,3.2,68.56,2.72,Pass,Team_A_Player_8,Striker,Team_A,1215036
+974,974,2,53,7,False,70.46,3.4,87.68,35.43,Pass,Team_A_Player_5,Midfielder,Team_A,1215137
+975,975,2,53,9,True,19.11,31.55,25.72,49.5,Pass,Team_B_Player_19,Defender,Team_B,1215187
+976,976,2,53,11,True,25.72,50.8,25.72,50.8,Ball recovery,Team_B_Player_1,Defender,Team_B,1215245
+977,977,2,53,12,True,25.52,50.8,4.93,35.84,Pass,Team_B_Player_1,Defender,Team_B,1215262
+978,978,2,53,13,False,4.93,35.84,58.91,52.43,Pass,Team_B_Player_0,Goalkeeper,Team_B,1215310
+979,979,2,53,16,False,47.14,13.6,60.59,22.92,Pass,Team_A_Player_3,Defender,Team_A,1215380
+980,980,2,53,19,False,41.9,44.4,64.26,18.84,Pass,Team_B_Player_6,Midfielder,Team_B,1215439
+981,981,2,54,26,True,41.37,43.32,36.12,19.18,Pass,Team_A_Player_6,Midfielder,Team_A,1217124
+982,982,2,54,30,True,36.22,19.24,32.76,40.12,Pass,Team_A_Player_3,Defender,Team_A,1217217
+983,983,2,54,38,True,34.96,41.41,36.12,20.6,Pass,Team_A_Player_4,Defender,Team_A,1217414
+984,984,2,54,41,False,39.27,18.77,75.7,12.38,Pass,Team_A_Player_3,Defender,Team_A,1217487
+985,985,2,54,44,True,28.46,52.84,45.57,49.98,Pass,Team_B_Player_3,Defender,Team_B,1217566
+986,986,2,54,47,True,63.0,12.58,63.0,12.58,Ball recovery,Team_A_Player_8,Striker,Team_A,1217661
+987,987,2,54,49,True,60.59,26.45,75.08,60.04,Pass,Team_A_Player_8,Striker,Team_A,1217706
+988,988,2,54,54,False,81.59,59.5,94.71,36.04,Pass,Team_A_Player_1,Defender,Team_A,1217812
+989,989,2,54,57,True,34.02,47.12,34.02,47.12,Ball recovery,Team_B_Player_9,Striker,Team_B,1217909
+990,990,2,54,58,False,34.02,47.26,35.39,48.69,Pass,Team_B_Player_9,Striker,Team_B,1217922
+991,991,2,54,58,True,76.02,17.61,76.02,17.61,Dispossessed,Team_A_Player_2,Defender,Team_A,1217912
+992,992,2,54,59,False,28.98,50.39,28.98,50.39,Tackle,Team_B_Player_9,Striker,Team_B,1217955
+993,993,2,55,0,True,70.35,14.08,70.35,14.08,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1217985
+994,994,2,55,0,True,70.35,14.08,76.33,18.43,Pass,Team_A_Player_7,Midfielder,Team_A,1217985
+995,995,2,55,2,True,76.33,18.43,96.18,40.39,Pass,Team_A_Player_5,Midfielder,Team_A,1218036
+996,996,2,55,7,True,101.01,43.93,101.01,43.93,Corner awarded,Team_A_Player_10,Striker,Team_A,1218137
+997,997,2,55,7,False,3.99,24.07,3.99,24.07,Corner awarded,Team_B_Player_15,Defender,Team_B,1218137
+998,998,2,55,38,False,104.48,67.66,105.0,32.78,Pass,Team_A_Player_8,Striker,Team_A,1218936
+999,999,2,55,39,False,106.05,33.59,106.05,33.59,Out,Team_A_Player_8,Striker,Team_A,1218957
+1000,1000,2,55,39,True,-1.05,34.41,-1.05,34.41,Out,Team_B_Player_8,Midfielder,Team_B,1218937
+1001,1001,2,56,11,True,5.67,28.83,27.09,45.9,Pass,Team_B_Player_0,Goalkeeper,Team_B,1219737
+1002,1002,2,56,14,True,27.09,45.9,45.68,63.17,Pass,Team_B_Player_1,Defender,Team_B,1219812
+1003,1003,2,56,16,True,45.68,63.17,34.65,46.92,Pass,Team_B_Player_6,Midfielder,Team_B,1219868
+1004,1004,2,56,18,True,34.65,46.92,48.09,44.2,Pass,Team_B_Player_1,Defender,Team_B,1219930
+1005,1005,2,56,19,True,48.09,44.2,33.29,46.31,Pass,Team_B_Player_7,Midfielder,Team_B,1219961
+1006,1006,2,56,20,True,33.29,46.31,44.73,19.45,Pass,Team_B_Player_1,Defender,Team_B,1219983
+1007,1007,2,56,24,True,45.57,18.5,60.27,3.94,Pass,Team_B_Player_19,Defender,Team_B,1220062
+1008,1008,2,56,26,True,59.22,6.6,59.32,22.17,Pass,Team_B_Player_15,Defender,Team_B,1220112
+1009,1009,2,56,27,True,58.49,22.51,40.64,33.8,Pass,Team_B_Player_7,Midfielder,Team_B,1220145
+1010,1010,2,56,30,True,44.73,35.5,54.39,49.91,Pass,Team_B_Player_1,Defender,Team_B,1220215
+1011,1011,2,56,33,True,57.01,50.39,68.46,63.78,Pass,Team_B_Player_6,Midfielder,Team_B,1220287
+1012,1012,2,56,35,True,69.61,65.48,63.32,47.12,Pass,Team_B_Player_3,Defender,Team_B,1220351
+1013,1013,2,56,38,False,65.83,46.65,93.45,9.32,Pass,Team_B_Player_7,Midfielder,Team_B,1220412
+1014,1014,2,56,45,False,32.97,69.02,32.97,69.02,Out,Team_A_Player_1,Defender,Team_A,1220602
+1015,1015,2,56,45,True,72.03,-1.02,72.03,-1.02,Out,Team_B_Player_7,Midfielder,Team_B,1220611
+1016,1016,2,56,50,True,67.73,0.0,49.24,8.02,Pass,Team_B_Player_15,Defender,Team_B,1220712
+1017,1017,2,56,53,True,48.61,8.98,57.86,49.64,Pass,Team_B_Player_19,Defender,Team_B,1220787
+1018,1018,2,56,55,True,56.6,48.35,65.42,63.04,Pass,Team_B_Player_6,Midfielder,Team_B,1220837
+1019,1019,2,56,59,True,62.26,64.46,49.56,46.38,Pass,Team_B_Player_5,Striker,Team_B,1220939
+1020,1020,2,57,2,True,45.57,44.47,56.81,16.66,Pass,Team_B_Player_1,Defender,Team_B,1221012
+1021,1021,2,57,6,False,57.22,16.66,70.88,1.97,Pass,Team_B_Player_19,Defender,Team_B,1221112
+1022,1022,2,57,7,True,33.81,65.21,33.81,65.21,Ball recovery,Team_A_Player_1,Defender,Team_A,1221137
+1023,1023,2,57,10,True,44.52,65.21,79.59,61.0,Pass,Team_A_Player_1,Defender,Team_A,1221236
+1024,1024,2,57,17,True,88.3,46.31,90.09,45.15,Attempt saved,Team_A_Player_10,Striker,Team_A,1221393
+1025,1025,2,57,17,True,16.8,22.3,16.8,22.3,Save,Team_B_Player_19,Defender,Team_B,1221387
+1026,1026,2,57,18,True,88.2,44.06,88.2,44.06,Corner awarded,Team_A_Player_10,Striker,Team_A,1221412
+1027,1027,2,57,18,False,16.8,23.94,16.8,23.94,Corner awarded,Team_B_Player_19,Defender,Team_B,1221412
+1028,1028,2,57,59,True,104.48,0.34,99.02,31.69,Pass,Team_A_Player_8,Striker,Team_A,1222461
+1029,1029,2,58,2,True,11.76,37.33,11.76,37.33,Ball recovery,Team_B_Player_5,Striker,Team_B,1222514
+1030,1030,2,58,3,True,21.94,40.94,31.29,48.76,Pass,Team_B_Player_5,Striker,Team_B,1222544
+1031,1031,2,58,5,False,30.98,49.78,41.37,44.88,Pass,Team_B_Player_20,Forward,Team_B,1222587
+1032,1032,2,58,6,True,61.22,21.42,61.22,21.42,Ball recovery,Team_A_Player_9,Striker,Team_A,1222629
+1033,1033,2,58,12,True,46.94,17.54,36.22,35.29,Pass,Team_A_Player_9,Striker,Team_A,1222765
+1034,1034,2,58,18,True,40.74,25.09,44.52,15.03,Pass,Team_A_Player_7,Midfielder,Team_A,1222912
+1035,1035,2,58,19,True,44.52,15.1,15.96,32.71,Pass,Team_A_Player_3,Defender,Team_A,1222939
+1036,1036,2,58,25,True,16.27,32.78,21.21,43.32,Pass,Team_A_Player_0,Goalkeeper,Team_A,1223097
+1037,1037,2,58,31,True,21.74,41.62,18.38,17.95,Pass,Team_A_Player_4,Defender,Team_A,1223261
+1038,1038,2,58,35,False,19.74,16.32,73.82,1.16,Pass,Team_A_Player_3,Defender,Team_A,1223350
+1039,1039,2,58,40,True,32.13,66.5,32.13,66.5,Ball recovery,Team_B_Player_3,Defender,Team_B,1223473
+1040,1040,2,58,40,True,32.13,66.5,9.35,33.18,Pass,Team_B_Player_3,Defender,Team_B,1223473
+1041,1041,2,58,44,True,15.12,34.2,21.74,25.64,Pass,Team_B_Player_0,Goalkeeper,Team_B,1223578
+1042,1042,2,58,51,True,36.86,23.53,38.22,46.51,Pass,Team_B_Player_19,Defender,Team_B,1223737
+1043,1043,2,58,54,True,40.53,47.87,59.54,64.46,Pass,Team_B_Player_1,Defender,Team_B,1223820
+1044,1044,2,59,0,True,77.28,59.3,78.85,49.3,Pass,Team_B_Player_5,Striker,Team_B,1223962
+1045,1045,2,59,1,False,78.85,49.78,70.46,54.47,Pass,Team_B_Player_8,Midfielder,Team_B,1223988
+1046,1046,2,59,3,True,36.44,5.03,36.44,5.03,Ball recovery,Team_A_Player_2,Defender,Team_A,1224061
+1047,1047,2,59,7,True,44.1,4.76,49.88,1.36,Pass,Team_A_Player_2,Defender,Team_A,1224142
+1048,1048,2,59,9,False,56.07,1.97,78.44,31.69,Pass,Team_A_Player_5,Midfielder,Team_A,1224187
+1049,1049,2,59,12,True,23.83,36.52,23.83,36.52,Interception,Team_B_Player_6,Midfielder,Team_B,1224263
+1050,1050,2,59,14,True,83.79,23.12,86.94,24.55,Attempt saved,Team_A_Player_10,Striker,Team_A,1224314
+1051,1051,2,59,14,True,15.96,43.18,15.96,43.18,Save,Team_B_Player_6,Midfielder,Team_B,1224327
+1052,1052,2,59,17,True,86.42,23.94,86.42,23.94,Corner awarded,Team_A_Player_10,Striker,Team_A,1224387
+1053,1053,2,59,17,False,18.58,44.06,18.58,44.06,Corner awarded,Team_B_Player_6,Midfielder,Team_B,1224387
+1054,1054,2,59,50,False,104.48,0.34,101.74,28.7,Pass,Team_A_Player_6,Midfielder,Team_A,1225236
+1055,1055,2,59,54,True,27.3,60.38,27.3,60.38,Ball recovery,Team_B_Player_20,Forward,Team_B,1225312
+1056,1056,2,59,54,False,26.14,64.33,30.76,64.19,Pass,Team_B_Player_20,Forward,Team_B,1225312
+1057,1057,2,59,54,True,70.77,3.33,70.77,3.33,Interception,Team_A_Player_8,Striker,Team_A,1225335
+1058,1058,2,59,55,False,69.72,-1.22,69.72,-1.22,Out,Team_A_Player_8,Striker,Team_A,1225337
+1059,1059,2,59,55,True,35.28,69.22,35.28,69.22,Out,Team_B_Player_20,Forward,Team_B,1225337
+1060,1060,2,60,0,True,31.82,68.0,26.78,62.97,Pass,Team_B_Player_20,Forward,Team_B,1225462
+1061,1061,2,60,2,True,28.46,62.83,80.43,45.7,Pass,Team_B_Player_6,Midfielder,Team_B,1225512
+1062,1062,2,60,7,False,83.06,42.43,83.06,42.43,Take on,Team_B_Player_14,Forward,Team_B,1225637
+1063,1063,2,60,7,True,21.94,25.57,21.94,25.57,Tackle,Team_A_Player_2,Defender,Team_A,1225652
+1064,1064,2,60,8,False,14.07,21.76,12.08,25.64,Pass,Team_A_Player_2,Defender,Team_A,1225662
+1065,1065,2,60,10,True,97.65,37.6,99.44,36.86,Attempt saved,Team_B_Player_14,Forward,Team_B,1225712
+1066,1066,2,60,10,True,5.14,31.55,5.14,31.55,Save,Team_A_Player_0,Goalkeeper,Team_A,1225722
+1067,1067,2,60,12,True,92.19,39.85,92.19,39.85,Foul,Team_B_Player_5,Striker,Team_B,1225762
+1068,1068,2,60,12,False,12.81,28.15,12.81,28.15,Foul,Team_A_Player_3,Defender,Team_A,1225762
+1069,1069,2,60,24,True,0.0,0.0,0.0,0.0,Card,Team_A_Player_3,Defender,Team_A,1226062
+1070,1070,2,61,29,False,0.0,0.0,0.0,0.0,Penalty faced,Team_A_Player_0,Goalkeeper,Team_A,1227687
+1071,1071,2,61,29,True,92.92,34.0,105.0,31.55,Goal,Team_B_Player_7,Midfielder,Team_B,1227692
+1072,1072,2,61,54,True,52.29,34.07,38.96,16.8,Pass,Team_A_Player_5,Midfielder,Team_A,1228312
+1073,1073,2,61,56,False,36.75,15.91,46.1,17.0,Pass,Team_A_Player_2,Defender,Team_A,1228386
+1074,1074,2,61,57,True,56.81,57.66,56.81,57.66,Interception,Team_B_Player_7,Midfielder,Team_B,1228397
+1075,1075,2,61,58,True,57.54,57.66,57.54,57.66,Ball recovery,Team_B_Player_7,Midfielder,Team_B,1228412
+1076,1076,2,61,58,True,57.54,57.66,68.88,48.48,Pass,Team_B_Player_7,Midfielder,Team_B,1228412
+1077,1077,2,62,0,True,65.31,47.94,68.67,39.71,Pass,Team_B_Player_8,Midfielder,Team_B,1228469
+1078,1078,2,62,3,False,77.28,19.65,92.4,16.73,Pass,Team_B_Player_6,Midfielder,Team_B,1228561
+1079,1079,2,62,9,True,88.52,61.4,88.52,61.4,Ball recovery,Team_A_Player_10,Striker,Team_A,1228687
+1080,1080,2,62,14,True,6.3,28.83,6.3,28.83,Keeper pick-up,Team_B_Player_0,Goalkeeper,Team_B,1228831
+1081,1081,2,62,16,True,7.35,28.63,35.18,33.12,Pass,Team_B_Player_0,Goalkeeper,Team_B,1228862
+1082,1082,2,62,20,True,36.54,35.5,36.54,35.5,Foul,Team_B_Player_7,Midfielder,Team_B,1228986
+1083,1083,2,62,20,False,68.46,32.5,68.46,32.5,Foul,Team_A_Player_2,Defender,Team_A,1228962
+1084,1084,2,62,38,True,36.12,36.72,66.99,21.15,Pass,Team_B_Player_1,Defender,Team_B,1229412
+1085,1085,2,62,42,True,66.57,21.69,62.37,27.2,Pass,Team_B_Player_15,Defender,Team_B,1229512
+1086,1086,2,62,44,False,63.1,28.02,75.91,33.52,Pass,Team_B_Player_7,Midfielder,Team_B,1229576
+1087,1087,2,62,45,True,28.24,30.67,28.24,30.67,Interception,Team_A_Player_3,Defender,Team_A,1229610
+1088,1088,2,62,47,True,28.24,30.67,28.24,30.67,Ball recovery,Team_A_Player_3,Defender,Team_A,1229661
+1089,1089,2,62,49,True,43.47,24.07,83.79,18.16,Pass,Team_A_Player_3,Defender,Team_A,1229693
+1090,1090,2,62,55,True,94.08,19.65,105.0,32.37,Goal,Team_A_Player_5,Midfielder,Team_A,1229837
+1091,1091,2,63,57,True,52.6,33.93,47.04,38.35,Pass,Team_B_Player_8,Midfielder,Team_B,1231387
+1092,1092,2,63,58,True,46.83,38.35,35.91,49.16,Pass,Team_B_Player_7,Midfielder,Team_B,1231430
+1093,1093,2,64,1,True,35.91,49.16,46.72,65.21,Pass,Team_B_Player_1,Defender,Team_B,1231487
+1094,1094,2,64,3,False,45.89,65.08,61.22,57.87,Pass,Team_B_Player_3,Defender,Team_B,1231551
+1095,1095,2,64,4,True,41.37,12.38,41.37,12.38,Foul,Team_A_Player_3,Defender,Team_A,1231586
+1096,1096,2,64,4,False,63.63,55.62,63.63,55.62,Foul,Team_B_Player_5,Striker,Team_B,1231573
+1097,1097,2,64,12,True,0.0,0.0,0.0,0.0,Card,Team_B_Player_5,Striker,Team_B,1231762
+1098,1098,2,64,38,True,43.78,15.3,31.29,29.24,Pass,Team_A_Player_3,Defender,Team_A,1232420
+1099,1099,2,64,40,True,31.18,29.85,36.75,45.7,Pass,Team_A_Player_4,Defender,Team_A,1232486
+1100,1100,2,64,44,True,44.31,46.78,39.16,32.5,Pass,Team_A_Player_6,Midfielder,Team_A,1232577
+1101,1101,2,64,46,True,39.38,28.7,46.62,2.92,Pass,Team_A_Player_7,Midfielder,Team_A,1232612
+1102,1102,2,64,50,True,46.2,2.92,34.65,11.63,Pass,Team_A_Player_2,Defender,Team_A,1232719
+1103,1103,2,64,53,True,33.29,13.8,8.61,32.1,Pass,Team_A_Player_3,Defender,Team_A,1232787
+1104,1104,2,64,56,True,8.08,30.12,23.1,8.98,Pass,Team_A_Player_0,Goalkeeper,Team_A,1232862
+1105,1105,2,64,59,False,25.41,1.97,45.57,7.68,Pass,Team_A_Player_3,Defender,Team_A,1232958
+1106,1106,2,65,0,True,58.59,58.14,58.59,58.14,Ball recovery,Team_B_Player_1,Defender,Team_B,1232984
+1107,1107,2,65,0,True,58.59,58.14,70.14,58.55,Pass,Team_B_Player_1,Defender,Team_B,1232984
+1108,1108,2,65,3,False,70.14,58.55,91.77,46.92,Pass,Team_B_Player_20,Forward,Team_B,1233037
+1109,1109,2,65,8,True,8.61,29.1,8.61,29.1,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1233186
+1110,1110,2,65,19,True,13.65,41.62,27.51,59.7,Pass,Team_A_Player_0,Goalkeeper,Team_A,1233461
+1111,1111,2,65,22,True,28.24,62.15,68.56,64.19,Pass,Team_A_Player_1,Defender,Team_A,1233536
+1112,1112,2,65,28,True,67.52,68.68,67.52,68.68,Out,Team_A_Player_10,Striker,Team_A,1233662
+1113,1113,2,65,28,False,37.49,-0.68,37.49,-0.68,Out,Team_B_Player_15,Defender,Team_B,1233662
+1114,1114,2,65,35,True,63.94,68.0,44.94,56.78,Pass,Team_A_Player_1,Defender,Team_A,1233861
+1115,1115,2,65,43,True,37.49,50.86,42.63,42.57,Pass,Team_A_Player_4,Defender,Team_A,1234049
+1116,1116,2,65,43,True,42.63,42.57,12.7,38.28,Pass,Team_A_Player_7,Midfielder,Team_A,1234059
+1117,1117,2,65,48,True,14.07,34.88,29.08,4.96,Pass,Team_A_Player_0,Goalkeeper,Team_A,1234165
+1118,1118,2,65,52,False,29.08,2.58,83.26,17.54,Pass,Team_A_Player_3,Defender,Team_A,1234274
+1119,1119,2,65,56,True,22.36,47.87,8.72,39.37,Pass,Team_B_Player_3,Defender,Team_B,1234368
+1120,1120,2,65,57,True,8.72,38.96,8.72,38.96,Keeper pick-up,Team_B_Player_0,Goalkeeper,Team_B,1234409
+1121,1121,2,65,59,True,7.04,37.6,19.74,31.96,Pass,Team_B_Player_0,Goalkeeper,Team_B,1234442
+1122,1122,2,66,4,True,23.83,26.25,32.02,10.74,Pass,Team_B_Player_19,Defender,Team_B,1234562
+1123,1123,2,66,6,True,39.38,15.44,33.49,26.66,Pass,Team_B_Player_6,Midfielder,Team_B,1234615
+1124,1124,2,66,9,True,34.12,24.82,41.16,13.6,Pass,Team_B_Player_19,Defender,Team_B,1234687
+1125,1125,2,66,12,True,58.38,4.08,58.38,4.08,Foul,Team_B_Player_6,Midfielder,Team_B,1234784
+1126,1126,2,66,12,False,46.62,63.92,46.62,63.92,Foul,Team_A_Player_10,Striker,Team_A,1234785
+1127,1127,2,66,38,True,55.86,6.26,24.67,28.63,Pass,Team_B_Player_6,Midfielder,Team_B,1235412
+1128,1128,2,66,43,True,24.99,29.72,33.39,30.94,Pass,Team_B_Player_0,Goalkeeper,Team_B,1235543
+1129,1129,2,66,45,True,31.71,32.98,41.79,51.54,Pass,Team_B_Player_19,Defender,Team_B,1235587
+1130,1130,2,66,49,True,45.78,51.75,58.38,65.21,Pass,Team_B_Player_1,Defender,Team_B,1235687
+1131,1131,2,66,51,True,58.06,65.48,42.63,57.87,Pass,Team_B_Player_5,Striker,Team_B,1235740
+1132,1132,2,66,53,True,44.21,56.24,35.6,39.1,Pass,Team_B_Player_1,Defender,Team_B,1235798
+1133,1133,2,66,56,True,36.96,40.32,43.26,15.98,Pass,Team_B_Player_19,Defender,Team_B,1235862
+1134,1134,2,66,58,True,46.51,16.18,68.88,1.7,Pass,Team_B_Player_6,Midfielder,Team_B,1235930
+1135,1135,2,67,2,False,78.65,1.84,78.65,1.84,Take on,Team_B_Player_14,Forward,Team_B,1236012
+1136,1136,2,67,2,True,26.36,66.16,26.36,66.16,Tackle,Team_A_Player_1,Defender,Team_A,1236033
+1137,1137,2,67,3,False,26.04,68.95,26.04,68.95,Out,Team_A_Player_1,Defender,Team_A,1236037
+1138,1138,2,67,3,True,78.96,-0.95,78.96,-0.95,Out,Team_B_Player_14,Forward,Team_B,1236037
+1139,1139,2,67,14,True,70.98,0.0,76.12,8.91,Pass,Team_B_Player_15,Defender,Team_B,1236312
+1140,1140,2,67,15,True,74.55,10.2,74.55,10.2,Dispossessed,Team_B_Player_8,Midfielder,Team_B,1236361
+1141,1141,2,67,16,False,30.45,57.8,30.45,57.8,Tackle,Team_A_Player_7,Midfielder,Team_A,1236365
+1142,1142,2,67,19,True,78.75,17.0,78.75,17.0,Dispossessed,Team_B_Player_14,Forward,Team_B,1236437
+1143,1143,2,67,19,False,26.25,51.0,26.25,51.0,Tackle,Team_A_Player_3,Defender,Team_A,1236454
+1144,1144,2,67,22,True,26.04,53.38,33.6,53.92,Pass,Team_A_Player_6,Midfielder,Team_A,1236536
+1145,1145,2,67,23,True,34.54,53.11,34.54,53.11,Foul,Team_A_Player_10,Striker,Team_A,1236539
+1146,1146,2,67,23,False,70.46,14.89,70.46,14.89,Foul,Team_B_Player_6,Midfielder,Team_B,1236537
+1147,1147,2,67,52,False,34.86,51.95,78.02,60.72,Pass,Team_A_Player_4,Defender,Team_A,1237283
+1148,1148,2,67,56,True,27.72,5.98,38.32,7.07,Pass,Team_B_Player_15,Defender,Team_B,1237362
+1149,1149,2,67,57,False,38.32,7.07,45.89,5.03,Pass,Team_B_Player_6,Midfielder,Team_B,1237411
+1150,1150,2,67,58,False,67.2,62.36,60.59,59.5,Pass,Team_A_Player_5,Midfielder,Team_A,1237435
+1151,1151,2,68,0,True,57.44,52.77,38.01,56.24,Pass,Team_A_Player_7,Midfielder,Team_A,1237471
+1152,1152,2,68,6,True,34.44,66.3,71.71,62.22,Pass,Team_A_Player_4,Defender,Team_A,1237612
+1153,1153,2,68,10,True,73.18,62.83,73.18,62.83,Dispossessed,Team_A_Player_9,Striker,Team_A,1237712
+1154,1154,2,68,11,True,31.82,5.17,31.82,5.17,Tackle,Team_B_Player_15,Defender,Team_B,1237737
+1155,1155,2,68,12,True,32.97,6.87,24.88,12.78,Pass,Team_B_Player_6,Midfielder,Team_B,1237782
+1156,1156,2,68,13,True,25.1,12.58,25.1,12.58,Ball recovery,Team_B_Player_19,Defender,Team_B,1237787
+1157,1157,2,68,14,True,25.1,12.58,33.18,19.11,Pass,Team_B_Player_19,Defender,Team_B,1237812
+1158,1158,2,68,17,True,32.97,23.19,36.64,43.45,Pass,Team_B_Player_7,Midfielder,Team_B,1237894
+1159,1159,2,68,20,True,39.69,44.61,57.54,65.01,Pass,Team_B_Player_1,Defender,Team_B,1237962
+1160,1160,2,68,23,True,57.96,65.62,42.0,57.26,Pass,Team_B_Player_3,Defender,Team_B,1238046
+1161,1161,2,68,26,True,43.26,51.75,40.95,35.7,Pass,Team_B_Player_1,Defender,Team_B,1238128
+1162,1162,2,68,28,True,41.26,34.48,53.55,16.39,Pass,Team_B_Player_19,Defender,Team_B,1238162
+1163,1163,2,68,31,True,56.6,12.72,73.71,1.29,Pass,Team_B_Player_6,Midfielder,Team_B,1238253
+1164,1164,2,68,34,True,73.29,1.56,60.48,6.66,Pass,Team_B_Player_15,Defender,Team_B,1238312
+1165,1165,2,68,37,True,65.83,2.38,47.56,8.02,Pass,Team_B_Player_6,Midfielder,Team_B,1238401
+1166,1166,2,68,42,True,33.81,7.28,40.74,44.81,Pass,Team_B_Player_19,Defender,Team_B,1238512
+1167,1167,2,68,49,False,57.54,48.48,82.74,11.15,Pass,Team_B_Player_1,Defender,Team_B,1238692
+1168,1168,2,68,52,False,24.04,59.3,39.27,60.11,Pass,Team_A_Player_1,Defender,Team_A,1238783
+1169,1169,2,68,56,True,69.3,8.3,70.77,21.76,Pass,Team_B_Player_6,Midfielder,Team_B,1238871
+1170,1170,2,68,57,True,70.77,21.9,81.38,21.96,Pass,Team_B_Player_20,Forward,Team_B,1238887
+1171,1171,2,68,58,True,81.38,21.96,85.47,3.81,Pass,Team_B_Player_8,Midfielder,Team_B,1238920
+1172,1172,2,69,4,True,85.89,7.34,85.89,7.34,Dispossessed,Team_B_Player_14,Forward,Team_B,1239062
+1173,1173,2,69,5,True,19.11,60.66,19.11,60.66,Tackle,Team_A_Player_9,Striker,Team_A,1239087
+1174,1174,2,69,6,True,81.17,7.28,89.67,3.4,Pass,Team_B_Player_20,Forward,Team_B,1239112
+1175,1175,2,69,7,False,87.36,3.33,88.72,7.68,Pass,Team_B_Player_14,Forward,Team_B,1239137
+1176,1176,2,69,7,True,17.22,60.25,17.22,60.25,Interception,Team_A_Player_1,Defender,Team_A,1239137
+1177,1177,2,69,8,True,20.37,58.28,20.37,58.28,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1239186
+1178,1178,2,69,9,True,20.37,58.28,20.16,63.78,Pass,Team_A_Player_7,Midfielder,Team_A,1239187
+1179,1179,2,69,10,True,19.95,64.19,13.65,65.08,Pass,Team_A_Player_9,Striker,Team_A,1239215
+1180,1180,2,69,11,True,13.65,65.08,29.82,64.8,Pass,Team_A_Player_1,Defender,Team_A,1239237
+1181,1181,2,69,14,True,29.4,64.53,29.4,64.53,Dispossessed,Team_A_Player_10,Striker,Team_A,1239336
+1182,1182,2,69,15,True,75.6,3.47,75.6,3.47,Tackle,Team_B_Player_15,Defender,Team_B,1239337
+1183,1183,2,69,15,True,74.97,4.76,74.97,4.76,Ball recovery,Team_B_Player_15,Defender,Team_B,1239337
+1184,1184,2,69,16,True,74.97,4.76,68.67,17.61,Pass,Team_B_Player_15,Defender,Team_B,1239362
+1185,1185,2,69,20,True,73.71,27.2,68.46,50.8,Pass,Team_B_Player_7,Midfielder,Team_B,1239477
+1186,1186,2,69,22,True,69.09,51.54,64.58,47.87,Pass,Team_B_Player_3,Defender,Team_B,1239532
+1187,1187,2,69,25,True,65.73,44.27,70.04,25.84,Pass,Team_B_Player_5,Striker,Team_B,1239607
+1188,1188,2,69,28,True,68.56,22.3,71.4,10.54,Pass,Team_B_Player_6,Midfielder,Team_B,1239678
+1189,1189,2,69,31,True,75.5,6.39,72.66,19.86,Pass,Team_B_Player_15,Defender,Team_B,1239737
+1190,1190,2,69,34,True,73.6,16.59,90.09,6.39,Pass,Team_B_Player_20,Forward,Team_B,1239812
+1191,1191,2,69,35,False,90.09,6.26,90.51,15.98,Pass,Team_B_Player_15,Defender,Team_B,1239837
+1192,1192,2,69,36,True,15.43,56.17,15.43,56.17,Interception,Team_A_Player_1,Defender,Team_A,1239869
+1193,1193,2,69,37,True,82.53,7.75,82.53,7.75,Take on,Team_B_Player_20,Forward,Team_B,1239887
+1194,1194,2,69,39,False,90.3,11.22,90.3,11.22,Take on,Team_B_Player_20,Forward,Team_B,1239937
+1195,1195,2,69,39,True,14.7,56.78,14.7,56.78,Tackle,Team_A_Player_1,Defender,Team_A,1239947
+1196,1196,2,69,39,True,18.27,60.04,18.27,60.04,Ball recovery,Team_A_Player_9,Striker,Team_A,1239961
+1197,1197,2,69,40,True,18.27,60.04,36.64,55.15,Pass,Team_A_Player_9,Striker,Team_A,1239984
+1198,1198,2,69,41,False,40.84,40.94,40.84,40.94,Take on,Team_A_Player_5,Midfielder,Team_A,1240011
+1199,1199,2,69,41,True,64.16,27.06,64.16,27.06,Tackle,Team_B_Player_7,Midfielder,Team_B,1239987
+1200,1200,2,69,43,True,71.19,14.01,71.19,14.01,Ball recovery,Team_B_Player_7,Midfielder,Team_B,1240054
+1201,1201,2,69,45,True,72.03,11.76,92.82,27.61,Pass,Team_B_Player_7,Midfielder,Team_B,1240087
+1202,1202,2,69,47,False,92.82,27.68,101.22,38.96,Pass,Team_B_Player_8,Midfielder,Team_B,1240137
+1203,1203,2,69,48,True,4.83,30.67,4.83,30.67,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1240186
+1204,1204,2,69,55,True,11.02,39.17,24.78,60.11,Pass,Team_A_Player_0,Goalkeeper,Team_A,1240337
+1205,1205,2,69,58,False,28.56,61.74,64.05,63.04,Pass,Team_A_Player_1,Defender,Team_A,1240433
+1206,1206,2,70,1,False,38.74,4.62,31.6,4.62,Pass,Team_B_Player_19,Defender,Team_B,1240487
+1207,1207,2,70,3,True,68.67,68.95,68.67,68.95,Out,Team_A_Player_1,Defender,Team_A,1240537
+1208,1208,2,70,3,False,36.33,-0.95,36.33,-0.95,Out,Team_B_Player_19,Defender,Team_B,1240537
+1209,1209,2,70,26,True,70.56,68.0,80.64,53.52,Pass,Team_A_Player_1,Defender,Team_A,1241125
+1210,1210,2,70,28,True,80.64,53.38,87.78,44.34,Pass,Team_A_Player_5,Midfielder,Team_A,1241165
+1211,1211,2,70,28,True,87.88,44.34,87.57,49.16,Pass,Team_A_Player_10,Striker,Team_A,1241185
+1212,1212,2,70,30,True,89.25,48.35,88.83,43.32,Pass,Team_A_Player_5,Midfielder,Team_A,1241212
+1213,1213,2,70,32,True,96.5,43.66,103.0,36.86,Attempt saved,Team_A_Player_10,Striker,Team_A,1241262
+1214,1214,2,70,32,True,4.72,29.51,4.72,29.51,Save,Team_B_Player_0,Goalkeeper,Team_B,1241284
+1215,1215,2,70,34,True,98.18,38.15,105.0,34.75,Goal,Team_A_Player_5,Midfielder,Team_A,1241312
+1216,1216,2,71,33,True,52.6,34.2,37.49,27.88,Pass,Team_B_Player_20,Forward,Team_B,1242787
+1217,1217,2,71,35,True,37.28,27.68,25.31,42.77,Pass,Team_B_Player_7,Midfielder,Team_B,1242837
+1218,1218,2,71,40,True,39.58,47.53,34.23,34.34,Pass,Team_B_Player_1,Defender,Team_B,1242976
+1219,1219,2,71,42,True,35.6,29.31,43.26,5.51,Pass,Team_B_Player_19,Defender,Team_B,1243012
+1220,1220,2,71,47,True,40.43,4.01,29.82,19.86,Pass,Team_B_Player_15,Defender,Team_B,1243137
+1221,1221,2,71,49,True,30.03,21.96,44.21,49.1,Pass,Team_B_Player_19,Defender,Team_B,1243187
+1222,1222,2,71,52,True,45.99,49.91,60.59,65.01,Pass,Team_B_Player_1,Defender,Team_B,1243262
+1223,1223,2,71,53,True,60.69,65.08,77.8,57.53,Pass,Team_B_Player_5,Striker,Team_B,1243298
+1224,1224,2,71,56,True,20.06,16.93,20.06,16.93,Ball recovery,Team_A_Player_8,Striker,Team_A,1243371
+1225,1225,2,71,56,True,20.06,16.93,7.56,27.81,Pass,Team_A_Player_8,Striker,Team_A,1243371
+1226,1226,2,71,58,False,6.3,28.9,63.32,38.9,Pass,Team_A_Player_0,Goalkeeper,Team_A,1243429
+1227,1227,2,72,2,True,46.94,32.71,48.61,46.92,Pass,Team_B_Player_19,Defender,Team_B,1243512
+1228,1228,2,72,4,True,47.98,48.55,47.98,48.55,Ball recovery,Team_B_Player_7,Midfielder,Team_B,1243570
+1229,1229,2,72,4,True,47.98,48.55,35.18,44.88,Pass,Team_B_Player_7,Midfielder,Team_B,1243570
+1230,1230,2,72,6,True,40.01,45.9,45.78,60.72,Pass,Team_B_Player_1,Defender,Team_B,1243632
+1231,1231,2,72,11,True,55.86,63.44,63.74,67.05,Pass,Team_B_Player_7,Midfielder,Team_B,1243756
+1232,1232,2,72,12,True,63.74,67.05,40.95,47.94,Pass,Team_B_Player_3,Defender,Team_B,1243775
+1233,1233,2,72,14,True,41.06,48.08,42.32,25.57,Pass,Team_B_Player_1,Defender,Team_B,1243836
+1234,1234,2,72,19,True,45.57,27.81,56.81,17.48,Pass,Team_B_Player_19,Defender,Team_B,1243937
+1235,1235,2,72,22,True,58.38,12.92,71.71,3.13,Pass,Team_B_Player_6,Midfielder,Team_B,1244021
+1236,1236,2,72,25,False,73.82,2.38,77.6,2.99,Pass,Team_B_Player_14,Forward,Team_B,1244087
+1237,1237,2,72,26,False,30.87,68.82,30.87,68.82,Out,Team_A_Player_1,Defender,Team_A,1244112
+1238,1238,2,72,26,True,74.13,-0.82,74.13,-0.82,Out,Team_B_Player_14,Forward,Team_B,1244112
+1239,1239,2,72,30,True,74.86,0.0,54.39,10.68,Pass,Team_B_Player_6,Midfielder,Team_B,1244212
+1240,1240,2,72,33,True,54.71,10.88,64.58,2.72,Pass,Team_B_Player_19,Defender,Team_B,1244287
+1241,1241,2,72,35,True,64.78,2.72,76.44,0.88,Pass,Team_B_Player_6,Midfielder,Team_B,1244341
+1242,1242,2,72,36,True,76.44,0.88,64.78,2.72,Pass,Team_B_Player_15,Defender,Team_B,1244362
+1243,1243,2,72,39,True,60.37,5.85,48.61,31.28,Pass,Team_B_Player_6,Midfielder,Team_B,1244444
+1244,1244,2,72,42,True,48.61,32.5,59.22,50.18,Pass,Team_B_Player_1,Defender,Team_B,1244514
+1245,1245,2,72,44,True,60.16,50.8,69.4,65.62,Pass,Team_B_Player_3,Defender,Team_B,1244562
+1246,1246,2,72,48,True,70.35,58.89,70.88,47.53,Pass,Team_B_Player_5,Striker,Team_B,1244662
+1247,1247,2,72,48,True,69.72,45.7,69.72,45.7,Dispossessed,Team_B_Player_20,Forward,Team_B,1244662
+1248,1248,2,72,49,True,35.28,22.3,35.28,22.3,Tackle,Team_A_Player_5,Midfielder,Team_A,1244692
+1249,1249,2,72,50,False,75.18,47.26,88.3,51.54,Pass,Team_B_Player_7,Midfielder,Team_B,1244726
+1250,1250,2,72,51,False,25.62,11.97,38.22,11.97,Pass,Team_A_Player_8,Striker,Team_A,1244751
+1251,1251,2,72,54,False,32.97,-1.09,32.97,-1.09,Out,Team_A_Player_8,Striker,Team_A,1244812
+1252,1252,2,72,54,True,72.03,69.09,72.03,69.09,Out,Team_B_Player_7,Midfielder,Team_B,1244836
+1253,1253,2,73,2,True,76.86,68.0,82.32,54.88,Pass,Team_B_Player_3,Defender,Team_B,1245031
+1254,1254,2,73,5,True,81.9,52.22,88.41,48.69,Pass,Team_B_Player_5,Striker,Team_B,1245092
+1255,1255,2,73,5,False,88.41,48.55,79.06,48.28,Pass,Team_B_Player_8,Midfielder,Team_B,1245106
+1256,1256,2,73,7,True,30.34,23.66,30.34,23.66,Ball recovery,Team_A_Player_9,Striker,Team_A,1245159
+1257,1257,2,73,7,True,30.34,23.66,43.68,20.47,Pass,Team_A_Player_9,Striker,Team_A,1245159
+1258,1258,2,73,8,True,42.53,20.26,42.53,20.26,Dispossessed,Team_A_Player_10,Striker,Team_A,1245180
+1259,1259,2,73,9,True,62.47,47.74,62.47,47.74,Tackle,Team_B_Player_7,Midfielder,Team_B,1245209
+1260,1260,2,73,10,True,63.74,44.27,63.74,44.27,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1245227
+1261,1261,2,73,10,True,63.74,44.27,49.46,40.39,Pass,Team_B_Player_6,Midfielder,Team_B,1245227
+1262,1262,2,73,12,True,49.04,40.32,59.11,18.29,Pass,Team_B_Player_19,Defender,Team_B,1245262
+1263,1263,2,73,14,True,60.06,18.09,63.21,25.36,Pass,Team_B_Player_15,Defender,Team_B,1245312
+1264,1264,2,73,19,True,71.09,29.51,74.13,42.36,Pass,Team_B_Player_6,Midfielder,Team_B,1245461
+1265,1265,2,73,23,True,73.6,48.55,74.76,59.3,Pass,Team_B_Player_7,Midfielder,Team_B,1245544
+1266,1266,2,73,26,True,75.29,61.54,68.04,51.82,Pass,Team_B_Player_3,Defender,Team_B,1245624
+1267,1267,2,73,28,True,72.03,48.76,80.43,44.0,Pass,Team_B_Player_7,Midfielder,Team_B,1245684
+1268,1268,2,73,30,True,81.48,46.72,91.56,51.95,Pass,Team_B_Player_8,Midfielder,Team_B,1245716
+1269,1269,2,73,32,False,92.72,53.79,95.34,40.39,Pass,Team_B_Player_20,Forward,Team_B,1245762
+1270,1270,2,73,32,True,5.78,23.12,5.78,23.12,Ball recovery,Team_A_Player_4,Defender,Team_A,1245782
+1271,1271,2,73,34,True,5.36,21.08,21.63,5.98,Pass,Team_A_Player_4,Defender,Team_A,1245812
+1272,1272,2,73,40,True,22.99,6.32,22.99,6.32,Foul,Team_A_Player_8,Striker,Team_A,1245986
+1273,1273,2,73,40,False,82.0,61.68,82.0,61.68,Foul,Team_B_Player_3,Defender,Team_B,1245962
+1274,1274,2,74,5,False,22.58,5.24,87.88,17.2,Pass,Team_A_Player_0,Goalkeeper,Team_A,1246611
+1275,1275,2,74,10,True,18.17,49.98,5.14,35.9,Pass,Team_B_Player_19,Defender,Team_B,1246712
+1276,1276,2,74,12,True,4.83,35.29,4.83,35.29,Ball recovery,Team_B_Player_0,Goalkeeper,Team_B,1246786
+1277,1277,2,74,14,False,5.88,31.96,49.35,7.21,Pass,Team_B_Player_0,Goalkeeper,Team_B,1246823
+1278,1278,2,74,17,False,54.6,55.96,73.18,45.56,Pass,Team_A_Player_1,Defender,Team_A,1246908
+1279,1279,2,74,20,True,32.97,17.88,24.78,24.75,Pass,Team_B_Player_6,Midfielder,Team_B,1246975
+1280,1280,2,74,21,True,24.78,24.75,26.88,5.44,Pass,Team_B_Player_19,Defender,Team_B,1246987
+1281,1281,2,74,25,True,22.47,7.21,7.14,29.92,Pass,Team_B_Player_15,Defender,Team_B,1247087
+1282,1282,2,74,29,True,13.23,31.48,24.36,45.9,Pass,Team_B_Player_0,Goalkeeper,Team_B,1247194
+1283,1283,2,74,37,True,59.32,55.01,76.65,50.73,Pass,Team_B_Player_1,Defender,Team_B,1247398
+1284,1284,2,74,39,False,76.65,50.73,88.52,54.6,Pass,Team_B_Player_8,Midfielder,Team_B,1247440
+1285,1285,2,74,43,False,89.88,51.14,89.88,51.14,Take on,Team_B_Player_5,Striker,Team_B,1247561
+1286,1286,2,74,44,True,15.12,16.86,15.12,16.86,Tackle,Team_A_Player_7,Midfielder,Team_A,1247571
+1287,1287,2,74,45,True,13.54,16.73,13.54,16.73,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1247592
+1288,1288,2,74,46,True,11.66,7.68,24.67,2.92,Pass,Team_A_Player_7,Midfielder,Team_A,1247612
+1289,1289,2,74,48,False,23.73,2.79,22.47,7.48,Pass,Team_A_Player_8,Striker,Team_A,1247662
+1290,1290,2,74,48,True,87.46,58.68,87.46,58.68,Interception,Team_B_Player_20,Forward,Team_B,1247662
+1291,1291,2,74,52,True,-0.84,2.86,-0.84,2.86,Out,Team_A_Player_2,Defender,Team_A,1247762
+1292,1292,2,74,52,False,105.84,65.14,105.84,65.14,Out,Team_B_Player_20,Forward,Team_B,1247762
+1293,1293,2,75,21,True,5.67,33.12,66.78,49.03,Pass,Team_A_Player_0,Goalkeeper,Team_A,1248496
+1294,1294,2,75,25,False,66.78,49.57,69.2,48.76,Pass,Team_A_Player_10,Striker,Team_A,1248587
+1295,1295,2,75,25,True,34.02,19.92,34.02,19.92,Ball recovery,Team_B_Player_19,Defender,Team_B,1248587
+1296,1296,2,75,27,True,34.02,19.92,27.72,50.32,Pass,Team_B_Player_19,Defender,Team_B,1248637
+1297,1297,2,75,35,True,34.65,52.84,29.92,34.68,Pass,Team_B_Player_3,Defender,Team_B,1248848
+1298,1298,2,75,38,True,31.08,33.39,43.89,10.34,Pass,Team_B_Player_19,Defender,Team_B,1248912
+1299,1299,2,75,41,True,50.72,7.48,61.95,2.31,Pass,Team_B_Player_6,Midfielder,Team_B,1248990
+1300,1300,2,75,43,True,59.96,3.13,54.18,8.84,Pass,Team_B_Player_15,Defender,Team_B,1249037
+1301,1301,2,75,45,True,50.61,12.1,39.48,27.0,Pass,Team_B_Player_6,Midfielder,Team_B,1249110
+1302,1302,2,75,48,True,40.74,27.2,48.93,50.12,Pass,Team_B_Player_19,Defender,Team_B,1249162
+1303,1303,2,75,51,True,54.28,51.61,64.89,66.23,Pass,Team_B_Player_1,Defender,Team_B,1249241
+1304,1304,2,75,53,True,65.0,65.28,58.38,48.69,Pass,Team_B_Player_3,Defender,Team_B,1249289
+1305,1305,2,75,56,True,58.38,48.48,55.23,27.47,Pass,Team_B_Player_7,Midfielder,Team_B,1249373
+1306,1306,2,75,59,True,58.91,25.64,75.81,2.31,Pass,Team_B_Player_6,Midfielder,Team_B,1249445
+1307,1307,2,76,3,True,75.5,2.99,69.82,10.13,Pass,Team_B_Player_15,Defender,Team_B,1249537
+1308,1308,2,76,6,False,73.5,11.56,78.22,20.33,Pass,Team_B_Player_6,Midfielder,Team_B,1249617
+1309,1309,2,76,6,True,29.08,46.1,29.08,46.1,Interception,Team_A_Player_7,Midfielder,Team_A,1249635
+1310,1310,2,76,8,True,22.78,45.97,22.78,45.97,Ball recovery,Team_A_Player_4,Defender,Team_A,1249675
+1311,1311,2,76,8,False,22.68,45.83,48.19,63.51,Pass,Team_A_Player_4,Defender,Team_A,1249676
+1312,1312,2,76,12,True,58.28,6.05,58.28,6.05,Ball recovery,Team_B_Player_19,Defender,Team_B,1249762
+1313,1313,2,76,13,True,57.75,5.98,61.32,20.13,Pass,Team_B_Player_19,Defender,Team_B,1249787
+1314,1314,2,76,17,True,57.12,26.79,57.54,46.92,Pass,Team_B_Player_6,Midfielder,Team_B,1249899
+1315,1315,2,76,23,False,76.55,54.2,95.24,54.6,Pass,Team_B_Player_7,Midfielder,Team_B,1250037
+1316,1316,2,76,25,False,10.5,-0.95,10.5,-0.95,Out,Team_A_Player_3,Defender,Team_A,1250087
+1317,1317,2,76,25,True,94.5,68.95,94.5,68.95,Out,Team_B_Player_7,Midfielder,Team_B,1250087
+1318,1318,2,76,35,False,92.19,68.0,96.6,51.2,Pass,Team_B_Player_3,Defender,Team_B,1250344
+1319,1319,2,76,41,True,63.32,53.04,55.12,51.34,Pass,Team_B_Player_6,Midfielder,Team_B,1250507
+1320,1320,2,76,43,True,56.28,50.12,63.94,59.57,Pass,Team_B_Player_1,Defender,Team_B,1250554
+1321,1321,2,76,46,True,64.36,57.66,68.98,45.02,Pass,Team_B_Player_6,Midfielder,Team_B,1250625
+1322,1322,2,76,49,False,76.55,47.33,83.48,53.04,Pass,Team_B_Player_20,Forward,Team_B,1250687
+1323,1323,2,76,54,True,73.92,43.79,103.32,34.14,Attempt saved,Team_B_Player_6,Midfielder,Team_B,1250812
+1324,1324,2,76,55,True,2.31,34.82,2.31,34.82,Save,Team_A_Player_0,Goalkeeper,Team_A,1250858
+1325,1325,2,76,58,True,3.04,37.13,3.04,37.13,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1250912
+1326,1326,2,77,8,False,13.96,38.9,76.86,48.01,Pass,Team_A_Player_0,Goalkeeper,Team_A,1251176
+1327,1327,2,77,12,True,22.58,20.33,14.91,32.71,Pass,Team_B_Player_19,Defender,Team_B,1251262
+1328,1328,2,77,15,True,14.91,32.71,14.91,32.71,Keeper pick-up,Team_B_Player_0,Goalkeeper,Team_B,1251350
+1329,1329,2,77,17,True,16.59,31.69,29.08,24.14,Pass,Team_B_Player_0,Goalkeeper,Team_B,1251390
+1330,1330,2,77,20,True,32.34,25.36,41.58,6.46,Pass,Team_B_Player_7,Midfielder,Team_B,1251467
+1331,1331,2,77,23,True,55.23,4.62,67.73,12.1,Pass,Team_B_Player_15,Defender,Team_B,1251537
+1332,1332,2,77,30,False,69.72,6.8,69.72,6.8,Take on,Team_B_Player_14,Forward,Team_B,1251712
+1333,1333,2,77,31,True,29.4,61.4,29.4,61.4,Ball recovery,Team_A_Player_6,Midfielder,Team_A,1251737
+1334,1334,2,77,33,False,27.72,62.15,28.46,63.17,Pass,Team_A_Player_6,Midfielder,Team_A,1251787
+1335,1335,2,77,34,True,22.99,68.82,22.99,68.82,Out,Team_A_Player_6,Midfielder,Team_A,1251825
+1336,1336,2,77,34,False,82.0,-0.82,82.0,-0.82,Out,Team_B_Player_14,Forward,Team_B,1251812
+1337,1337,2,77,55,True,29.19,68.0,31.82,57.8,Pass,Team_A_Player_1,Defender,Team_A,1252340
+1338,1338,2,77,56,True,31.82,57.8,17.12,38.56,Pass,Team_A_Player_6,Midfielder,Team_A,1252362
+1339,1339,2,77,59,True,17.22,34.82,38.43,4.01,Pass,Team_A_Player_3,Defender,Team_A,1252453
+1340,1340,2,78,3,True,38.74,4.56,30.03,6.39,Pass,Team_A_Player_8,Striker,Team_A,1252544
+1341,1341,2,78,5,True,29.82,8.3,20.58,24.07,Pass,Team_A_Player_2,Defender,Team_A,1252607
+1342,1342,2,78,8,True,18.79,25.43,19.22,48.21,Pass,Team_A_Player_3,Defender,Team_A,1252677
+1343,1343,2,78,12,False,20.9,59.09,47.78,60.59,Pass,Team_A_Player_4,Defender,Team_A,1252762
+1344,1344,2,78,14,False,57.12,7.68,71.19,7.41,Pass,Team_B_Player_15,Defender,Team_B,1252812
+1345,1345,2,78,15,True,68.35,2.31,68.35,2.31,Ball recovery,Team_B_Player_14,Forward,Team_B,1252837
+1346,1346,2,78,17,False,68.35,2.31,72.14,5.64,Pass,Team_B_Player_14,Forward,Team_B,1252887
+1347,1347,2,78,17,True,31.4,64.06,31.4,64.06,Interception,Team_A_Player_9,Striker,Team_A,1252904
+1348,1348,2,78,19,False,28.04,68.68,28.04,68.68,Out,Team_A_Player_9,Striker,Team_A,1252937
+1349,1349,2,78,19,True,76.96,-0.68,76.96,-0.68,Out,Team_B_Player_14,Forward,Team_B,1252937
+1350,1350,2,78,37,True,71.82,0.0,39.8,12.31,Pass,Team_B_Player_15,Defender,Team_B,1253387
+1351,1351,2,78,38,True,39.58,12.51,39.8,44.88,Pass,Team_B_Player_19,Defender,Team_B,1253412
+1352,1352,2,78,46,True,31.71,61.54,30.03,41.75,Pass,Team_B_Player_1,Defender,Team_B,1253619
+1353,1353,2,78,49,True,29.4,40.19,41.16,19.45,Pass,Team_B_Player_19,Defender,Team_B,1253687
+1354,1354,2,78,51,True,44.0,20.33,65.83,1.7,Pass,Team_B_Player_6,Midfielder,Team_B,1253741
+1355,1355,2,78,53,False,65.83,1.77,69.4,11.9,Pass,Team_B_Player_15,Defender,Team_B,1253787
+1356,1356,2,78,54,True,32.13,59.7,32.13,59.7,Interception,Team_A_Player_1,Defender,Team_A,1253836
+1357,1357,2,78,55,True,35.18,59.43,35.18,59.43,Ball recovery,Team_A_Player_1,Defender,Team_A,1253861
+1358,1358,2,78,55,False,38.85,59.02,68.25,59.09,Pass,Team_A_Player_1,Defender,Team_A,1253861
+1359,1359,2,78,58,True,23.31,7.89,23.31,7.89,Ball recovery,Team_B_Player_19,Defender,Team_B,1253912
+1360,1360,2,78,59,True,23.31,7.89,10.5,33.39,Pass,Team_B_Player_19,Defender,Team_B,1253937
+1361,1361,2,79,2,True,18.58,31.01,24.99,43.72,Pass,Team_B_Player_0,Goalkeeper,Team_B,1254025
+1362,1362,2,79,6,True,34.86,46.24,59.11,65.14,Pass,Team_B_Player_1,Defender,Team_B,1254112
+1363,1363,2,79,10,True,65.2,61.06,65.2,61.06,Take on,Team_B_Player_20,Forward,Team_B,1254212
+1364,1364,2,79,13,True,60.27,61.34,55.54,64.46,Pass,Team_B_Player_20,Forward,Team_B,1254287
+1365,1365,2,79,16,True,58.91,63.99,70.77,66.3,Pass,Team_B_Player_18,Midfielder,Team_B,1254362
+1366,1366,2,79,19,True,72.03,66.1,80.22,49.91,Pass,Team_B_Player_20,Forward,Team_B,1254437
+1367,1367,2,79,20,True,74.13,47.87,74.13,47.87,Dispossessed,Team_B_Player_8,Midfielder,Team_B,1254486
+1368,1368,2,79,21,True,30.87,20.13,30.87,20.13,Tackle,Team_A_Player_7,Midfielder,Team_A,1254511
+1369,1369,2,79,22,True,20.16,24.68,20.16,24.68,Ball recovery,Team_A_Player_6,Midfielder,Team_A,1254515
+1370,1370,2,79,22,True,20.16,24.68,3.15,30.94,Pass,Team_A_Player_6,Midfielder,Team_A,1254515
+1371,1371,2,79,25,True,3.99,30.33,42.42,15.71,Pass,Team_A_Player_0,Goalkeeper,Team_A,1254597
+1372,1372,2,79,28,True,42.42,15.71,55.23,9.38,Pass,Team_A_Player_5,Midfielder,Team_A,1254686
+1373,1373,2,79,29,True,57.54,10.74,57.54,10.74,Dispossessed,Team_A_Player_16,Forward,Team_A,1254687
+1374,1374,2,79,29,False,47.46,57.26,47.46,57.26,Tackle,Team_B_Player_1,Defender,Team_B,1254687
+1375,1375,2,79,32,True,39.38,9.72,51.87,2.92,Pass,Team_A_Player_8,Striker,Team_A,1254773
+1376,1376,2,79,39,True,62.16,3.54,65.1,19.18,Pass,Team_A_Player_16,Forward,Team_A,1254937
+1377,1377,2,79,40,True,67.41,22.1,60.59,20.47,Pass,Team_A_Player_5,Midfielder,Team_A,1254979
+1378,1378,2,79,43,True,60.27,22.92,57.12,58.68,Pass,Team_A_Player_8,Striker,Team_A,1255047
+1379,1379,2,79,48,True,57.01,59.23,55.76,49.03,Pass,Team_A_Player_1,Defender,Team_A,1255167
+1380,1380,2,79,49,False,55.76,49.03,76.44,68.0,Pass,Team_A_Player_6,Midfielder,Team_A,1255190
+1381,1381,2,79,51,False,77.6,68.68,77.6,68.68,Out,Team_A_Player_6,Midfielder,Team_A,1255237
+1382,1382,2,79,51,True,27.4,-0.68,27.4,-0.68,Out,Team_B_Player_14,Forward,Team_B,1255237
+1383,1383,2,79,56,True,31.29,0.0,24.26,17.0,Pass,Team_B_Player_15,Defender,Team_B,1255362
+1384,1384,2,79,59,True,24.88,20.13,32.44,46.24,Pass,Team_B_Player_19,Defender,Team_B,1255437
+1385,1385,2,80,4,True,36.12,46.72,36.02,27.61,Pass,Team_B_Player_1,Defender,Team_B,1255562
+1386,1386,2,80,7,True,36.75,26.38,45.15,13.12,Pass,Team_B_Player_19,Defender,Team_B,1255637
+1387,1387,2,80,9,True,49.98,9.45,61.22,2.11,Pass,Team_B_Player_6,Midfielder,Team_B,1255689
+1388,1388,2,80,11,True,61.84,2.18,57.44,11.29,Pass,Team_B_Player_15,Defender,Team_B,1255737
+1389,1389,2,80,13,True,57.22,12.38,45.99,20.74,Pass,Team_B_Player_6,Midfielder,Team_B,1255794
+1390,1390,2,80,15,True,45.78,21.76,50.61,45.7,Pass,Team_B_Player_19,Defender,Team_B,1255837
+1391,1391,2,80,18,True,57.22,48.14,65.94,65.62,Pass,Team_B_Player_1,Defender,Team_B,1255935
+1392,1392,2,80,29,False,101.96,66.16,101.96,66.16,Take on,Team_B_Player_20,Forward,Team_B,1256187
+1393,1393,2,80,29,True,3.04,1.84,3.04,1.84,Tackle,Team_A_Player_2,Defender,Team_A,1256187
+1394,1394,2,80,30,False,2.73,2.45,2.73,2.45,Corner awarded,Team_A_Player_2,Defender,Team_A,1256221
+1395,1395,2,80,30,True,102.27,65.55,102.27,65.55,Corner awarded,Team_B_Player_20,Forward,Team_B,1256212
+1396,1396,2,80,51,False,104.48,67.66,97.96,27.2,Pass,Team_B_Player_6,Midfielder,Team_B,1256737
+1397,1397,2,80,57,False,8.61,68.54,8.61,68.54,Out,Team_A_Player_1,Defender,Team_A,1256887
+1398,1398,2,80,57,True,96.39,-0.54,96.39,-0.54,Out,Team_B_Player_6,Midfielder,Team_B,1256898
+1399,1399,2,81,9,False,97.12,0.0,101.12,21.9,Pass,Team_B_Player_15,Defender,Team_B,1257187
+1400,1400,2,81,12,False,1.58,45.49,1.58,45.49,Corner awarded,Team_A_Player_6,Midfielder,Team_A,1257286
+1401,1401,2,81,12,True,103.42,22.51,103.42,22.51,Corner awarded,Team_B_Player_15,Defender,Team_B,1257262
+1402,1402,2,81,35,False,104.48,0.34,95.24,30.94,Pass,Team_B_Player_6,Midfielder,Team_B,1257849
+1403,1403,2,81,41,True,29.82,7.07,29.82,7.07,Ball recovery,Team_A_Player_4,Defender,Team_A,1257987
+1404,1404,2,81,45,False,29.82,8.5,70.66,60.52,Pass,Team_A_Player_4,Defender,Team_A,1258111
+1405,1405,2,81,51,True,32.76,6.87,32.76,6.87,Ball recovery,Team_B_Player_6,Midfielder,Team_B,1258261
+1406,1406,2,81,55,True,45.78,12.51,58.91,4.62,Pass,Team_B_Player_6,Midfielder,Team_B,1258344
+1407,1407,2,81,58,True,59.64,3.13,74.13,12.17,Pass,Team_B_Player_15,Defender,Team_B,1258412
+1408,1408,2,82,0,True,85.89,9.11,85.89,9.11,Foul,Team_B_Player_14,Forward,Team_B,1258462
+1409,1409,2,82,0,False,19.11,58.89,19.11,58.89,Foul,Team_A_Player_1,Defender,Team_A,1258462
+1410,1410,2,82,41,True,80.01,5.58,96.29,28.02,Pass,Team_B_Player_6,Midfielder,Team_B,1259502
+1411,1411,2,82,42,True,96.39,28.42,102.69,32.5,Attempt saved,Team_B_Player_7,Midfielder,Team_B,1259534
+1412,1412,2,82,43,True,1.26,35.02,1.26,35.02,Save,Team_A_Player_0,Goalkeeper,Team_A,1259546
+1413,1413,2,82,44,False,2.31,34.14,2.31,34.14,Corner awarded,Team_A_Player_0,Goalkeeper,Team_A,1259562
+1414,1414,2,82,44,True,102.69,33.86,102.69,33.86,Corner awarded,Team_B_Player_7,Midfielder,Team_B,1259562
+1415,1415,2,82,59,False,104.48,0.34,93.45,33.52,Pass,Team_B_Player_6,Midfielder,Team_B,1259958
+1416,1416,2,83,4,False,14.49,68.54,14.49,68.54,Out,Team_A_Player_16,Forward,Team_A,1260062
+1417,1417,2,83,4,True,90.51,-0.54,90.51,-0.54,Out,Team_B_Player_6,Midfielder,Team_B,1260084
+1418,1418,2,83,22,True,83.9,0.0,81.27,24.28,Pass,Team_B_Player_15,Defender,Team_B,1260512
+1419,1419,2,83,25,False,82.74,23.12,82.74,23.12,Take on,Team_B_Player_18,Midfielder,Team_B,1260587
+1420,1420,2,83,25,True,22.89,44.88,22.89,44.88,Take on,Team_A_Player_7,Midfielder,Team_A,1260611
+1421,1421,2,83,27,True,22.78,38.76,22.78,38.76,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1260656
+1422,1422,2,83,27,True,28.77,32.91,36.02,36.31,Pass,Team_A_Player_7,Midfielder,Team_A,1260637
+1423,1423,2,83,30,True,36.75,27.2,35.07,8.36,Pass,Team_A_Player_8,Striker,Team_A,1260712
+1424,1424,2,83,33,True,35.07,8.36,39.69,16.25,Pass,Team_A_Player_2,Defender,Team_A,1260811
+1425,1425,2,83,34,True,39.69,16.59,22.47,15.3,Pass,Team_A_Player_8,Striker,Team_A,1260814
+1426,1426,2,83,37,True,22.58,17.14,7.88,31.35,Pass,Team_A_Player_3,Defender,Team_A,1260898
+1427,1427,2,83,40,False,12.6,32.5,70.77,45.56,Pass,Team_A_Player_0,Goalkeeper,Team_A,1260986
+1428,1428,2,83,44,True,34.86,22.37,48.82,27.88,Pass,Team_B_Player_19,Defender,Team_B,1261062
+1429,1429,2,83,46,True,48.61,29.04,48.61,29.04,Ball recovery,Team_B_Player_18,Midfielder,Team_B,1261112
+1430,1430,2,83,49,True,49.24,32.78,47.78,19.24,Pass,Team_B_Player_18,Midfielder,Team_B,1261187
+1431,1431,2,83,54,True,56.81,10.95,67.94,15.84,Pass,Team_B_Player_6,Midfielder,Team_B,1261314
+1432,1432,2,83,57,True,70.56,21.69,79.59,23.19,Pass,Team_B_Player_14,Forward,Team_B,1261387
+1433,1433,2,83,59,True,83.37,23.8,85.57,33.8,Pass,Team_B_Player_7,Midfielder,Team_B,1261442
+1434,1434,2,84,1,True,88.52,35.63,84.94,38.56,Pass,Team_B_Player_8,Midfielder,Team_B,1261487
+1435,1435,2,84,2,True,85.16,38.42,90.2,37.33,Attempt saved,Team_B_Player_14,Forward,Team_B,1261512
+1436,1436,2,84,2,True,13.23,35.22,13.23,35.22,Save,Team_A_Player_8,Striker,Team_A,1261523
+1437,1437,2,84,6,False,88.3,22.17,90.72,34.68,Pass,Team_B_Player_15,Defender,Team_B,1261612
+1438,1438,2,84,13,True,73.08,2.31,55.44,9.11,Pass,Team_B_Player_6,Midfielder,Team_B,1261787
+1439,1439,2,84,16,True,57.01,17.61,57.01,45.63,Pass,Team_B_Player_19,Defender,Team_B,1261862
+1440,1440,2,84,20,True,58.91,49.3,64.58,64.6,Pass,Team_B_Player_1,Defender,Team_B,1261963
+1441,1441,2,84,22,True,63.84,62.22,67.41,47.33,Pass,Team_B_Player_20,Forward,Team_B,1262012
+1442,1442,2,84,26,True,66.57,49.91,72.14,53.04,Pass,Team_B_Player_7,Midfielder,Team_B,1262112
+1443,1443,2,84,27,False,71.5,52.77,68.35,41.41,Pass,Team_B_Player_3,Defender,Team_B,1262150
+1444,1444,2,84,29,True,32.34,29.44,36.54,23.94,Pass,Team_A_Player_5,Midfielder,Team_A,1262208
+1445,1445,2,84,30,True,38.74,25.36,38.74,25.36,Ball recovery,Team_A_Player_16,Forward,Team_A,1262212
+1446,1446,2,84,32,True,38.74,25.36,35.7,31.89,Pass,Team_A_Player_16,Forward,Team_A,1262262
+1447,1447,2,84,33,True,36.02,32.3,49.24,18.63,Pass,Team_A_Player_7,Midfielder,Team_A,1262293
+1448,1448,2,84,39,True,50.19,6.87,35.8,3.13,Pass,Team_A_Player_8,Striker,Team_A,1262437
+1449,1449,2,84,41,True,34.23,4.15,44.94,9.79,Pass,Team_A_Player_2,Defender,Team_A,1262511
+1450,1450,2,84,43,True,51.24,11.63,51.24,11.63,Take on,Team_A_Player_5,Midfielder,Team_A,1262561
+1451,1451,2,84,46,True,63.74,16.32,83.06,65.21,Pass,Team_A_Player_5,Midfielder,Team_A,1262612
+1452,1452,2,84,54,False,93.98,61.4,94.4,1.7,Pass,Team_A_Player_1,Defender,Team_A,1262813
+1453,1453,2,84,59,True,26.56,65.62,26.56,65.62,Ball recovery,Team_B_Player_3,Defender,Team_B,1262950
+1454,1454,2,84,59,True,26.56,65.62,38.54,65.01,Pass,Team_B_Player_3,Defender,Team_B,1262950
+1455,1455,2,85,1,False,37.38,65.08,29.3,51.2,Pass,Team_B_Player_20,Forward,Team_B,1262987
+1456,1456,2,85,4,True,77.28,18.56,77.28,18.56,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1263069
+1457,1457,2,85,4,False,78.65,18.77,89.15,22.03,Pass,Team_A_Player_7,Midfielder,Team_A,1263069
+1458,1458,2,85,4,True,17.85,46.85,17.85,46.85,Interception,Team_B_Player_1,Defender,Team_B,1263064
+1459,1459,2,85,6,True,21.94,49.37,21.94,49.37,Ball recovery,Team_B_Player_1,Defender,Team_B,1263129
+1460,1460,2,85,6,False,21.94,49.5,40.11,48.48,Pass,Team_B_Player_1,Defender,Team_B,1263129
+1461,1461,2,85,7,True,68.98,18.02,68.98,18.02,Interception,Team_A_Player_3,Defender,Team_A,1263159
+1462,1462,2,85,9,True,68.98,19.65,68.98,19.65,Ball recovery,Team_A_Player_3,Defender,Team_A,1263206
+1463,1463,2,85,9,True,68.46,21.08,48.51,37.88,Pass,Team_A_Player_3,Defender,Team_A,1263206
+1464,1464,2,85,12,True,48.51,38.76,61.95,58.0,Pass,Team_A_Player_4,Defender,Team_A,1263262
+1465,1465,2,85,17,False,67.83,68.54,67.83,68.54,Out,Team_A_Player_1,Defender,Team_A,1263387
+1466,1466,2,85,17,True,37.17,-0.54,37.17,-0.54,Out,Team_B_Player_1,Defender,Team_B,1263387
+1467,1467,2,86,20,False,32.24,0.0,68.67,7.0,Pass,Team_B_Player_15,Defender,Team_B,1264962
+1468,1468,2,86,24,True,38.43,65.08,38.43,65.08,Ball recovery,Team_A_Player_4,Defender,Team_A,1265073
+1469,1469,2,86,26,True,38.43,65.08,68.35,61.81,Pass,Team_A_Player_4,Defender,Team_A,1265136
+1470,1470,2,86,28,True,72.34,58.89,66.57,61.61,Pass,Team_A_Player_19,Forward,Team_A,1265162
+1471,1471,2,86,30,False,68.67,61.74,79.8,54.13,Pass,Team_A_Player_5,Midfielder,Team_A,1265212
+1472,1472,2,86,31,True,21.52,11.22,30.98,7.34,Pass,Team_B_Player_19,Defender,Team_B,1265237
+1473,1473,2,86,31,False,33.81,9.72,32.86,6.94,Pass,Team_B_Player_6,Midfielder,Team_B,1265256
+1474,1474,2,86,34,False,76.86,68.82,76.86,68.82,Out,Team_A_Player_5,Midfielder,Team_A,1265312
+1475,1475,2,86,34,True,28.14,-0.82,28.14,-0.82,Out,Team_B_Player_19,Defender,Team_B,1265312
+1476,1476,2,86,43,True,28.98,0.0,26.04,7.21,Pass,Team_B_Player_15,Defender,Team_B,1265537
+1477,1477,2,86,44,True,25.72,6.32,64.16,23.12,Pass,Team_B_Player_6,Midfielder,Team_B,1265569
+1478,1478,2,86,46,False,65.52,25.84,66.99,27.06,Pass,Team_B_Player_8,Midfielder,Team_B,1265635
+1479,1479,2,86,48,False,34.34,20.6,35.49,21.01,Pass,Team_A_Player_2,Defender,Team_A,1265680
+1480,1480,2,86,49,True,71.5,38.96,79.59,45.83,Pass,Team_B_Player_20,Forward,Team_B,1265687
+1481,1481,2,86,53,False,77.07,48.35,77.07,48.35,Take on,Team_B_Player_14,Forward,Team_B,1265787
+1482,1482,2,86,53,False,27.93,19.65,27.93,19.65,Tackle,Team_A_Player_2,Defender,Team_A,1265809
+1483,1483,2,86,54,True,24.99,18.77,26.04,20.6,Pass,Team_A_Player_3,Defender,Team_A,1265836
+1484,1484,2,86,55,False,28.98,19.24,28.98,19.24,Foul,Team_A_Player_7,Midfielder,Team_A,1265840
+1485,1485,2,87,42,True,80.01,47.06,103.85,34.48,Attempt saved,Team_B_Player_6,Midfielder,Team_B,1267021
+1486,1486,2,87,43,True,2.62,35.7,2.62,35.7,Save,Team_A_Player_0,Goalkeeper,Team_A,1267050
+1487,1487,2,87,43,True,2.62,35.7,2.62,35.7,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1267050
+1488,1488,2,88,2,False,5.14,33.59,87.26,39.37,Pass,Team_A_Player_0,Goalkeeper,Team_A,1267512
+1489,1489,2,88,7,True,19.74,30.06,19.74,30.06,Foul,Team_B_Player_19,Defender,Team_B,1267637
+1490,1490,2,88,7,False,85.26,37.94,85.26,37.94,Foul,Team_A_Player_16,Forward,Team_A,1267637
+1491,1491,2,88,11,True,18.06,25.36,25.83,53.11,Pass,Team_B_Player_19,Defender,Team_B,1267737
+1492,1492,2,88,14,True,28.98,53.65,41.58,63.78,Pass,Team_B_Player_1,Defender,Team_B,1267824
+1493,1493,2,88,16,True,43.36,63.51,38.32,53.11,Pass,Team_B_Player_3,Defender,Team_B,1267867
+1494,1494,2,88,17,True,32.13,52.56,26.67,64.6,Pass,Team_B_Player_18,Midfielder,Team_B,1267887
+1495,1495,2,88,21,True,32.86,61.0,45.46,65.28,Pass,Team_B_Player_1,Defender,Team_B,1267987
+1496,1496,2,88,25,True,55.12,62.97,35.18,57.46,Pass,Team_B_Player_20,Forward,Team_B,1268087
+1497,1497,2,88,27,True,38.01,58.89,33.29,30.46,Pass,Team_B_Player_1,Defender,Team_B,1268154
+1498,1498,2,88,34,True,39.38,27.27,49.46,50.8,Pass,Team_B_Player_19,Defender,Team_B,1268312
+1499,1499,2,88,39,True,60.79,54.88,71.71,65.62,Pass,Team_B_Player_1,Defender,Team_B,1268437
+1500,1500,2,88,43,False,69.09,64.46,68.88,58.96,Pass,Team_B_Player_20,Forward,Team_B,1268537
+1501,1501,2,88,44,True,42.42,10.95,42.42,10.95,Interception,Team_A_Player_5,Midfielder,Team_A,1268580
+1502,1502,2,88,44,True,35.6,6.32,35.6,6.32,Ball recovery,Team_A_Player_2,Defender,Team_A,1268580
+1503,1503,2,88,45,True,36.12,7.07,43.68,8.64,Pass,Team_A_Player_2,Defender,Team_A,1268588
+1504,1504,2,88,47,True,65.1,62.36,65.1,62.36,Ball recovery,Team_B_Player_18,Midfielder,Team_B,1268637
+1505,1505,2,88,50,True,61.53,60.18,51.14,45.08,Pass,Team_B_Player_18,Midfielder,Team_B,1268712
+1506,1506,2,88,54,True,54.39,45.9,68.88,64.67,Pass,Team_B_Player_7,Midfielder,Team_B,1268817
+1507,1507,2,88,59,False,75.91,50.93,99.75,44.88,Pass,Team_B_Player_20,Forward,Team_B,1268937
+1508,1508,2,89,8,True,3.68,23.87,3.68,23.87,Keeper pick-up,Team_A_Player_0,Goalkeeper,Team_A,1269186
+1509,1509,2,89,17,False,14.28,30.06,72.97,41.41,Pass,Team_A_Player_0,Goalkeeper,Team_A,1269411
+1510,1510,2,89,20,True,37.8,28.63,37.8,28.63,Ball recovery,Team_B_Player_19,Defender,Team_B,1269462
+1511,1511,2,89,22,True,37.8,28.63,48.61,24.75,Pass,Team_B_Player_19,Defender,Team_B,1269512
+1512,1512,2,89,24,True,48.82,24.62,90.3,16.66,Pass,Team_B_Player_6,Midfielder,Team_B,1269562
+1513,1513,2,89,27,False,95.76,24.28,95.76,24.28,Take on,Team_B_Player_14,Forward,Team_B,1269637
+1514,1514,2,89,29,True,9.24,43.72,9.24,43.72,Tackle,Team_A_Player_4,Defender,Team_A,1269689
+1515,1515,2,89,30,False,7.98,41.68,7.98,41.68,Corner awarded,Team_A_Player_4,Defender,Team_A,1269712
+1516,1516,2,89,30,True,97.02,26.32,97.02,26.32,Corner awarded,Team_B_Player_14,Forward,Team_B,1269712
+1517,1517,2,89,46,True,104.48,0.34,97.23,3.94,Pass,Team_B_Player_6,Midfielder,Team_B,1270112
+1518,1518,2,89,49,True,99.33,7.89,89.25,11.76,Pass,Team_B_Player_14,Forward,Team_B,1270187
+1519,1519,2,89,51,False,89.15,11.97,95.55,45.08,Pass,Team_B_Player_6,Midfielder,Team_B,1270241
+1520,1520,2,89,54,True,29.08,28.7,29.08,28.7,Ball recovery,Team_A_Player_8,Striker,Team_A,1270336
+1521,1521,2,89,55,True,70.88,33.12,60.9,40.94,Pass,Team_B_Player_20,Forward,Team_B,1270337
+1522,1522,2,89,57,True,61.32,44.0,61.32,44.0,Ball recovery,Team_B_Player_18,Midfielder,Team_B,1270387
+1523,1523,2,89,58,True,61.0,44.27,67.52,51.95,Pass,Team_B_Player_18,Midfielder,Team_B,1270412
+1524,1524,2,90,2,True,72.55,53.86,90.72,63.38,Pass,Team_B_Player_20,Forward,Team_B,1270512
+1525,1525,2,90,4,True,90.4,63.44,76.12,57.32,Pass,Team_B_Player_3,Defender,Team_B,1270562
+1526,1526,2,90,8,False,76.23,52.02,105.0,26.18,Pass,Team_B_Player_20,Forward,Team_B,1270662
+1527,1527,2,90,11,True,-0.84,41.89,-0.84,41.89,Out,Team_A_Player_6,Midfielder,Team_A,1270737
+1528,1528,2,90,11,False,105.84,26.11,105.84,26.11,Out,Team_B_Player_20,Forward,Team_B,1270737
+1529,1529,2,90,39,True,5.14,32.5,67.83,48.82,Pass,Team_A_Player_0,Goalkeeper,Team_A,1271453
+1530,1530,2,90,43,False,67.94,48.82,87.78,42.57,Pass,Team_A_Player_16,Forward,Team_A,1271537
+1531,1531,2,90,46,True,21.42,21.69,21.42,21.69,Ball recovery,Team_B_Player_1,Defender,Team_B,1271626
+1532,1532,2,90,46,True,21.32,21.9,8.93,32.71,Pass,Team_B_Player_1,Defender,Team_B,1271626
+1533,1533,2,90,48,True,10.5,33.18,24.04,29.44,Pass,Team_B_Player_0,Goalkeeper,Team_B,1271672
+1534,1534,2,90,49,True,24.36,28.63,10.18,25.77,Pass,Team_B_Player_18,Midfielder,Team_B,1271687
+1535,1535,2,90,51,True,10.71,25.02,43.47,50.32,Pass,Team_B_Player_1,Defender,Team_B,1271756
+1536,1536,2,90,54,False,42.53,65.28,43.78,62.76,Pass,Team_B_Player_20,Forward,Team_B,1271812
+1537,1537,2,90,55,True,47.46,49.3,63.1,59.91,Pass,Team_B_Player_3,Defender,Team_B,1271861
+1538,1538,2,90,59,True,35.6,4.56,54.5,1.56,Pass,Team_A_Player_3,Defender,Team_A,1271951
+1539,1539,2,90,59,True,57.12,2.11,57.12,2.11,Ball recovery,Team_A_Player_2,Defender,Team_A,1271961
+1540,1540,2,91,5,False,72.97,6.05,90.51,6.05,Pass,Team_A_Player_2,Defender,Team_A,1272087
+1541,1541,2,91,8,False,90.09,-0.95,90.09,-0.95,Out,Team_A_Player_11,Forward,Team_A,1272162
+1542,1542,2,91,8,True,14.91,68.95,14.91,68.95,Out,Team_B_Player_1,Defender,Team_B,1272162
+1543,1543,2,91,21,True,15.64,68.0,15.22,58.28,Pass,Team_B_Player_3,Defender,Team_B,1272487
+1544,1544,2,91,27,True,17.74,56.3,36.02,22.71,Pass,Team_B_Player_1,Defender,Team_B,1272637
+1545,1545,2,91,30,True,38.54,23.19,65.0,4.62,Pass,Team_B_Player_6,Midfielder,Team_B,1272712
+1546,1546,2,91,35,True,79.8,5.64,79.8,13.53,Pass,Team_B_Player_15,Defender,Team_B,1272837
+1547,1547,2,91,36,True,76.44,13.74,76.44,13.74,Dispossessed,Team_B_Player_14,Forward,Team_B,1272862
+1548,1548,2,91,37,True,28.56,54.26,28.56,54.26,Tackle,Team_A_Player_7,Midfielder,Team_A,1272893
+1549,1549,2,91,38,True,28.98,57.87,28.98,57.87,Ball recovery,Team_A_Player_7,Midfielder,Team_A,1272912
+1550,1550,2,91,40,False,30.66,63.99,46.62,53.52,Pass,Team_A_Player_7,Midfielder,Team_A,1272986
+1551,1551,2,91,41,True,58.91,10.68,58.91,10.68,Ball recovery,Team_B_Player_18,Midfielder,Team_B,1272987
+1552,1552,2,91,43,True,57.22,10.06,27.62,16.39,Pass,Team_B_Player_18,Midfielder,Team_B,1273037
+1553,1553,2,91,46,True,26.04,18.22,29.72,39.1,Pass,Team_B_Player_19,Defender,Team_B,1273112
+1554,1554,2,91,50,True,31.08,42.43,43.58,62.15,Pass,Team_B_Player_1,Defender,Team_B,1273213
+1555,1555,2,91,53,True,53.24,62.36,66.57,66.84,Pass,Team_B_Player_3,Defender,Team_B,1273299
+1556,1556,2,92,2,True,50.19,49.57,54.28,23.6,Pass,Team_B_Player_20,Forward,Team_B,1273512
+1557,1557,2,92,4,True,54.28,23.6,41.79,24.0,Pass,Team_B_Player_6,Midfielder,Team_B,1273578
+1558,1558,2,92,6,True,43.05,25.43,55.65,28.02,Pass,Team_B_Player_19,Defender,Team_B,1273612
+1559,1559,2,92,11,True,55.65,29.51,65.52,3.2,Pass,Team_B_Player_6,Midfielder,Team_B,1273737
+1560,1560,2,92,25,True,101.64,2.72,101.64,2.72,Dispossessed,Team_B_Player_14,Forward,Team_B,1274087
+1561,1561,2,92,26,True,3.36,65.28,3.36,65.28,Tackle,Team_A_Player_1,Defender,Team_A,1274121
+1562,1562,2,92,26,False,6.51,68.68,6.51,68.68,Out,Team_A_Player_11,Forward,Team_A,1274112
+1563,1563,2,92,26,True,98.49,-0.68,98.49,-0.68,Out,Team_B_Player_14,Forward,Team_B,1274112
+1564,1564,2,92,31,True,99.96,0.0,79.9,3.54,Pass,Team_B_Player_14,Forward,Team_B,1274237
+1565,1565,2,92,34,True,76.76,4.22,76.76,4.22,Foul,Team_B_Player_6,Midfielder,Team_B,1274312
+1566,1566,2,92,34,False,28.24,63.78,28.24,63.78,Foul,Team_A_Player_19,Forward,Team_A,1274312
+1567,1567,2,92,40,True,70.66,3.6,82.42,2.99,Pass,Team_B_Player_19,Defender,Team_B,1274462
+1568,1568,2,92,43,False,82.0,3.33,95.76,44.06,Pass,Team_B_Player_15,Defender,Team_B,1274537
+1569,1569,2,92,48,True,34.02,19.24,25.1,2.99,Pass,Team_A_Player_5,Midfielder,Team_A,1274667
+1570,1570,2,92,51,True,25.1,2.99,25.1,2.99,Ball recovery,Team_A_Player_11,Forward,Team_A,1274737
+1571,1571,2,92,51,False,24.04,2.52,21.42,5.78,Pass,Team_A_Player_11,Forward,Team_A,1274737
+1572,1572,2,92,52,True,92.4,56.1,92.4,56.1,Ball recovery,Team_B_Player_20,Forward,Team_B,1274762
+1573,1573,2,92,54,False,97.02,53.04,97.02,53.04,Take on,Team_B_Player_20,Forward,Team_B,1274812
+1574,1574,2,92,55,True,5.88,16.25,4.62,19.38,Pass,Team_A_Player_11,Forward,Team_A,1274837
+1575,1575,2,92,57,False,23.52,-0.95,23.52,-0.95,Out,Team_A_Player_4,Defender,Team_A,1274887
+1576,1576,2,92,57,True,81.48,68.95,81.48,68.95,Out,Team_B_Player_20,Forward,Team_B,1274887
+1577,1577,2,93,1,True,85.16,68.0,70.77,62.02,Pass,Team_B_Player_3,Defender,Team_B,1274987
+1578,1578,2,93,5,True,67.52,60.52,75.08,65.69,Pass,Team_B_Player_18,Midfielder,Team_B,1275087
+1579,1579,2,93,8,True,74.86,64.19,98.18,24.55,Pass,Team_B_Player_3,Defender,Team_B,1275162
+1580,1580,2,93,10,False,98.18,24.55,92.72,39.1,Pass,Team_B_Player_15,Defender,Team_B,1275212
+1581,1581,2,93,16,True,67.52,38.15,72.76,37.33,Pass,Team_B_Player_1,Defender,Team_B,1275369
+1582,1582,2,93,18,True,72.76,37.47,66.36,51.61,Pass,Team_B_Player_18,Midfielder,Team_B,1275412
+1583,1583,2,93,21,True,64.58,50.59,74.66,64.4,Pass,Team_B_Player_3,Defender,Team_B,1275494
+1584,1584,2,93,27,True,66.99,57.94,68.35,27.68,Pass,Team_B_Player_20,Forward,Team_B,1275637
+1585,1585,2,93,32,True,77.91,18.84,98.38,17.2,Pass,Team_B_Player_6,Midfielder,Team_B,1275765
+1586,1586,2,93,35,False,102.27,21.28,99.44,26.18,Pass,Team_B_Player_15,Defender,Team_B,1275837
+1587,1587,2,93,35,False,-0.94,45.7,-0.94,45.7,Out,Team_A_Player_4,Defender,Team_A,1275842
+1588,1588,2,93,35,True,105.94,22.3,105.94,22.3,Out,Team_B_Player_15,Defender,Team_B,1275837
